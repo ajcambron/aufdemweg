@@ -11,3 +11,4 @@
 - Use the configured callouts for recurring box types: `vocab` (Wortschatz), `grammar` (Grammatik), `culture` (Landeskunde), `note`, `important`, `warning`, `discussion`, `reflection`, `good`, `highlight`.
 - Every page needs front matter with `title` and, for sections, `nav_order` / `parent` / `has_children` per Just the Docs.
 - Word banks for fill-in-the-blank worksheets are alphabetized and placed once, before all questions.
+- Lesson design follows `_planning/lesson-frameworks.md` (task first; Wortschatz → Grammatik → Arbeitsblatt A–E → Zusammenfassung). Start new pages from `_planning/page-template.md`. Read the framework before building any page.
