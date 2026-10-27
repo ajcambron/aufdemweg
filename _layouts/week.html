@@ -1,0 +1,86 @@
+---
+layout: default
+---
+{%- comment -%}
+  Week page for Weeks 6+, rendered entirely from _data/weeks/{page.data}.yml,
+  the same file scripts/build-packet.py turns into the student packet, so the
+  page and the PDF can't drift apart. Weeks 1-5 are hand-written pages.
+{%- endcomment -%}
+{%- assign d = site.data.weeks[page.data] -%}
+{%- assign p = d.page -%}
+{%- assign letters = "a,b,c,d,e,f,g,h" | split: "," -%}
+<h1>Woche {{ d.week }} | {{ d.theme }}</h1>
+<p class="fs-5 text-grey-dk-000">{{ d.date | date: "%B %-d, %Y" }}</p>
+
+<h2 id="auf-einen-blick">Auf einen Blick</h2>
+<table>
+  <thead><tr><th>A1/A2 can-do</th><th>B1/B2 can-do</th></tr></thead>
+  <tbody><tr><td>{{ d.cando.a1 }}</td><td>{{ d.cando.b1b2 }}</td></tr></tbody>
+</table>
+{{ p.summary | prepend: "**Kernaufgabe:** " | markdownify }}
+{%- if p.note %}
+<blockquote class="{{ p.note.type | default: 'note' }}">{{ p.note.text | markdownify }}</blockquote>
+{%- endif %}
+<p class="fs-3"><strong>AP-Brücke:</strong> {{ d.ap.unit }} · {{ d.ap.mode }}. {{ d.ap.note }}</p>
+
+<h2 id="ablauf">Ablauf</h2>
+{% include week-plan.html modules=p.modules materials=p.materials %}
+{%- if p.einstieg %}
+<p><strong>Einstieg idea:</strong> {{ p.einstieg | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+{%- endif %}
+
+<h2 id="grammatik">Grammatik</h2>
+{{ p.grammar | markdownify }}
+<blockquote class="warning">{{ p.achtung | markdownify }}</blockquote>
+{%- if p.b2 %}
+{{ p.b2 | markdownify }}
+{%- endif %}
+
+<h2 id="wortschatz">Wortschatz</h2>
+<table>
+  <thead><tr><th>Deutsch</th><th>English</th></tr></thead>
+  <tbody>
+  {%- for b in d.builder %}{% for row in b.rows %}
+    <tr><td>{{ row[0] }}</td><td>{{ row[1] }}</td></tr>
+  {%- endfor %}{% endfor %}
+  {%- for row in p.vocab_extra %}
+    <tr><td>{{ row[0] }}</td><td>{{ row[1] }}</td></tr>
+  {%- endfor %}
+  </tbody>
+</table>
+
+<h2 id="arbeitsblatt">Arbeitsblatt</h2>
+{%- capture packet_title %}Woche {{ d.week }} Packet: {{ d.theme }}{% endcapture %}
+{%- capture packet_file %}woche-{{ page.data | remove: 'woche-' }}-packet{% endcapture %}
+{% include worksheet.html file=packet_file title=packet_title %}
+<p>Packet order: Sentence Builder, Vokabelaufbau, Lesen, Achte auf die Form, Kernaufgabe, Structured Output, Landeskunde, Exit Ticket, then the optional Energizer, B1/B2 Extension and Buffer.</p>
+
+<h2 id="loesungen">Lösungen</h2>
+<details class="answer-key">
+<summary>Answer key</summary>
+
+<p><strong>Vokabelaufbau, Übung 1 (fill-in):</strong>
+{%- for item in d.vocab.complete %} {{ letters[forloop.index0] }}. {{ item[2] }}{% unless forloop.last %} ·{% endunless %}{% endfor %}</p>
+
+<p><strong>Vokabelaufbau, Übung 2 (match-up):</strong>
+{%- for pair in d.vocab.match %}{% assign j = forloop.index %}{% for o in d.vocab.match_order %}{% if o == j %} {{ j }}-{{ letters[forloop.index0] }}{% endif %}{% endfor %}{% unless forloop.last %},{% endunless %}{% endfor %}</p>
+
+<p><strong>Übung 3 (translate):</strong></p>
+<ol type="a">{% for t in d.vocab.translate %}<li>{{ t[1] }}</li>{% endfor %}</ol>
+
+<p><strong>Lesen A1/A2:</strong></p>
+<ol type="a">{% for q in d.reading.a1.questions %}<li>{{ q[1] }}</li>{% endfor %}</ol>
+<p><strong>Lesen B1/B2:</strong></p>
+<ol type="a">{% for q in d.reading.b1.questions %}<li>{{ q[1] }}</li>{% endfor %}</ol>
+
+<p><strong>Achte auf die Form, A:</strong>
+{%- for item in d.structured_input.ref.items %} {{ forloop.index }}. {{ item[1] }}{% unless forloop.last %} ·{% endunless %}{% endfor %}<br>
+<em>Part B has no right answers: students mark what's true for them.</em></p>
+
+{%- if d.extension.questions %}
+<p><strong>B1/B2 Extension:</strong></p>
+<ol type="a">{% for q in d.extension.questions %}<li>{{ q[1] }}</li>{% endfor %}</ol>
+{%- endif %}
+
+<p><em>Missing-letter, broken-word and "suitable word" items are self-checking or open. Accept any correct answer that fits the meaning.</em></p>
+</details>

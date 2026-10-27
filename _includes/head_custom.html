@@ -13,6 +13,12 @@
     font-family: "Instrument Serif", Georgia, "Times New Roman", serif;
     font-style: italic;
   }
+  /* callouts rendered as blockquotes (week layout) keep body type */
+  blockquote[class] {
+    font-family: inherit;
+    font-style: normal;
+  }
+  blockquote[class] > p:last-child { margin-bottom: 0; }
 
   .worksheet-card {
     display: flex;

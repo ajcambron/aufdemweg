@@ -1,0 +1,212 @@
+week: 6
+date: 2026-11-01
+date_label: "Sonntag, 1. November 2026"
+theme: "Schule & Stundenplan"
+cando:
+  a1: "describe my school day and schedule and tell the time"
+  b1b2: "compare the German and US school systems and give reasons"
+grammar_focus: "Telling time (halb neun = 8:30!) and verb second after a time phrase: Am Montag habe ich Mathe."
+ap:
+  unit: "AP theme: Contemporary Life (education)"
+  mode: "Interpersonal speaking + interpretive reading"
+  note: "The extension reads a data chart with German number formats (42,5 %), an AP Area of Challenge."
+
+builder:
+  - title: "Mein Schultag (My school day)"
+    rows:
+      - ["Am Montag habe ich ...", "On Monday I have ..."]
+      - ["In der ersten / zweiten Stunde habe ich ...", "First / second period I have ..."]
+      - ["Die Schule beginnt um ... Uhr.", "School starts at ... o'clock."]
+      - ["Die Schule ist um ... Uhr aus.", "School is out at ... o'clock."]
+      - ["Ich finde Bio interessant / langweilig / schwer / leicht.", "I find biology interesting / boring / hard / easy."]
+      - ["Mein Lieblingsfach ist ..., weil ... [B1/B2]", "My favorite subject is ..., because ..."]
+      - ["die Pause / die Mittagspause / die Hausaufgaben", "break / lunch break / homework"]
+  - title: "Fächer und Uhrzeit (Subjects and time)"
+    rows:
+      - ["Mathe, Deutsch, Englisch, Bio, Chemie, Physik", "math, German, English, biology, chemistry, physics"]
+      - ["Geschichte, Erdkunde, Kunst, Musik, Sport", "history, geography, art, music, PE"]
+      - ["Wie spät ist es? / Um wie viel Uhr ...?", "What time is it? / At what time ...?"]
+      - ["Es ist acht Uhr. / Es ist Viertel nach acht.", "It's 8:00. / It's 8:15."]
+      - ["Es ist halb neun.", "It's 8:30. (literally: half to nine)"]
+      - ["Es ist Viertel vor neun.", "It's 8:45."]
+
+vocab:
+  complete:
+    - ["Am Montag ___ ich Mathe.", "On Monday I have math.", "habe"]
+    - ["Die Schule ___ um acht Uhr.", "School starts at eight.", "beginnt"]
+    - ["Mein ___ ist Kunst.", "My favorite subject is art.", "Lieblingsfach"]
+    - ["Es ist ___ neun.", "It's 8:30.", "halb"]
+    - ["In der ersten ___ habe ich Deutsch.", "First period I have German.", "Stunde"]
+    - ["Wir haben heute viele ___.", "We have a lot of homework today.", "Hausaufgaben"]
+  match:
+    - ["die Stunde", "class period"]
+    - ["das Fach", "subject"]
+    - ["die Pause", "break"]
+    - ["langweilig", "boring"]
+    - ["der Stundenplan", "schedule"]
+    - ["schwer", "hard, difficult"]
+  match_order: [4, 1, 5, 2, 6, 3]
+  translate:
+    - ["Die Schule beginnt um halb acht.", "School starts at 7:30."]
+    - ["Am Dienstag habe ich Sport.", "On Tuesday I have PE."]
+    - ["Mein Lieblingsfach ist Geschichte.", "My favorite subject is history."]
+    - ["Ich finde Chemie schwer.", "I find chemistry hard."]
+    - ["In der Pause esse ich ein Brot.", "At break I eat a sandwich."]
+    - ["Um ein Uhr ist die Schule aus.", "School is out at one o'clock."]
+    - ["Wir haben heute keine Hausaufgaben.", "We have no homework today."]
+    - ["Wie spät ist es?", "What time is it?"]
+  letters: ["Stundenplan", "Mathe", "Geschichte", "Erdkunde", "langweilig", "Pause", "Hausaufgaben", "Lieblingsfach"]
+  broken:
+    - ["Am Montag habe ich Mathe.", "On Monday I have math."]
+    - ["Die Schule beginnt um acht Uhr.", "School starts at eight o'clock."]
+    - ["Mein Lieblingsfach ist Kunst, weil ich gern male.", "My favorite subject is art because I like to paint."]
+    - ["In der Pause spiele ich Fußball.", "At break I play soccer."]
+  suitable:
+    - "Am Mittwoch habe ich ___."
+    - "Ich finde Mathe ___."
+    - "Die Schule beginnt um ___ Uhr."
+    - "Mein Lieblingsfach ist ___."
+    - "In der Pause ___ ich ___."
+    - "Nach der Schule ___ ich ___."
+
+reading:
+  a1:
+    texts:
+      - ["Mia", "Ich heiße Mia und ich gehe auf die Newark High School. Die Schule beginnt um halb acht und ist um halb drei aus. Ich habe jeden Tag Mathe, Englisch und Bio. Mein Lieblingsfach ist Kunst. Die Mittagspause ist um elf Uhr. Das ist sehr früh!"]
+      - ["Lukas", "Ich heiße Lukas und ich gehe auf ein Gymnasium in Köln. Die Schule beginnt um Viertel vor acht. Am Montag habe ich sechs Stunden: Deutsch, Mathe, Englisch, Bio, Geschichte und Sport. Um Viertel nach eins ist die Schule aus. Dann esse ich zu Hause."]
+    questions:
+      - ["When does Mia's school start?", "7:30 (halb acht)"]
+      - ["What is Mia's favorite subject?", "Art"]
+      - ["When is school out for Lukas on Monday?", "1:15 (Viertel nach eins)"]
+      - ["Where does Lukas eat lunch?", "At home"]
+  b1:
+    texts:
+      - ["Hannah", "Ich bin in der zehnten Klasse auf einem Gymnasium in Hamburg. Mein Stundenplan ist jeden Tag anders: Am Montag habe ich bis 13:15 Uhr Unterricht, aber am Donnerstag bis 16 Uhr, weil wir nachmittags Chemie und Physik haben. Unsere Noten gehen von 1 bis 6, und eine 1 ist die beste Note. Eine 5 in Mathe ist also wirklich schlecht!"]
+      - ["Elias", "Ich gehe auf eine Realschule in der Nähe von Stuttgart. Nach der zehnten Klasse möchte ich eine Ausbildung als Mechatroniker machen. Viele meiner Freunde machen das auch. In der Schule finde ich Technik und Mathe am wichtigsten, weil ich sie später im Beruf brauche. Sport habe ich nur zweimal pro Woche, und eine Schulmannschaft wie in den USA gibt es bei uns nicht."]
+    questions:
+      - ["Warum hat Hannah am Donnerstag länger Schule?", "Weil sie nachmittags Chemie und Physik hat."]
+      - ["Welche Note ist in Deutschland die beste?", "Die 1."]
+      - ["Was möchte Elias nach der zehnten Klasse machen?", "Eine Ausbildung als Mechatroniker."]
+      - ["Was gibt es an Elias' Schule nicht?", "Eine Schulmannschaft (wie in den USA)."]
+
+structured_input:
+  ref:
+    directions: "Lies den Satz. Welche Uhrzeit ist das? (Read. Which time is it?)"
+    items:
+      - ["Die Schule beginnt um halb acht.", "7:30", ["7:30", "8:30"]]
+      - ["Lukas isst um Viertel nach eins.", "1:15", ["12:45", "1:15"]]
+      - ["Mathe ist um Viertel vor zehn.", "9:45", ["9:45", "10:15"]]
+      - ["Die Pause ist um halb elf.", "10:30", ["10:30", "11:30"]]
+      - ["Am Freitag ist die Schule um halb zwei aus.", "1:30", ["2:30", "1:30"]]
+  aff:
+    directions: "Was stimmt für dich? (What is true for you?)"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Am Montag habe ich Mathe."
+      - "In der ersten Stunde bin ich noch müde."
+      - "Mein Lieblingsfach ist Sport."
+      - "Die Schule beginnt zu früh."
+      - "Ich habe jeden Tag Hausaufgaben."
+
+task:
+  title: "Stundenplan-Vergleich (Compare schedules)"
+  format: "Partner interview + comparison"
+  directions: "Interview your partner about their real Monday schedule and fill in the grid. Ask: Was hast du in der ersten Stunde? Um wie viel Uhr beginnt die Schule? Wann ist die Schule aus? Then compare your partner's Monday with Lukas's Stundenplan and write three differences."
+  a1: "Write the subject and time for each period. Use the questions as given."
+  b1: "Also ask Wie findest du das Fach? Warum? Write the three differences as aber-sentences: Lukas hat ..., aber meine Partnerin hat ..."
+  tables:
+    - title: "Der Stundenplan von Lukas (Gymnasium, Köln)"
+      head: ["Stunde", "Uhrzeit", "Mo", "Di", "Mi", "Do", "Fr"]
+      rows:
+        - ["1", "7:45–8:30", "Deutsch", "Mathe", "Englisch", "Bio", "Deutsch"]
+        - ["2", "8:35–9:20", "Mathe", "Mathe", "Deutsch", "Bio", "Geschichte"]
+        - ["3", "9:40–10:25", "Englisch", "Kunst", "Erdkunde", "Mathe", "Englisch"]
+        - ["4", "10:30–11:15", "Bio", "Kunst", "Erdkunde", "Englisch", "Mathe"]
+        - ["5", "11:40–12:25", "Geschichte", "Deutsch", "Sport", "Chemie", "Musik"]
+        - ["6", "12:30–13:15", "Sport", "Religion", "Sport", "Chemie", "Musik"]
+    - title: "Mein Partner / Meine Partnerin: Montag"
+      head: ["Stunde", "Uhrzeit", "Fach", "Wie findet er/sie das Fach?"]
+      blank: 7
+    - title: "Drei Unterschiede (three differences)"
+      head: ["Bei Lukas ...", "Bei meinem Partner / meiner Partnerin ..."]
+      blank: 3
+
+output:
+  a1: "Write about your own Monday: Am Montag habe ich in der ersten Stunde ___. Die Schule beginnt um ___. Mein Lieblingsfach ist ___. Read it to a partner. For each sentence they say „Ich auch!“ or „Ich nicht!“"
+  b1: "Write five sentences comparing your school with Lukas's or Hannah's. Start at least three of them with a time phrase (Am Montag ..., Um halb drei ..., Nach der Schule ...), so the verb comes second. Your partner reads them and circles the difference that surprises them most."
+
+landeskunde:
+  title: "Das deutsche Schulsystem"
+  text: |
+    After four years of Grundschule (ages 6–10), German students split up. The Gymnasium leads to the Abitur, the exam that opens the door to university. The Realschule ends after grade 10 and often leads to an Ausbildung, a paid apprenticeship. A Gesamtschule combines both paths under one roof. In most states, the elementary school recommends which school a child should attend.
+
+    School often ends around 1:00 pm. There are usually no school sports teams; sports happen in local clubs (Vereine). Grades run from 1 (sehr gut) to 6 (ungenügend). And on the very first day of school, first graders carry a Schultüte, a big paper cone full of treats and supplies.
+  warum: "Germany sorts students into different schools at about age 10. What does that say about how Germans connect school and careers? (Look at Elias's text.)"
+  vergleich: "In the US, almost everyone goes to the same high school. Name one advantage and one disadvantage of each system."
+
+exit:
+  a1: "Ich kann meinen Stundenplan beschreiben und die Uhrzeit sagen."
+  b1: "Ich kann das deutsche und das amerikanische Schulsystem vergleichen."
+
+energizer:
+  title: "Uhrzeit-Staffel (clock relay)"
+  text: "Two teams line up facing the board. The instructor calls out a time in German (Es ist Viertel vor drei!). The first student from each team runs up and draws a clock showing that time. First correct clock wins the point; the next pair goes. Use plenty of halb times."
+
+extension:
+  title: "Wie kommst du zur Schule?"
+  intro: "Lies den Text und die Tabelle. Achtung: Im Deutschen schreibt man Kommazahlen mit Komma (42,5 %), nicht mit Punkt."
+  text: "Eine Schülerzeitung in Köln hat 200 Schülerinnen und Schüler gefragt: Wie kommst du zur Schule? Die meisten fahren mit dem Bus oder der Bahn. Viele kommen mit dem Fahrrad, auch im Winter. Nur wenige Eltern bringen ihre Kinder mit dem Auto, denn die Schule liegt mitten in der Stadt und es gibt kaum Parkplätze."
+  table:
+    head: ["Verkehrsmittel", "Prozent"]
+    rows:
+      - ["mit dem Bus / der Bahn", "42,5 %"]
+      - ["mit dem Fahrrad", "27,5 %"]
+      - ["zu Fuß", "18 %"]
+      - ["mit dem Auto (Eltern)", "12 %"]
+  questions:
+    - ["Wie kommen die meisten Schüler zur Schule?", "Mit dem Bus oder der Bahn (42,5 %)."]
+    - ["Wie viel Prozent fahren mit dem Fahrrad? Sag die Zahl laut.", "27,5 %: siebenundzwanzig Komma fünf Prozent."]
+    - ["Warum bringen nur wenige Eltern ihre Kinder mit dem Auto?", "Die Schule liegt mitten in der Stadt, und es gibt kaum Parkplätze."]
+    - ["Wie kommen die Schüler an deiner Schule zur Schule? Vergleiche.", "Open answer."]
+
+buffer: "A second interview round with a new partner, or Mein Traum-Stundenplan: students design their dream schedule and present it in three sentences."
+
+page:
+  modules:
+    einstieg: "Clock-face warm-up: either/or time questions"
+    input: "Sentence builder + narrow reading (Mia & Lukas, Hannah & Elias) + Achte auf die Form"
+    kernaufgabe: "Stundenplan-Vergleich: interview a partner, compare with Lukas"
+    landeskunde: "Das deutsche Schulsystem"
+    energizer: "Uhrzeit-Staffel (clock relay)"
+    extension: "Wie kommst du zur Schule? (reading a chart)"
+    buffer: "Second interview round, or Traum-Stundenplan"
+  einstieg: "Draw three clocks on the board (8:00, 8:30, 7:45). Say each time in German, then ask either/or questions: *Ist das halb acht oder halb neun?* Students answer with one word. This front-loads the *halb* trap before they meet it in the reading."
+  materials:
+    - "Student packet, one per student"
+    - "Whiteboard for the clock relay"
+  summary: "Stundenplan-Vergleich. Students interview a partner about their real Monday schedule and fill in a grid, then compare it with Lukas's German schedule printed in the packet and write three differences. B1/B2 also ask how the partner likes each subject and write the differences as *aber*-sentences."
+  note:
+    type: note
+    text: "Two things surprise US students and are worth a few minutes of discussion: German school often ends around 1:00, and there are no school sports teams. Let the reading texts surface them instead of announcing them up front."
+  grammar: |
+    **Telling time.** Full and quarter hours work like English: *acht Uhr*, *Viertel nach acht* (8:15), *Viertel vor neun* (8:45). The one that trips everyone up is **halb**: Germans count toward the next hour, so ***halb neun* is 8:30**, not 9:30. Timetables use the 24-hour clock: *13:15 Uhr* is read *dreizehn Uhr fünfzehn*.
+
+    **Verb second after a time phrase.** The conjugated verb is always the second *element* of the sentence, not the second word. When a sentence opens with a time phrase, the subject moves behind the verb:
+
+    | 1st element | Verb | Subject | Rest |
+    | :--- | :--- | :--- | :--- |
+    | Ich | habe | | am Montag Mathe. |
+    | Am Montag | habe | ich | Mathe. |
+    | In der ersten Stunde | habe | ich | Deutsch. |
+    | Um halb acht | beginnt | die Schule. | |
+  achtung: "**What students will do:** read *halb neun* as 9:30, and say *„Am Montag ich habe Mathe.“* The time mistake changes the meaning, which is why all five Achte-auf-die-Form items test *halb* and *Viertel*. The word-order mistake doesn't block meaning, so restate it: *„Ah, am Montag hast du Mathe!“*"
+  b2: "**If a B2 asks:** *Stunde* is a class period (45 minutes in Germany) and *Uhr* is clock time, so *Um wie viel Uhr?* asks when and *Wie viele Stunden?* asks how many periods. Subjects take no article after *haben*: *Ich habe Mathe*. The extension's chart is invented example data, not a real survey."
+  vocab_extra:
+    - ["der Stundenplan", "class schedule"]
+    - ["das Fach / das Lieblingsfach", "subject / favorite subject"]
+    - ["die Stunde", "class period"]
+    - ["die Note", "grade"]
+    - ["das Gymnasium / die Realschule", "academic high school / middle-track secondary school"]
+    - ["das Abitur", "university-entrance exam"]
+    - ["die Ausbildung", "apprenticeship, vocational training"]
+    - ["die Schultüte", "first-day-of-school cone of treats"]

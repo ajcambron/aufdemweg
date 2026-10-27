@@ -2,9 +2,11 @@
   Renders a week page's "Ablauf" (run of show): the nine-module table from
   page.modules, then materials. Minutes and Core/Optional are fixed by the
   packet model, so a page lists only each module's content for that week.
-  Usage: {% include week-plan.html %}
+  Usage: {% include week-plan.html %} (reads page.modules / page.materials),
+  or pass modules= and materials= (the week layout does, from _data/weeks).
 {%- endcomment -%}
-{%- assign m = page.modules -%}
+{%- assign m = include.modules | default: page.modules -%}
+{%- assign materials = include.materials | default: page.materials -%}
 <table>
   <thead><tr><th>Modul</th><th>Min</th><th></th><th>This week</th></tr></thead>
   <tbody>
@@ -22,10 +24,10 @@
 
 <p><strong>Core runs 85 min, everything 150 min, class is 120.</strong> If you're behind, cut in this order: energizer, buffer, Landeskunde. Never cut the Kernaufgabe. The B1/B2 extension can run as a station for fast finishers during structured output. <a href="{{ '/programm/' | relative_url }}">Full program notes</a>.</p>
 
-{%- if page.materials %}
+{%- if materials %}
 <p><strong>Materials</strong></p>
 <ul>
-{%- for item in page.materials %}
+{%- for item in materials %}
   <li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {%- endfor %}
 </ul>

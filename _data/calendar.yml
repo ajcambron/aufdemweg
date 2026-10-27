@@ -5,7 +5,7 @@
 - {week: 3,  date: 2026-10-11, theme: "Familie", cando: "Describe family members and relationships.", notes: "Possessives.", page: /wochen/woche-03/}
 - {week: 4,  date: 2026-10-18, theme: "Zuhause & Zimmer", cando: "Describe a home/room; compare with a partner's.", notes: "Prepositions of place.", page: /wochen/woche-04/}
 - {week: 5,  date: 2026-10-25, theme: "Herbst & Erntedank", cando: "Talk about weather, seasons, harvest traditions.", notes: "Sets up St. Martin/Nikolaus arc.", page: /wochen/woche-05/}
-- {week: 6,  date: 2026-11-01, theme: "Schule & Stundenplan", cando: "Describe a school day/schedule; compare German vs. US systems.", notes: "Real schedule comparison info-gap."}
+- {week: 6,  date: 2026-11-01, theme: "Schule & Stundenplan", cando: "Describe a school day/schedule; compare German vs. US systems.", notes: "Real schedule comparison info-gap.", page: /wochen/woche-06/}
 - {week: 7,  date: 2026-11-08, theme: "Essen & Trinken", cando: "Order food, state likes/dislikes, discuss regional dishes.", notes: ""}
 - {week: 8,  date: 2026-11-15, theme: "Freizeit & Hobbys", cando: "Discuss hobbies, frequency, make plans with a partner.", notes: "Frequency adverbs."}
 - {week: 9,  date: 2026-11-22, theme: "Dankbarkeit & Traditionen", cando: "Compare US Thanksgiving with Erntedank/St. Martin's Day.", notes: "Builds on Week 5's Erntedank seed."}
