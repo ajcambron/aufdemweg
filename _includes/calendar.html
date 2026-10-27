@@ -1,0 +1,14 @@
+<table>
+  <thead><tr><th>Woche</th><th>Datum</th><th>Thema</th><th>Can-do</th><th>Notes</th></tr></thead>
+  <tbody>
+  {%- for row in site.data.calendar %}
+    <tr>
+      <td>{{ row.week }}</td>
+      <td style="white-space: nowrap;">{{ row.date | date: "%b %-d" }}</td>
+      <td>{% if row.page %}<a href="{{ row.page | relative_url }}">{{ row.theme }}</a>{% elsif row.week %}{{ row.theme }}{% else %}<em>{{ row.theme }}</em>{% endif %}</td>
+      <td>{{ row.cando }}</td>
+      <td>{{ row.notes }}</td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>

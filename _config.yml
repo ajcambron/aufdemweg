@@ -75,6 +75,7 @@ exclude:
   - CLAUDE.md
   - cloudflare.yml
   - worksheet-sources/
+  - scripts/
   - Gemfile
   - Gemfile.lock
   - vendor/

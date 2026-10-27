@@ -1,0 +1,296 @@
+/*
+  Shared stylesheet for every printable worksheet source
+  (worksheet-sources/*.html), rendered to PDF via Playwright/Chromium
+  reading these files straight off disk. Typography and palette match
+  the rest of the site (Jekyll pages + reveal.js decks) via the
+  self-hosted fonts in ../assets/css/site-fonts.css and the same warm,
+  muted Itten-inspired paper palette as _sass/custom/setup.scss.
+
+  Grid-systems pass (Mueller-Brockmann): every block-level vertical
+  margin/padding on this page is a multiple of a 4px baseline unit, so
+  rules, headers and text blocks land on shared horizontal lines instead
+  of drifting independently.
+
+  Page margins (US Letter, set once in @page so every printed page gets
+  them, including any page a long sheet spills onto):
+    sides 1in / 1in  -- binding. Every sheet is 3-hole punched for the
+                        class binder, and a double-sided copy has its holes
+                        on the left of the front and the right of the back,
+                        so BOTH side margins need the full 1in punch
+                        clearance.
+    head  0.5in      -- the type area sits high on the page; a type area
+    tail  0.75in        pushed low "looks like it is falling off," raised it
+                        looks lighter (Grid Systems, ch. 5). Head, tail and
+                        sides step 0.5 : 0.75 : 1 (2 : 3 : 4), so the margins
+                        are proportioned rather than one uniform frame, the
+                        "indecision" of equal margins on all four sides.
+  The 0.5in head also clears the ~0.25in unprintable edge most classroom
+  printers and copiers have. The type area is 6.5in x 9.75in (624px wide
+  at 96px/in), the width .grid16, .grid3 and the tables are sized against.
+  The folio (.ws-footer) stays centered on the page's axis: calm and
+  static, which suits a reference sheet better than a dynamic outer folio.
+
+  .page.compact only tightens spacing INSIDE the type area. It never
+  shrinks the page margins.
+*/
+@import url("../assets/css/site-fonts.css");
+
+* { box-sizing: border-box; }
+html, body {
+  font-family: "Inter", system-ui, sans-serif;
+  color: #2A2118;
+  margin: 0;
+  padding: 0;
+  font-size: 12pt;
+  line-height: 1.15;
+}
+@page {
+  size: letter;
+  margin: 0.5in 1in 0.75in 1in;
+}
+/* On screen (the -preview.png thumbnails) the same margins are drawn as padding,
+   so the preview matches the printed page. In print, @page supplies them. */
+@media screen {
+  .page { width: 8.5in; min-height: 11in; padding: 0.5in 1in 0.75in 1in; }
+}
+@media print {
+  .page { padding: 0; }
+}
+.page.compact .ws-header {
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+.page.compact .ws-fields {
+  margin-bottom: 8px;
+}
+.page.compact .grid16,
+.page.compact .grid3 {
+  gap: 8px;
+}
+.ws-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 2.5px solid #2A2118;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+}
+.ws-title {
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 26pt;
+  margin: 0;
+}
+.ws-course {
+  font-size: 9pt;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6B6255;
+  text-align: right;
+}
+.ws-fields {
+  display: flex;
+  gap: 28px;
+  margin-bottom: 24px;
+  font-size: 11pt;
+}
+.ws-field {
+  flex: 1;
+  border-bottom: 1px solid #2A2118;
+  padding-bottom: 4px;
+  min-height: 1.4em;
+}
+.ws-field-label {
+  font-size: 9pt;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6B6255;
+  display: block;
+  margin-bottom: 12px;
+}
+.ws-title-sm {
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 19pt;
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-right: 16px;
+}
+.ws-fields-inline {
+  display: flex;
+  gap: 18px;
+  flex-shrink: 0;
+}
+.ws-field-inline {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  font-size: 10pt;
+  white-space: nowrap;
+}
+.ws-field-label-inline {
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6B6255;
+}
+.field-blank {
+  display: inline-block;
+  width: 80px;
+  border-bottom: 1px solid #2A2118;
+  height: 1em;
+}
+.word-bank {
+  border: 1px solid #2A2118;
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 10.5pt;
+  margin: 0 0 16px 0;
+}
+ol.ws-items { padding-left: 24px; margin: 0; }
+ol.ws-items > li { margin-bottom: 16px; }
+.blank {
+  display: inline-block;
+  min-width: 85px;
+  border-bottom: 1px solid #2A2118;
+  height: 1em;
+  margin: 0 2px;
+}
+.lines .line {
+  border-bottom: 1px solid #C9BB98;
+  height: 24px;
+}
+.ws-quote {
+  font-style: italic;
+  font-size: 11pt;
+  border-left: 3px solid #C9BB98;
+  padding-left: 16px;
+  margin: 16px 0;
+  max-width: 70%;
+  color: #4A4236;
+}
+.ws-note {
+  border: 1px solid #2A2118;
+  border-radius: 4px;
+  padding: 12px 16px;
+  font-size: 11pt;
+  margin: 16px 0;
+  max-width: 70%;
+}
+.ws-footer {
+  margin-top: 24px;
+  font-size: 9pt;
+  color: #6B6255;
+  border-top: 1px solid #E4D9BC;
+  padding-top: 8px;
+  text-align: center;
+}
+.grid16 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+.grid16 .box {
+  aspect-ratio: 8.5 / 11;
+  border: 1.5px solid #2A2118;
+  border-radius: 2px;
+  position: relative;
+}
+.grid16 .box .num {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-size: 9pt;
+  color: #B8AC8E;
+}
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.grid3 .box {
+  aspect-ratio: 8.5 / 11;
+  border: 1.5px solid #2A2118;
+  border-radius: 2px;
+  position: relative;
+}
+.grid3 .box .num {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-size: 9pt;
+  color: #B8AC8E;
+}
+.ws-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 10pt;
+  margin: 16px 0;
+}
+.ws-table th, .ws-table td {
+  border: 1px solid #2A2118;
+  padding: 8px 8px;
+  vertical-align: top;
+  text-align: left;
+}
+.ws-table th {
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #4A4236;
+}
+.ws-table td.blank-cell {
+  height: 40px;
+}
+
+/* ---------- Structured input responses (Arbeitsblatt A-C) ----------
+   Students mark a choice; they never write the target form. */
+.ws-section {
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 15pt;
+  margin: 20px 0 4px 0;
+}
+.ws-directions {
+  font-size: 10.5pt;
+  font-style: italic;
+  color: #4A4236;
+  margin: 0 0 12px 0;
+}
+.choices {
+  display: inline-flex;
+  gap: 16px;
+  margin-left: 12px;
+  font-size: 10.5pt;
+  white-space: nowrap;
+}
+.choices span::before {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #2A2118;
+  margin-right: 4px;
+  vertical-align: -1px;
+}
+.pic-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 8px 0 0 0;
+}
+.pic-pair .box {
+  height: 96px;
+  border: 1.5px solid #2A2118;
+  border-radius: 2px;
+  position: relative;
+}
+.pic-pair .box .num {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-size: 9pt;
+  color: #B8AC8E;
+}
+.pic-pair img {
+  width: 100%;
+  height: 96px;
+  object-fit: contain;
+}

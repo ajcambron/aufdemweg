@@ -1,0 +1,32 @@
+{%- comment -%}
+  Renders a week page's "Ablauf" (run of show): the nine-module table from
+  page.modules, then materials. Minutes and Core/Optional are fixed by the
+  packet model, so a page lists only each module's content for that week.
+  Usage: {% include week-plan.html %}
+{%- endcomment -%}
+{%- assign m = page.modules -%}
+<table>
+  <thead><tr><th>Modul</th><th>Min</th><th></th><th>This week</th></tr></thead>
+  <tbody>
+    <tr><td>Einstieg (warm-up)</td><td>10</td><td>Core</td><td>{{ m.einstieg | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td>Input &amp; structured input</td><td>20</td><td>Core</td><td>{{ m.input | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td><strong>Kernaufgabe</strong></td><td>30</td><td>Core</td><td><strong>{{ m.kernaufgabe | markdownify | remove: '<p>' | remove: '</p>' }}</strong></td></tr>
+    <tr><td>Structured output</td><td>20</td><td>Core</td><td>{{ m.output | default: "A1/A2 frames; B1/B2 open production" | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td>Können-Sie...? exit ticket</td><td>5</td><td>Core</td><td>{{ m.exit | default: "Self-check, own level" | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td>Landeskunde</td><td>15</td><td>Optional</td><td>{{ m.landeskunde | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td>Vokabelspiel / energizer</td><td>15</td><td>Optional</td><td>{{ m.energizer | markdownify | remove: '<p>' | remove: '</p>' }} <em>(cut first)</em></td></tr>
+    <tr><td>B1/B2 extension</td><td>20</td><td>Optional</td><td>{{ m.extension | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+    <tr><td>Buffer</td><td>15</td><td>Optional</td><td>{{ m.buffer | default: "Instructor's choice" | markdownify | remove: '<p>' | remove: '</p>' }}</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Core runs 85 min, everything 150 min, class is 120.</strong> If you're behind, cut in this order: energizer, buffer, Landeskunde. Never cut the Kernaufgabe. The B1/B2 extension can run as a station for fast finishers during structured output. <a href="{{ '/programm/' | relative_url }}">Full program notes</a>.</p>
+
+{%- if page.materials %}
+<p><strong>Materials</strong></p>
+<ul>
+{%- for item in page.materials %}
+  <li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}

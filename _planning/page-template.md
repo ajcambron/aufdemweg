@@ -1,48 +1,60 @@
 ---
 layout: default
-title: "[Thema]"
-parent: "[Einheit]"
-nav_order: 1
+title: "N | Thema"
+parent: Wochen
+nav_order: N
+permalink: /wochen/woche-NN/
+week: N
+date: YYYY-MM-DD
+packet: woche-NN-packet
+modules:
+  einstieg: ""
+  input: "Sentence builder + narrow reading (two levels)"
+  kernaufgabe: ""
+  landeskunde: ""
+  energizer: ""
+  extension: ""
+  # optional overrides: output, exit, buffer
+materials:
+  - "Student packet, one per student"
 ---
 
-# [Thema]
+# Woche N | Thema
+Month D, YYYY
+{: .fs-5 .text-grey-dk-000 }
 
-## Die Aufgabe
+## Auf einen Blick
 
-[2 to 3 sentences: what students make with a partner, and what they hand in.]
+| A1 can-do | B1/B2 can-do |
+| :--- | :--- |
+| | |
 
-## Wortschatz
+**Kernaufgabe:** [what students do, what they hand in, A1/A2 vs. B1/B2 difference]
 
-### [Gruppe 1, by task function]
+## Ablauf
 
-| Wort | Bild / Beispiel | Definition | English |
-| :--- | :--- | :--- | :--- |
-| der ___, -e | *Beispielsatz.* | einfache Definition | gloss |
-
-### Redemittel
-
-- *Wie bitte?*
-- [phrases the task needs]
+{% include week-plan.html %}
 
 ## Grammatik
 
-[One form, one function. Three to five sentences, one or two examples.]
+[The slice, one or two sentences + small table if useful.]
 
 {: .warning }
-[The processing trap: the shortcut students will take, and why it fails here.]
+**What students will do:** [the predictable mistake, and what to say: usually a restatement.]
+
+## Wortschatz
+
+| Deutsch | English |
+| :--- | :--- |
+| | |
 
 ## Arbeitsblatt
 
-### A. [Referential input]
+{% include worksheet.html file=page.packet title="Woche N Packet: Thema" %}
 
-### B. [Referential input]
+## Lösungen
 
-### C. [Affective input]
+<details class="answer-key" markdown="1">
+<summary>Answer key</summary>
 
-### D. [Structured output: partner responds]
-
-### E. Die Aufgabe
-
-## Zusammenfassung
-
-[Full paradigm table, target form highlighted.]
+</details>
