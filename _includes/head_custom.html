@@ -1,0 +1,40 @@
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/site-fonts.css' | relative_url }}">
+<style>
+  body {
+    font-family: "Inter", system-ui, -apple-system, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6,
+  .site-title {
+    font-family: "Instrument Serif", Georgia, "Times New Roman", serif;
+  }
+  blockquote {
+    font-family: "Instrument Serif", Georgia, "Times New Roman", serif;
+    font-style: italic;
+  }
+
+  @media print {
+    .side-bar,
+    .site-header,
+    .breadcrumb-nav,
+    .site-footer,
+    .search-footer,
+    .no-print {
+      display: none !important;
+    }
+    .main-content-wrap {
+      margin: 0 !important;
+    }
+    .main-content {
+      max-width: 100% !important;
+      padding: 0 !important;
+    }
+    body {
+      font-size: 11pt;
+    }
+    table {
+      break-inside: avoid;
+    }
+  }
+</style>

@@ -1,0 +1,73 @@
+// Site color scheme - muted red/gold/blue triad, inspired by Johannes
+// Itten's Farbenkugel color wheel (desaturated, not the vivid
+// original), on a white page ground. The nav sidebar uses a pale blue
+// tint instead of a paper/tan tint (a straight hue swap at the same
+// lightness/intensity as the old tan) so the site reads as clean and
+// modern rather than "old paper." Loads before just-the-docs' own
+// color_schemes/light.scss, whose variables are all `!default`, so
+// setting them here is the supported just-the-docs customization
+// point (see _sass/custom/setup.scss in the theme gem).
+//
+// This is also the single source of truth for the palette: the
+// reveal.js deck stylesheet (assets/css/revealjs-decks.css) and the
+// custom button/component CSS in _includes/head_custom.html both use
+// the same hex values by hand, since those live outside Jekyll's Sass
+// pipeline. Keep all three in sync if this palette changes.
+//
+// NOTE: this file is parsed by Jekyll's legacy Ruby `sass` gem, which
+// assumes US-ASCII and errors on stray UTF-8 bytes (em dashes, curly
+// quotes, etc.) unless @charset is set. Keep this file plain ASCII.
+
+// Callout colors (warning/highlight/discussion/reflection/good/vocab in
+// _config.yml reference these by name - red/yellow/blue/purple/green).
+// Muted equivalents of the same four hue-steps just-the-docs defines by
+// default, so every callout box across every lesson page picks up the
+// palette automatically with no change to _config.yml.
+//
+// UDL / color-vision-deficiency pass (see PR discussion): the -300
+// shade is the callout's bold uppercase title-label color, shown
+// against its own -000 tint as the background. red/yellow/green -300
+// were darkened (holding hue/saturation) until label-on-tint contrast
+// clears WCAG AA (4.5:1) for all readers, not just colorblind ones -
+// yellow-300 was the worst offender at 2.45:1. -100/-200 are a linear
+// ramp between the unchanged -000 and the new -300 so the four steps
+// stay visually smooth. purple-300 (and matching purple-000/100/200)
+// were also hue-rotated ~24 degrees away from blue-300: under
+// simulated protanopia/deuteranopia (red-green color blindness) the
+// original purple and blue collapsed to within ~20 units of each
+// other (of ~440 max) - close enough to be confusable by color alone -
+// this rotation roughly doubles that separation while staying a
+// clearly distinct plum/wine hue in normal vision.
+$red-000: #EDD3C2;
+$red-100: #CFA391;
+$red-200: #B17360;
+$red-300: #93432F;
+$yellow-000: #F0DFB9;
+$yellow-100: #C9B388;
+$yellow-200: #A38658;
+$yellow-300: #7C5A27;
+$blue-000: #C3D6DE;
+$blue-100: #82A4B7;
+$blue-200: #4E7A92;
+$blue-300: #2E5A73;
+$purple-000: #DDD0D3;
+$purple-100: #B0969E;
+$purple-200: #8A6973;
+$purple-300: #6B4A56;
+$green-000: #DDE6D2;
+$green-100: #AEBCA2;
+$green-200: #809271;
+$green-300: #516841;
+
+$body-background-color: #FFFFFF;
+$body-heading-color: #2A2118;
+$body-text-color: #2A2118;
+$link-color: #2E5A73;
+$nav-child-link-color: #4A4236;
+$sidebar-color: #DAE9F1;
+$base-button-color: #FBF7EC;
+$btn-primary-color: #AE5038;
+$code-background-color: #F7F2E4;
+$table-background-color: $body-background-color;
+$search-background-color: #F7F2E4;
+$search-result-preview-color: #6B6255;

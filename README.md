@@ -1,1 +1,8 @@
-I plan on publishing some german teaching resources here.
+# aufdemweg
+
+German teaching resources, published at https://aufdemweg.cambron.cc with Jekyll and Just the Docs.
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
