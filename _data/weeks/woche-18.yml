@@ -1,0 +1,211 @@
+week: 18
+date: 2027-02-21
+date_label: "Sonntag, 21. Februar 2027"
+theme: "Stadt & Wegbeschreibung"
+cando:
+  a1: "ask for directions and give simple ones"
+  b1b2: "give detailed directions and describe a route on a map"
+grammar_focus: "Formal commands: verb + Sie (Gehen Sie geradeaus! Nehmen Sie die zweite Straße links!). Sie gehen = statement; Gehen Sie! = command."
+ap:
+  unit: "AP theme: Contemporary Life (cities, transportation) / Global Contexts (sustainability)"
+  mode: "Interpersonal information gap (formal register) + source-based writing"
+  note: "The extension asks for a short argument that uses two sources with attribution, building toward the AP Argumentative Essay."
+
+builder:
+  - title: "Wo ist ...? (Where is ...?)"
+    rows:
+      - ["Entschuldigung, wo ist der Bahnhof / die Post / das Kino?", "Excuse me, where is the train station / post office / movie theater?"]
+      - ["Wie komme ich zum Rathaus / zur Bäckerei?", "How do I get to city hall / the bakery?"]
+      - ["Ist das weit? Nein, nur fünf Minuten zu Fuß.", "Is it far? No, only five minutes on foot."]
+      - ["neben / gegenüber von / zwischen / hinter", "next to / across from / between / behind"]
+      - ["an der Ecke / an der Ampel / an der Kreuzung", "at the corner / at the traffic light / at the intersection"]
+      - ["Vielen Dank! Gern geschehen.", "Thanks a lot! You're welcome."]
+  - title: "Wegbeschreibung (Directions)"
+    rows:
+      - ["Gehen Sie geradeaus.", "Go straight ahead."]
+      - ["Biegen Sie links / rechts ab.", "Turn left / right."]
+      - ["Nehmen Sie die erste / zweite Straße links.", "Take the first / second street on the left."]
+      - ["Gehen Sie über die Brücke / über den Marktplatz.", "Cross the bridge / the market square."]
+      - ["Dann sehen Sie das Kino auf der rechten Seite.", "Then you'll see the movie theater on the right."]
+      - ["Geh geradeaus! (du) / Gehen Sie geradeaus! (Sie)", "Go straight! (informal / formal)"]
+      - ["der Bahnhof, das Rathaus, die Post, die Bank, die Apotheke, der Supermarkt", "station, city hall, post office, bank, pharmacy, supermarket"]
+
+vocab:
+  complete:
+    - ["Entschuldigung, ___ ist der Bahnhof?", "Excuse me, where is the train station?", "wo"]
+    - ["Wie komme ich ___ Post?", "How do I get to the post office?", "zur"]
+    - ["Gehen Sie ___.", "Go straight ahead.", "geradeaus"]
+    - ["Biegen Sie an der ___ rechts ab.", "Turn right at the traffic light.", "Ampel"]
+    - ["Nehmen Sie die ___ Straße links.", "Take the second street on the left.", "zweite"]
+    - ["Die Bank ist ___ von der Post.", "The bank is across from the post office.", "gegenüber"]
+  match:
+    - ["die Ampel", "traffic light"]
+    - ["die Kreuzung", "intersection"]
+    - ["die Ecke", "corner"]
+    - ["abbiegen", "to turn"]
+    - ["weit", "far"]
+    - ["die Brücke", "bridge"]
+  match_order: [4, 6, 1, 3, 2, 5]
+  translate:
+    - ["Wo ist die Apotheke?", "Where is the pharmacy?"]
+    - ["Gehen Sie über den Marktplatz.", "Cross the market square."]
+    - ["Das Kino ist neben der Bank.", "The movie theater is next to the bank."]
+    - ["Ist das weit?", "Is it far?"]
+    - ["Biegen Sie an der Kreuzung links ab.", "Turn left at the intersection."]
+    - ["Der Bahnhof ist nur fünf Minuten zu Fuß.", "The station is only five minutes on foot."]
+    - ["Nehmen Sie die erste Straße rechts.", "Take the first street on the right."]
+    - ["Gern geschehen!", "You're welcome!"]
+  letters: ["Bahnhof", "Rathaus", "Apotheke", "geradeaus", "Kreuzung", "Ampel", "Brücke", "Supermarkt"]
+  broken:
+    - ["Gehen Sie bis zur Ampel geradeaus.", "Go straight ahead to the traffic light."]
+    - ["Dann biegen Sie links ab.", "Then turn left."]
+    - ["Die Post ist gegenüber vom Bahnhof.", "The post office is across from the station."]
+    - ["Vielen Dank für die Hilfe!", "Thanks a lot for the help!"]
+  suitable:
+    - "Entschuldigung, wo ist ___?"
+    - "Wie komme ich zum ___?"
+    - "Gehen Sie ___."
+    - "Das Café ist neben ___."
+    - "In meiner Stadt gibt es ___."
+    - "Mein Lieblingsort in der Stadt ist ___."
+
+reading:
+  a1:
+    texts:
+      - ["Sofia", "Ich heiße Sofia und ich wohne in Heidelberg. Meine Stadt ist nicht groß, aber sehr schön. Es gibt eine alte Brücke, ein Schloss und eine lange Fußgängerzone. Dort sind viele Geschäfte und Cafés. Mein Lieblingsort ist der Marktplatz. Er ist neben der Kirche."]
+      - ["Max", "Ich heiße Max. Ich wohne in einem Dorf in der Nähe von Bremen. Bei uns gibt es eine Bäckerei, eine Kirche und eine Bushaltestelle. Mehr nicht! Zur Schule fahre ich mit dem Bus, zwanzig Minuten. Am Wochenende fahre ich manchmal nach Bremen. Da gibt es ein Kino."]
+    questions:
+      - ["Name two things Heidelberg has.", "An old bridge, a castle, a long pedestrian zone (any two)"]
+      - ["Where is Sofia's favorite place?", "The market square, next to the church"]
+      - ["What does Max's village have?", "A bakery, a church and a bus stop"]
+      - ["Why does Max go to Bremen on weekends?", "There's a movie theater there."]
+  b1:
+    texts:
+      - ["Herr Yilmaz", "Ich bin Stadtführer in Nürnberg. Viele amerikanische Touristen sind überrascht, wie viel man in deutschen Städten zu Fuß machen kann. Die Altstadt ist klein, die Wege sind kurz, und es gibt Fußgängerzonen ohne Autos. Was sie auch überrascht: Am Sonntag sind fast alle Geschäfte geschlossen. Dann sind die Straßen ruhig, und die Leute gehen spazieren oder sitzen im Café."]
+      - ["Clara", "Ich bin vor einem Jahr von Wien nach Dallas gezogen. In Wien bin ich überall mit der U-Bahn oder der Straßenbahn hingefahren, und mit fünfzehn war ich schon ziemlich selbstständig. In Dallas brauche ich für fast alles ein Auto, und meine Eltern müssen mich fahren. Dafür sind die Häuser größer, und ich habe zum ersten Mal einen Garten."]
+    questions:
+      - ["Was überrascht amerikanische Touristen in Nürnberg?", "Wie viel man zu Fuß machen kann, und dass am Sonntag fast alle Geschäfte geschlossen sind."]
+      - ["Was machen die Leute am Sonntag?", "Sie gehen spazieren oder sitzen im Café."]
+      - ["Wie ist Clara in Wien gefahren?", "Mit der U-Bahn oder der Straßenbahn."]
+      - ["Was ist für Clara in Dallas besser?", "Die Häuser sind größer, und sie hat einen Garten."]
+
+structured_input:
+  ref:
+    directions: "Wohin gehen Sie? (Which way do you go?)"
+    items:
+      - ["Gehen Sie nach links.", "←", ["←", "→"]]
+      - ["Biegen Sie an der Ampel rechts ab.", "→", ["←", "→"]]
+      - ["Gehen Sie geradeaus.", "↑", ["↑", "↓"]]
+      - ["Gehen Sie zurück.", "↓", ["↑", "↓"]]
+      - ["Nehmen Sie die zweite Straße links.", "2. Straße links", ["2. Straße links", "2. Straße rechts"]]
+      - ["Der Bahnhof ist gegenüber vom Kino.", "auf der anderen Seite", ["direkt neben dem Kino", "auf der anderen Seite"]]
+  aff:
+    directions: "Wie ist es in deiner Stadt?"
+    options: ["Ja", "Nein"]
+    items:
+      - "In meiner Stadt gibt es einen Marktplatz."
+      - "Ich gehe oft zu Fuß in die Stadt."
+      - "Meine Schule ist in der Nähe von einem Park."
+      - "Bei uns gibt es eine Fußgängerzone."
+      - "Ich finde mich in neuen Städten gut zurecht."
+
+task:
+  title: "Stadtplan-Infolücke (map information gap)"
+  format: "Partner information gap"
+  directions: "Partner A and Partner B each have a map of the same town, but each map is missing some places. Fold the page so you see only your own map! Take turns asking: Entschuldigung, wie komme ich zum Kino? Your partner gives directions from the star (★), and you write the place on your map. Use words only, no pointing. When both maps are complete, compare them."
+  a1: "Ask Wo ist ...? and answer with neben, gegenüber von or an der Ecke. Simple directions are fine: Gehen Sie geradeaus. Dann links."
+  b1: "Give full directions from the star in at least three steps, with street names and an ordinal: Gehen Sie die Lindenallee geradeaus, nehmen Sie die zweite Straße rechts ..."
+  maps:
+    - title: "Partner A: Stadtplan"
+      blocks:
+        - ["Bahnhof", "?", "Bäckerei", "?"]
+        - ["?", "Marktplatz / Rathaus", "?", "Post"]
+        - ["Schule", "?", "Bank", "?"]
+      hstreets: ["Hauptstraße", "Goethestraße", "Schillerstraße  ★ Sie sind hier: Ecke Lindenallee"]
+      vstreets: ["Kirchgasse", "Lindenallee", "Mozartweg"]
+    - title: "Partner B: Stadtplan"
+      blocks:
+        - ["?", "Hotel", "?", "Kino"]
+        - ["Apotheke", "Marktplatz / Rathaus", "Café", "?"]
+        - ["?", "Supermarkt", "?", "Park"]
+      hstreets: ["Hauptstraße", "Goethestraße", "Schillerstraße  ★ Sie sind hier: Ecke Lindenallee"]
+      vstreets: ["Kirchgasse", "Lindenallee", "Mozartweg"]
+
+output:
+  a1: "Write directions from DSB Hall (or your school) to a place nearby: Gehen Sie ___. Biegen Sie ___ ab. ___ ist auf der rechten Seite. Your partner follows them on a quick sketch and guesses the destination."
+  b1: "Write an email to a German exchange student arriving next week (du-form!): how to get from the train station to your house step by step, plus one tip about your town (Am Sonntag ..., Der beste Ort für ...). Your partner reads it and asks one clarifying question."
+
+landeskunde:
+  title: "Altstadt, Fußgängerzone, Sonntagsruhe"
+  text: |
+    Most German towns grew around an old center, the Altstadt, with a market square (Marktplatz), a town hall (Rathaus) and a church. Many have turned their main shopping streets into car-free pedestrian zones (Fußgängerzonen). Errands are often done on foot, by bike or by tram, and a 15-year-old can usually get around a city alone by public transportation.
+
+    On Sundays, nearly all shops close by law (Ladenschluss). Exceptions include gas stations, shops in train stations and airports, and in many places bakeries for a few hours in the morning. Sunday is meant as a day of rest (Sonntagsruhe), and noisy chores like mowing the lawn or drilling can earn you an annoyed visit from the neighbors.
+  warum: "Why might Germans protect Sunday from shopping, even though it costs stores money? What does Sonntagsruhe say about how they value time?"
+  vergleich: "Could you get around your town without a car at 15? How would that change a teenager's life?"
+
+exit:
+  a1: "Ich kann nach dem Weg fragen und einfache Wegbeschreibungen geben."
+  b1: "Ich kann einen Weg auf dem Stadtplan genau beschreiben."
+
+energizer:
+  title: "Blinder Roboter (blind robot)"
+  text: "In pairs, one student closes their eyes and becomes the robot. The partner guides them to a target in the room with commands only: Geh drei Schritte geradeaus! Stopp! Dreh dich nach links! Switch after one target. (These are Week 10's du-commands; clear the floor first.)"
+
+extension:
+  title: "Die Stadt der Zukunft: autofrei?"
+  intro: "Lies die zwei Texte und beantworte die Fragen."
+  text: |
+    Text 1: Einige deutsche Städte wollen ihre Innenstädte autofrei machen. In Freiburg gibt es den Stadtteil Vauban, in dem viele Familien ohne eigenes Auto leben. Die Kinder spielen auf der Straße, und es ist ruhiger und sauberer. Befürworter sagen: Weniger Autos bedeuten mehr Platz für Menschen, Bäume und Fahrräder.
+
+    Text 2: Geschäftsleute in vielen Innenstädten sind skeptisch. Sie sagen: Wenn Kunden nicht mehr mit dem Auto in die Stadt fahren können, kaufen sie lieber im Internet oder im Einkaufszentrum am Stadtrand. Auch für ältere Menschen und Familien mit kleinen Kindern ist ein Leben ohne Auto nicht immer einfach.
+  questions:
+    - ["Was ist besonders am Stadtteil Vauban?", "Viele Familien leben dort ohne eigenes Auto."]
+    - ["Welche Vorteile nennen die Befürworter?", "Mehr Platz für Menschen, Bäume und Fahrräder; es ist ruhiger und sauberer."]
+    - ["Warum sind Geschäftsleute skeptisch?", "Kunden kaufen dann lieber im Internet oder im Einkaufszentrum."]
+    - ["Für wen ist ein Leben ohne Auto schwierig?", "Für ältere Menschen und Familien mit kleinen Kindern."]
+  task: "Sollte deine Stadt eine autofreie Zone haben? Schreib 5–6 Sätze und benutze beide Texte (Laut Text 1 ... / Text 2 zeigt, dass ...)."
+
+buffer: "Students draw a map of their own neighborhood and write three directions on it, or a second information-gap round where partners invent new places for the blank blocks."
+
+page:
+  modules:
+    einstieg: "Real German Altstadt map: name it, trace a route"
+    input: "Sentence builder + narrow reading (Sofia & Max, Herr Yilmaz & Clara) + Achte auf die Form"
+    kernaufgabe: "Stadtplan-Infolücke: fill in your map from directions"
+    landeskunde: "Altstadt, Fußgängerzone, Sonntagsruhe"
+    energizer: "Blinder Roboter (blind robot)"
+    extension: "Die Stadt der Zukunft: autofrei? (two-source paragraph)"
+    buffer: "Neighborhood maps, or invented places"
+  einstieg: "Project or print a simple map of a German Altstadt (Heidelberg or Nuremberg works well). Point and name: *Das ist der Marktplatz. Das ist das Rathaus. Hier ist die Kirche.* Ask either/or questions: *Ist der Bahnhof links oder rechts?* Then trace a route with your finger while saying *Gehen Sie geradeaus ... dann links ...* and have students say where you ended up."
+  materials:
+    - "Student packet, one per student"
+    - "A real German town map for the Einstieg"
+    - "Open floor space for the blind-robot energizer"
+  summary: "Stadtplan-Infolücke. Both partners have a map of the same town, each missing different places. They take turns asking *Wie komme ich zum Kino?*, give directions from the star, and write each place on their own map, using words only, no pointing. A1/A2 use *neben, gegenüber* and simple steps; B1/B2 give full multi-step directions with street names."
+  note:
+    type: note
+    text: "Partners must fold the page so each sees only their own map. Early finishers check each other's maps, then try longer B1/B2 routes."
+  grammar: |
+    **The formal command: verb + Sie.** Put the verb first and *Sie* right after it:
+
+    | Statement | Command |
+    | :--- | :--- |
+    | Sie gehen geradeaus. | **Gehen Sie** geradeaus! |
+    | Sie nehmen die erste Straße. | **Nehmen Sie** die erste Straße! |
+    | Sie biegen links ab. | **Biegen Sie** links **ab**! |
+
+    Separable verbs split: *abbiegen → Biegen Sie links ab.* The one irregular: *sein → Seien Sie vorsichtig!*
+
+    Compare Week 10's *du*-command: *Geh geradeaus!* (to a friend) versus *Gehen Sie geradeaus!* (to a stranger). Asking a stranger for directions is a *Sie* situation.
+
+    **Getting there:** *zum* for der/das places (*zum Bahnhof, zum Kino*), *zur* for die places (*zur Post, zur Bank*).
+  achtung: "**What students will do:** mix *du* and *Sie* in the same directions (*„Geh geradeaus, dann biegen Sie links ab“*). Point it out once, since register matters with strangers, then let them keep going. They'll also drop the separable prefix (*„Biegen Sie links“*); restate it with *ab*. The Achte-auf-die-Form items check the direction words themselves, which is what makes or breaks the map task."
+  b2: "**If a B2 asks:** *zum* = *zu dem*, *zur* = *zu der* (dative after *zu*). *Gegenüber von* takes the dative (*gegenüber vom Bahnhof*). Each German state sets its own Sunday-closing rules, so the details vary. The map town is invented; Freiburg's Vauban district is real."
+  vocab_extra:
+    - ["die Altstadt", "old town"]
+    - ["die Fußgängerzone", "pedestrian zone"]
+    - ["die Haltestelle", "stop (bus, tram)"]
+    - ["die Straßenbahn / die U-Bahn", "streetcar / subway"]
+    - ["der Stadtplan", "city map"]
+    - ["autofrei", "car-free"]

@@ -1,0 +1,219 @@
+week: 17
+date: 2027-02-14
+date_label: "Sonntag, 14. Februar 2027: Valentinstag"
+theme: "Valentinstag & Freundschaft"
+cando:
+  a1: "describe a friend's looks and character"
+  b1b2: "compare two people and explain what makes a good friend"
+grammar_focus: "Comparatives: adjective + -er + als (Tim ist größer als Jonas). Learn these: gut → besser, gern → lieber, viel → mehr. Equal: so groß wie."
+ap:
+  unit: "AP theme: Families and Communities (friendship) / Language and Culture"
+  mode: "Interpersonal information gap + interpretive data reading"
+  note: "The Landeskunde is a language-and-culture point: one word (Freund vs. Bekannter) carries a whole cultural perspective."
+
+builder:
+  - title: "Wie ist er? Wie ist sie? (What is he / she like?)"
+    rows:
+      - ["Mein bester Freund / Meine beste Freundin heißt ...", "My best friend (m / f) is named ..."]
+      - ["Er / Sie ist nett, lustig, ehrlich, hilfsbereit.", "He / She is nice, funny, honest, helpful."]
+      - ["Er / Sie ist manchmal ungeduldig / schüchtern / laut.", "He / She is sometimes impatient / shy / loud."]
+      - ["Er / Sie hat braune Haare und blaue Augen.", "He / She has brown hair and blue eyes."]
+      - ["Wir verstehen uns gut.", "We get along well."]
+      - ["Ein guter Freund ist ... [B1/B2]", "A good friend is ..."]
+  - title: "Vergleichen (Comparing)"
+    rows:
+      - ["groß → größer / alt → älter / jung → jünger", "tall → taller / old → older / young → younger"]
+      - ["Tim ist größer als Jonas.", "Tim is taller than Jonas."]
+      - ["Lea ist so alt wie Anna.", "Lea is as old as Anna."]
+      - ["gut → besser / gern → lieber / viel → mehr", "good → better / gladly → rather / much → more"]
+      - ["Ich spiele lieber Fußball als Tennis.", "I'd rather play soccer than tennis."]
+      - ["am besten / am liebsten [B1/B2]", "best / most of all"]
+
+vocab:
+  complete:
+    - ["Tim ist ___ als Ben.", "Tim is taller than Ben.", "größer"]
+    - ["Meine Schwester ist ___ als ich.", "My sister is older than I am.", "älter"]
+    - ["Ich esse ___ Pizza als Salat.", "I'd rather eat pizza than salad.", "lieber"]
+    - ["Lea ist so alt ___ Anna.", "Lea is as old as Anna.", "wie"]
+    - ["Mein bester Freund ist sehr ___.", "My best friend is very honest.", "ehrlich"]
+    - ["Wir verstehen ___ gut.", "We get along well.", "uns"]
+  match:
+    - ["ehrlich", "honest"]
+    - ["schüchtern", "shy"]
+    - ["hilfsbereit", "helpful"]
+    - ["ungeduldig", "impatient"]
+    - ["der Bekannte", "acquaintance"]
+    - ["vertrauen", "to trust"]
+  match_order: [6, 4, 5, 2, 1, 3]
+  translate:
+    - ["Meine Freundin ist lustiger als ich.", "My friend is funnier than me."]
+    - ["Er ist so groß wie sein Vater.", "He is as tall as his father."]
+    - ["Ich trinke lieber Tee als Kaffee.", "I'd rather drink tea than coffee."]
+    - ["Mein Bruder spielt besser Gitarre.", "My brother plays guitar better."]
+    - ["Sie hat lange, schwarze Haare.", "She has long black hair."]
+    - ["Ein guter Freund ist ehrlich.", "A good friend is honest."]
+    - ["Wir verstehen uns sehr gut.", "We get along very well."]
+    - ["Am Valentinstag schenkt man Blumen.", "On Valentine's Day people give flowers."]
+  letters: ["Freundschaft", "ehrlich", "lustig", "größer", "besser", "schüchtern", "Valentinstag", "hilfsbereit"]
+  broken:
+    - ["Mein bester Freund ist lustiger als ich.", "My best friend is funnier than me."]
+    - ["Sie ist so alt wie ihre Kusine.", "She is as old as her cousin."]
+    - ["Ich spiele lieber Basketball als Fußball.", "I'd rather play basketball than soccer."]
+    - ["Ein guter Freund hört immer zu.", "A good friend always listens."]
+  suitable:
+    - "Mein bester Freund / Meine beste Freundin ist ___."
+    - "Ich bin ___ als mein Bruder / meine Schwester."
+    - "Ich esse lieber ___ als ___."
+    - "Ein guter Freund ist ___."
+    - "___ ist so ___ wie ___."
+    - "Am Valentinstag ___ man ___."
+
+reading:
+  a1:
+    texts:
+      - ["Mia", "Ich heiße Mia. Meine beste Freundin heißt Zoe. Sie ist ein Jahr älter als ich und auch größer. Zoe ist sehr lustig und ehrlich. Ich bin schüchterner als sie. Wir verstehen uns super, weil wir beide gern zeichnen."]
+      - ["Ben", "Ich heiße Ben. Mein bester Freund ist Elias. Er ist so alt wie ich, fünfzehn. Elias spielt besser Fußball als ich, aber ich bin schneller! Er ist manchmal ungeduldig, aber er hilft mir immer."]
+    questions:
+      - ["Who is older, Mia or Zoe?", "Zoe"]
+      - ["Who is shyer, Mia or Zoe?", "Mia"]
+      - ["What does Elias do better than Ben?", "He plays soccer better."]
+      - ["What does Ben say about Elias's character?", "He's sometimes impatient, but he always helps."]
+  b1:
+    texts:
+      - ["Lara", "Im Deutschen gibt es einen wichtigen Unterschied zwischen einem Freund und einem Bekannten. Ein Bekannter ist jemand, den man kennt, zum Beispiel aus der Schule oder aus dem Verein. Ein Freund ist viel mehr: jemand, dem man vertraut und mit dem man über alles reden kann. Viele Deutsche haben deshalb nur wenige, aber sehr enge Freunde. Und Vorsicht: Wenn ich sage „mein Freund“, denken alle, dass ich einen festen Freund habe!"]
+      - ["Jonas", "Als ich Austauschschüler in Pennsylvania war, war ich zuerst überrascht. Alle waren total freundlich und haben sofort gesagt: „We should hang out!“ Aber oft ist dann nichts passiert. In Deutschland dauert es länger, bis man Freunde findet. Dafür sind die Freundschaften oft tiefer. Inzwischen habe ich aber auch in Amerika zwei echte Freunde gefunden."]
+    questions:
+      - ["Was ist der Unterschied zwischen einem Freund und einem Bekannten?", "Einen Bekannten kennt man nur; einem Freund vertraut man, und man kann mit ihm über alles reden."]
+      - ["Warum ist „mein Freund“ manchmal missverständlich?", "Alle denken, man meint den festen Freund."]
+      - ["Was hat Jonas in Pennsylvania überrascht?", "Alle waren sofort freundlich, aber oft ist danach nichts passiert."]
+      - ["Wie sind Freundschaften in Deutschland laut Jonas?", "Es dauert länger, aber sie sind oft tiefer."]
+
+structured_input:
+  ref:
+    directions: "Lies genau und beantworte die Frage. (Read carefully and answer.)"
+    items:
+      - ["Anna ist älter als Lea. Wer ist jünger?", "Lea", ["Anna", "Lea"]]
+      - ["Tim ist größer als Ben. Wer ist kleiner?", "Ben", ["Tim", "Ben"]]
+      - ["Mia läuft schneller als Sara. Wer ist langsamer?", "Sara", ["Mia", "Sara"]]
+      - ["Jonas ist so lustig wie Paul. Wer ist lustiger?", "beide gleich", ["Jonas", "beide gleich"]]
+      - ["Lena spielt besser Gitarre als ihr Bruder. Wer spielt schlechter?", "ihr Bruder", ["Lena", "ihr Bruder"]]
+  aff:
+    directions: "Wie ist es bei dir?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich bin größer als mein bester Freund / meine beste Freundin."
+      - "Ich esse lieber Pizza als Salat."
+      - "Freunde sind wichtiger als Geld."
+      - "Ein Hund ist besser als eine Katze."
+      - "Ich bin lustiger als meine Geschwister."
+
+task:
+  title: "Wer passt zusammen? (Who would be friends?)"
+  format: "Partner information gap"
+  directions: "Partner A has profiles of Tim and Sophie; Partner B has profiles of Lukas and Emma. Fold the page so you see only your own profiles! Ask each other questions (Wie alt ist ...? Was macht er / sie gern? Wie ist er / sie? Was isst er / sie gern?) and complete the chart for all four people. Then compare them and decide which two would be the best friends. Write two reasons with comparatives."
+  a1: "Ask Wie alt ist Tim? Was macht Sophie gern? Write short answers, then one comparison: Lukas ist älter als Sophie."
+  b1: "Write two comparisons for your chosen pair and one for a pair that wouldn't work: Tim ist lauter als Lukas, deshalb ..."
+  tables:
+    - title: "Partner A: Profile"
+      head: ["Name", "Alter", "Hobbys", "Charakter", "Lieblingsessen"]
+      rows:
+        - ["Tim", "16", "Fußball, Videospiele", "lustig, laut, ungeduldig", "Pizza"]
+        - ["Sophie", "15", "Lesen, Zeichnen", "ruhig, ehrlich, schüchtern", "Sushi"]
+    - title: "Partner B: Profile"
+      head: ["Name", "Alter", "Hobbys", "Charakter", "Lieblingsessen"]
+      rows:
+        - ["Lukas", "17", "Lesen, Schach", "ruhig, ehrlich, hilfsbereit", "Sushi"]
+        - ["Emma", "16", "Fußball, Musik", "lustig, sportlich, ungeduldig", "Burger"]
+    - title: "Alle vier (fill in together)"
+      head: ["", "Tim", "Sophie", "Lukas", "Emma"]
+      rows:
+        - ["Alter", "", "", "", ""]
+        - ["Hobbys", "", "", "", ""]
+        - ["Charakter", "", "", "", ""]
+        - ["Lieblingsessen", "", "", "", ""]
+    - title: "Unsere Wahl"
+      head: ["Wer passt zusammen?", "Warum? (zwei Gründe)"]
+      blank: 2
+
+output:
+  a1: "Describe your best friend, or a favorite character from a book or show, in four sentences: name, age, looks, character. Add one comparison: Er / Sie ist ___er als ich. Read it to a partner. They ask one question: Ist er / sie ...?"
+  b1: "Write a short Freundschafts-Ratgeber (friendship guide, 5–6 sentences): what makes a good friend, with at least three comparatives and one superlative (am wichtigsten). Your partner ranks your three most important qualities from 1 to 3 and explains their top choice."
+
+landeskunde:
+  title: "Freund oder Bekannter? Valentinstag in Deutschland"
+  text: |
+    Valentine's Day in Germany is mostly for couples: flowers (especially red roses), chocolates, a dinner out. Students don't usually exchange valentines with the whole class, and there's no tradition of cards for every friend.
+
+    The bigger difference is in the word Freund itself. Germans distinguish between a Bekannter (an acquaintance) and a Freund (a real friend), and they use Freund sparingly. Mein Freund or meine Freundin usually means my boyfriend or my girlfriend; for a friend, people say ein Freund von mir or ein guter Freund. Friendships can take longer to form, but they're often expected to last for life.
+  warum: "Why might a language keep two very different words for 'friend' and 'acquaintance'? What does that say about how friendship is valued?"
+  vergleich: "In English, we call a lot of people 'friends.' Who in your life would be a Freund, and who a Bekannter?"
+
+exit:
+  a1: "Ich kann einen Freund oder eine Freundin beschreiben."
+  b1: "Ich kann zwei Personen vergleichen und sagen, was ein guter Freund ist."
+
+energizer:
+  title: "Wer ist größer? (silent line-up)"
+  text: "Call out a category and have students line up silently: by height, by birthday, by number of siblings, by how far they live from DSB Hall. Then check out loud down the line: Ana ist größer als Ben. Ben wohnt näher als Carla."
+
+extension:
+  title: "Freundschaft online"
+  intro: "Lies den Text und die Tabelle (Beispieldaten). Dann beantworte die Fragen."
+  text: "Kann man online echte Freunde finden? Eine Umfrage unter Jugendlichen zeigt: Viele haben Freunde, die sie nur online kennen, zum Beispiel aus Spielen oder sozialen Netzwerken. Die meisten finden Freundschaften offline aber wichtiger. Online ist es einfacher, Kontakt zu haben, aber schwieriger, jemandem wirklich zu vertrauen. Fast alle sagen: Ein echter Freund ist jemand, der da ist, wenn es einem schlecht geht."
+  table:
+    head: ["Aussage", "Prozent"]
+    rows:
+      - ["Ich habe mindestens einen Freund, den ich nur online kenne.", "41 %"]
+      - ["Offline-Freundschaften sind mir wichtiger.", "78 %"]
+      - ["Online kann man leichter über Probleme sprechen.", "35 %"]
+      - ["Ich vertraue Online-Freunden genauso wie Offline-Freunden.", "22 %"]
+  questions:
+    - ["Wie viele Jugendliche haben einen Freund, den sie nur online kennen?", "41 %."]
+    - ["Was ist für die meisten wichtiger?", "Offline-Freundschaften (78 %)."]
+    - ["Was ist online leichter, was ist schwieriger?", "Kontakt haben ist leichter; jemandem vertrauen ist schwieriger."]
+    - ["Was ist laut Text ein echter Freund?", "Jemand, der da ist, wenn es einem schlecht geht."]
+  task: "Sind Online-Freunde echte Freunde? Schreib 5–6 Sätze mit mindestens zwei Komparativen (leichter, wichtiger ...) und einer Zahl aus der Tabelle."
+
+buffer: "Compliment cards: each student writes one card for a classmate using a comparison (Mit dir ist alles lustiger! Du bist so hilfsbereit wie ...), or a second matching round with profiles students invent."
+
+page:
+  modules:
+    einstieg: "Two famous faces: Wer ist älter? Wer ist größer?"
+    input: "Sentence builder + narrow reading (Mia & Ben, Lara & Jonas) + Achte auf die Form"
+    kernaufgabe: "Wer passt zusammen? Trade profiles, match friends"
+    landeskunde: "Freund oder Bekannter? Valentinstag in Deutschland"
+    energizer: "Wer ist größer? (silent line-up)"
+    extension: "Freundschaft online (text + data)"
+    buffer: "Compliment cards, or invented profiles"
+  einstieg: "Show photos of two well-known people your students will recognize (athletes, musicians, cartoon characters). Ask either/or questions: *Wer ist älter? Wer ist größer? Wer ist lustiger?* Students answer with a name. Then model the full sentence: *Ja, sie ist älter als er.*"
+  materials:
+    - "Student packet, one per student"
+    - "Two photos of familiar people for the Einstieg"
+  summary: "Wer passt zusammen? Partner A has profiles of two teenagers and Partner B has two others. They ask each other questions until a four-person chart is complete, then compare the four and decide which two would make the best friends, with two reasons. A1/A2 write short answers and one comparison; B1/B2 compare with *als* and *so ... wie* and explain why another pair wouldn't work."
+  note:
+    type: note
+    text: "Class falls on Valentine's Day itself. The packet is about friendship, not romance, so nobody has to talk about crushes. If students ask: *mein Freund / meine Freundin* usually means boyfriend / girlfriend, which is covered in the Landeskunde."
+  grammar: |
+    **Comparatives: -er + als.** Add *-er* to the adjective and compare with *als* (than):
+
+    > Tim ist **größer als** Jonas. Meine Schwester ist **älter als** ich.
+
+    Short adjectives with *a, o, u* usually add an umlaut: *alt → älter, groß → größer, jung → jünger*. The irregulars to memorize:
+
+    | | comparative | superlative (B1/B2) |
+    | :--- | :--- | :--- |
+    | gut | **besser** | am besten |
+    | gern | **lieber** | am liebsten |
+    | viel | **mehr** | am meisten |
+    | hoch | **höher** | am höchsten |
+
+    **Equal:** *so ... wie* (as ... as): *Lea ist **so alt wie** Anna.*
+  achtung: "**What students will do:** say *„mehr groß“* (the English \"more\" pattern), or *„größer wie“* instead of *größer als*. Plenty of native speakers say *größer wie* too, but it isn't standard. Restate: *„Ja, größer als Ben.“* The Achte-auf-die-Form items ask the opposite question (*Wer ist jünger?* after *Anna ist älter als Lea*), so students must process the comparison instead of just spotting a name."
+  b2: "**If a B2 asks:** a superlative before a noun takes adjective endings (*der beste Freund, die beste Freundin*). *Lieber* is the comparative of *gern*: *Ich spiele lieber Tennis* = I'd rather play tennis. *Mehr* never takes an ending. The profiles and survey numbers are invented."
+  vocab_extra:
+    - ["die Freundschaft", "friendship"]
+    - ["der / die Bekannte", "acquaintance"]
+    - ["der feste Freund / die feste Freundin", "boyfriend / girlfriend"]
+    - ["vertrauen", "to trust"]
+    - ["sich verstehen", "to get along"]
+    - ["hilfsbereit", "helpful"]

@@ -1,0 +1,220 @@
+week: 19
+date: 2027-02-28
+date_label: "Sonntag, 28. Februar 2027"
+theme: "Reisen & Verkehrsmittel"
+cando:
+  a1: "say where I went, how I traveled and what I did"
+  b1b2: "tell the story of a past trip in order and with details"
+grammar_focus: "Perfekt: haben or sein + participle at the end (Ich habe Pizza gegessen. Ich bin nach Berlin gefahren.). Movement from A to B and bleiben take sein."
+ap:
+  unit: "AP theme: Global Contexts (travel, climate) / Contemporary Life"
+  mode: "Interpersonal storytelling + source-based argument"
+  note: "Telling events in order with cohesive devices (zuerst, dann, danach, am Ende) is AP skill 2.D (organization); the extension adds a short data-plus-text argument."
+
+builder:
+  - title: "Meine Reise (My trip)"
+    rows:
+      - ["Ich bin nach Berlin / nach Florida / ans Meer gefahren.", "I went to Berlin / to Florida / to the ocean."]
+      - ["Ich bin mit dem Zug / mit dem Auto gefahren. Ich bin geflogen.", "I went by train / by car. I flew."]
+      - ["Ich bin eine Woche geblieben.", "I stayed one week."]
+      - ["Ich habe bei meiner Tante / im Hotel / im Zelt geschlafen.", "I slept at my aunt's / in a hotel / in a tent."]
+      - ["Ich habe ein Museum besucht und viele Fotos gemacht.", "I visited a museum and took lots of photos."]
+      - ["Ich habe ... gegessen / gesehen / gekauft.", "I ate / saw / bought ..."]
+      - ["Es war super / langweilig / anstrengend.", "It was great / boring / exhausting."]
+  - title: "Verkehrsmittel und Zeitwörter (Transportation and time words)"
+    rows:
+      - ["der Zug, das Flugzeug, das Auto, der Bus, das Schiff, das Fahrrad", "train, plane, car, bus, ship, bike"]
+      - ["letzten Sommer / letztes Jahr / in den Ferien", "last summer / last year / during vacation"]
+      - ["zuerst ... dann ... danach ... am Ende ...", "first ... then ... after that ... in the end ..."]
+      - ["Wohin bist du gefahren? Was hast du gemacht?", "Where did you go? What did you do?"]
+      - ["haben: gemacht, gespielt, gekauft, besucht, gegessen, gesehen", "have: done, played, bought, visited, eaten, seen"]
+      - ["sein: gefahren, geflogen, gegangen, geblieben", "be: gone (traveled), flown, gone (walked), stayed"]
+
+vocab:
+  complete:
+    - ["Ich ___ nach Berlin gefahren.", "I went to Berlin.", "bin"]
+    - ["Wir ___ viele Fotos gemacht.", "We took lots of photos.", "haben"]
+    - ["Ich bin mit dem Flugzeug ___.", "I flew (by plane).", "geflogen"]
+    - ["Was hast du ___?", "What did you do?", "gemacht"]
+    - ["Wir sind eine Woche ___.", "We stayed one week.", "geblieben"]
+    - ["___ war super!", "It was great!", "Es"]
+  match:
+    - ["die Reise", "trip"]
+    - ["das Flugzeug", "airplane"]
+    - ["der Koffer", "suitcase"]
+    - ["die Fahrkarte", "ticket"]
+    - ["anstrengend", "exhausting"]
+    - ["der Urlaub", "vacation"]
+  match_order: [5, 3, 6, 1, 2, 4]
+  translate:
+    - ["Ich bin letzten Sommer nach Kanada gefahren.", "Last summer I went to Canada."]
+    - ["Wir sind mit dem Zug gefahren.", "We went by train."]
+    - ["Ich habe meine Großeltern besucht.", "I visited my grandparents."]
+    - ["Wir haben im Zelt geschlafen.", "We slept in a tent."]
+    - ["Hast du viele Fotos gemacht?", "Did you take lots of photos?"]
+    - ["Die Reise war anstrengend.", "The trip was exhausting."]
+    - ["Meine Schwester ist nach Wien geflogen.", "My sister flew to Vienna."]
+    - ["Was hast du gegessen?", "What did you eat?"]
+  letters: ["Reise", "Flugzeug", "Koffer", "Fahrkarte", "Urlaub", "Bahnhof", "geflogen", "besucht"]
+  broken:
+    - ["Ich bin mit dem Zug nach Berlin gefahren.", "I took the train to Berlin."]
+    - ["Wir haben ein Museum besucht.", "We visited a museum."]
+    - ["Am Abend haben wir Pizza gegessen.", "In the evening we ate pizza."]
+    - ["Die Reise war toll!", "The trip was great!"]
+  suitable:
+    - "Letzten Sommer bin ich nach ___ gefahren."
+    - "Ich bin mit ___ gefahren."
+    - "Ich habe ___ besucht."
+    - "Ich habe ___ gegessen."
+    - "Zuerst ___, dann ___."
+    - "Die Reise war ___."
+
+reading:
+  a1:
+    texts:
+      - ["Emily", "Letzten Sommer bin ich mit meiner Familie nach Deutschland geflogen. Wir sind zwei Wochen geblieben. Zuerst haben wir meine Oma in Stuttgart besucht. Dann sind wir mit dem Zug nach München gefahren. Dort habe ich Brezeln gegessen und viele Fotos gemacht. Es war super!"]
+      - ["Noah", "In den Winterferien bin ich mit meinem Vater nach Vermont gefahren. Wir sind sechs Stunden mit dem Auto gefahren. Das war langweilig! Aber dann sind wir drei Tage Ski gefahren. Am letzten Tag bin ich hingefallen, aber nur ein bisschen."]
+    questions:
+      - ["How did Emily get to Germany?", "By plane"]
+      - ["Who did Emily visit in Stuttgart?", "Her grandma"]
+      - ["How long was the car ride to Vermont?", "Six hours"]
+      - ["What happened on Noah's last day?", "He fell (but only a little)."]
+  b1:
+    texts:
+      - ["Leonie", "Nach dem Abitur bin ich mit meiner besten Freundin drei Wochen mit einem Interrail-Pass durch Europa gereist. Wir sind von Berlin über Prag und Wien bis nach Venedig gefahren. Wir haben in Jugendherbergen geschlafen und fast nur Brot und Käse gegessen, weil alles so teuer war. In Wien haben wir unseren Zug verpasst und mussten eine Nacht am Bahnhof bleiben. Trotzdem war es die beste Reise meines Lebens."]
+      - ["Herr Schmitt", "Ich bin Lehrer und fahre jedes Jahr mit meiner Klasse auf Klassenfahrt. Letztes Jahr sind wir nach Hamburg gefahren, natürlich mit dem Zug. Wir haben eine Hafenrundfahrt gemacht, das Miniatur Wunderland besucht und abends in der Jugendherberge Karten gespielt. Die Schüler haben wenig geschlafen, und ich auch nicht!"]
+    questions:
+      - ["Wohin sind Leonie und ihre Freundin gefahren?", "Von Berlin über Prag und Wien bis nach Venedig."]
+      - ["Warum haben sie fast nur Brot und Käse gegessen?", "Weil alles so teuer war."]
+      - ["Was ist in Wien passiert?", "Sie haben ihren Zug verpasst und mussten eine Nacht am Bahnhof bleiben."]
+      - ["Was hat die Klasse in Hamburg gemacht?", "Eine Hafenrundfahrt, das Miniatur Wunderland besucht und in der Jugendherberge Karten gespielt."]
+
+structured_input:
+  ref:
+    directions: "Jetzt oder schon passiert? (Now, or already happened?)"
+    options: ["jetzt", "schon passiert"]
+    items:
+      - ["Wir sind nach Hamburg gefahren.", "schon passiert"]
+      - ["Wir fahren nach Hamburg.", "jetzt"]
+      - ["Lena hat viele Fotos gemacht.", "schon passiert"]
+      - ["Max fliegt nach Wien.", "jetzt"]
+      - ["Ich bin im Hotel geblieben.", "schon passiert"]
+      - ["Meine Eltern besuchen das Museum.", "jetzt"]
+  aff:
+    directions: "Hast du das schon gemacht?"
+    options: ["Ja, schon!", "Noch nie."]
+    items:
+      - "Ich bin schon einmal geflogen."
+      - "Ich habe schon einmal im Zelt geschlafen."
+      - "Ich bin schon einmal mit dem Zug gefahren."
+      - "Ich habe schon einmal ein anderes Land besucht."
+      - "Ich habe im Urlaub schon einmal etwas verloren."
+
+task:
+  title: "Zwei Wahrheiten, eine Lüge (two truths and a lie: travel edition)"
+  format: "Partner interview, then groups of four"
+  directions: "Think of a trip: a vacation, a day trip, a visit to relatives. Write three Perfekt sentences about it: two true, one invented. Then interview your partner about their trip with the questions below and take notes. Finally, in groups of four, everyone reads their three sentences; the others each ask one follow-up question and guess which sentence is the lie."
+  a1: "Build your sentences from the Sentence Builder: Ich bin nach ... gefahren. Ich habe ... gegessen."
+  b1: "Make your lie hard to spot by adding a detail to every sentence (wann, mit wem, warum). Ask your follow-up questions in the Perfekt: Was hast du dort gegessen?"
+  tables:
+    - title: "Interview: die Reise von meinem Partner / meiner Partnerin"
+      head: ["Frage", "Antwort"]
+      rows:
+        - ["Wohin bist du gefahren?", ""]
+        - ["Mit wem bist du gefahren?", ""]
+        - ["Womit bist du gefahren?", ""]
+        - ["Wo hast du geschlafen?", ""]
+        - ["Was hast du gemacht / gesehen / gegessen?", ""]
+        - ["Wie war es?", ""]
+    - title: "Meine drei Sätze (2 wahr, 1 gelogen)"
+      head: ["#", "Satz"]
+      rows:
+        - ["1", ""]
+        - ["2", ""]
+        - ["3", ""]
+    - title: "Wir raten (our guesses)"
+      head: ["Name", "Die Lüge ist Satz ..."]
+      blank: 3
+
+output:
+  a1: "Write a postcard about a trip, real or imagined, with four Perfekt sentences: where you went, how, what you did, and how it was. Read it to a partner. They ask one question: Hast du auch ... ?"
+  b1: "Write a short travel-blog post (6–8 sentences) telling a trip in order with zuerst, dann, danach and am Ende. Include one thing that went wrong. Your partner reads it and comments with one question and one tip for next time."
+
+landeskunde:
+  title: "Unterwegs mit der Bahn"
+  text: |
+    Germans travel a lot: by law, full-time workers get at least 20 vacation days a year, and 25–30 is common. For trips inside Germany and across Europe, many people take the train. The national railway, Deutsche Bahn, runs fast ICE trains between big cities, and a monthly Deutschlandticket covers every local and regional bus, streetcar and train in the whole country. Young Europeans often travel through many countries on one Interrail pass and sleep in youth hostels (Jugendherbergen); the world's first permanent youth hostel opened in Germany in 1912.
+
+    The trains aren't perfect. Delays are a running joke, and the Bahn's punctuality is a national complaint. But for many Germans, the train is the normal, and greener, way to get somewhere.
+  warum: "Germany built the first youth hostel and gives young people cheap ways to travel on their own. Why might a society want its teenagers to travel independently?"
+  vergleich: "How do families in the US usually travel on vacation? What would change if trains were as common here as in Germany?"
+
+exit:
+  a1: "Ich kann sagen, wohin ich gereist bin und was ich gemacht habe."
+  b1: "Ich kann von einer Reise in der richtigen Reihenfolge erzählen."
+
+energizer:
+  title: "Kofferpacken (packing relay)"
+  text: "Week 7's picnic game in the Perfekt. Sit in a circle. The first student says: Ich bin nach Berlin gefahren und habe eine Kamera mitgenommen. The next repeats and adds one item: ... eine Kamera und einen Koffer mitgenommen. Whoever forgets an item starts a new round."
+
+extension:
+  title: "Fliegen oder Zug fahren?"
+  intro: "Lies den Text und die Tabelle (gerundete Beispielwerte). Dann beantworte die Fragen."
+  text: "Von Berlin nach München kann man fliegen, mit dem Zug fahren oder mit dem Auto fahren. Das Flugzeug ist in der Luft am schnellsten, aber man muss zum Flughafen fahren und früh da sein. Der ICE fährt von Stadtmitte zu Stadtmitte und braucht etwa vier Stunden. Für das Klima ist der Zug viel besser: Er produziert pro Person nur einen kleinen Teil der Emissionen eines Flugs. Viele junge Leute sagen deshalb: Inlandsflüge sollte man verbieten. Andere finden: Jeder soll selbst entscheiden."
+  table:
+    head: ["Berlin → München", "Reisezeit (Tür zu Tür, ca.)", "CO2 pro Person (ca.)"]
+    rows:
+      - ["Flugzeug", "3,5 Stunden", "120 kg"]
+      - ["Zug (ICE)", "4,5 Stunden", "10 kg"]
+      - ["Auto (1 Person)", "7 Stunden", "90 kg"]
+  questions:
+    - ["Was ist der Vorteil vom Flugzeug?", "Es ist in der Luft am schnellsten (Tür zu Tür ca. 3,5 Stunden)."]
+    - ["Wie lange braucht der ICE von Berlin nach München?", "Etwa vier Stunden (Tür zu Tür ca. 4,5 Stunden)."]
+    - ["Welches Verkehrsmittel ist am besten für das Klima?", "Der Zug (ca. 10 kg CO2 pro Person)."]
+    - ["Was fordern viele junge Leute?", "Inlandsflüge zu verbieten."]
+  task: "Sollte man Inlandsflüge verbieten? Schreib 5–6 Sätze. Benutze eine Zahl aus der Tabelle und den Text (Laut Text ...)."
+
+buffer: "A class travel map: each student marks a place they've been and writes one Perfekt sentence next to it, or a second round of Two Truths and a Lie with new partners."
+
+page:
+  modules:
+    einstieg: "Trip photos: Bin ich mit dem Zug oder mit dem Auto gefahren?"
+    input: "Sentence builder + narrow reading (Emily & Noah, Leonie & Herr Schmitt) + Achte auf die Form"
+    kernaufgabe: "Zwei Wahrheiten, eine Lüge: travel edition"
+    landeskunde: "Unterwegs mit der Bahn"
+    energizer: "Kofferpacken (packing relay)"
+    extension: "Fliegen oder Zug fahren? (data + short argument)"
+    buffer: "Class travel map, or another round of the Kernaufgabe"
+  einstieg: "Show 4–5 photos from a trip (your own, if you're willing, or stock photos). Narrate in short Perfekt sentences: *Ich bin nach ... gefahren. Ich habe das hier gesehen. Das habe ich gegessen!* Ask either/or questions: *Bin ich mit dem Zug oder mit dem Auto gefahren?* Students answer with one word."
+  materials:
+    - "Student packet, one per student"
+    - "4–5 trip photos for the Einstieg"
+  summary: "Zwei Wahrheiten, eine Lüge. Each student writes three Perfekt sentences about a trip, two true and one invented, and interviews a partner about their trip. Then, in groups of four, everyone reads their sentences while the others ask follow-up questions and guess the lie. A1/A2 build sentences from the Sentence Builder; B1/B2 add details to hide the lie and ask follow-ups in the Perfekt."
+  note:
+    type: note
+    text: "Not every student has traveled far. A day trip, a visit to a relative's town or an invented trip all work. Say so when you introduce the task so nobody feels put on the spot."
+  grammar: |
+    **Perfekt: haben or sein + participle at the end.** It's the everyday way to talk about the past in conversation:
+
+    > Ich **habe** Pizza **gegessen**. Wir **sind** nach Berlin **gefahren**.
+
+    **Which helper?** Most verbs use *haben*. Verbs of moving from A to B (*fahren, fliegen, gehen, reisen, kommen*) and *bleiben* use *sein*.
+
+    **The participle:**
+
+    | Type | Pattern | Examples |
+    | :--- | :--- | :--- |
+    | Regular | ge- + stem + **-t** | machen → **gemacht**, spielen → **gespielt**, kaufen → **gekauft** |
+    | Irregular | ge- + (changed) stem + **-en** | essen → **gegessen**, sehen → **gesehen**, fahren → **gefahren**, fliegen → **geflogen** |
+    | No ge- | verbs starting with *be-, ver-*, or ending in *-ieren* | besuchen → **besucht**, verpassen → **verpasst**, fotografieren → **fotografiert** |
+
+    Treat irregular participles as vocabulary; the Sentence Builder has the ones this week needs.
+  achtung: "**What students will do:** use *haben* with movement verbs: *„Ich habe nach Berlin gefahren.“* Restate it (*„Ah, du bist nach Berlin gefahren!“*) and keep the story going. The Achte-auf-die-Form items contain no time words like *gestern* or *letzten Sommer*, so students must notice *habe / bin* + participle to know it already happened. That's the form-meaning link this week builds."
+  b2: "**If a B2 asks:** *sein* and *haben* usually appear in the simple past even in conversation (*Es war super. Ich hatte keine Zeit.*). Written stories use the Präteritum, like the St. Martin legend in Week 9. The CO2 figures in the extension are rounded example values, not official numbers."
+  vocab_extra:
+    - ["die Jugendherberge", "youth hostel"]
+    - ["die Klassenfahrt", "class trip"]
+    - ["verpassen", "to miss (a train)"]
+    - ["der Flughafen", "airport"]
+    - ["der Inlandsflug", "domestic flight"]
+    - ["mitnehmen", "to take along"]

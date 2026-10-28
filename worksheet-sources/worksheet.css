@@ -344,3 +344,28 @@ ol.ws-items.si > li { margin-bottom: 8px; }
 .page-break { break-before: page; }
 @media screen { .page-break { height: 0; } }
 .keep { break-inside: avoid; }
+
+/* ---------- Town map for direction info gaps (task.maps) ---------- */
+.town-map { display: grid; margin: 4px 0 12px 0; font-size: 9.5pt; }
+.town-map .blk {
+  border: 1.5px solid #2A2118;
+  border-radius: 2px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2px 4px;
+  font-weight: 600;
+}
+.town-map .blk.unknown { color: #B8AC8E; font-weight: 400; font-size: 14pt; }
+.town-map .vst { background: #E4D9BC; display: flex; align-items: center; justify-content: center; }
+.town-map .vst span { writing-mode: vertical-rl; transform: rotate(180deg); font-size: 7.5pt; color: #4A4236; }
+.town-map .hst {
+  background: #E4D9BC;
+  font-size: 8pt;
+  color: #4A4236;
+  text-align: center;
+  padding: 2px 0;
+  margin: 0 0 0 0;
+}

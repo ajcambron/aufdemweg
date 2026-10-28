@@ -1,0 +1,220 @@
+week: 15
+date: 2027-01-31
+date_label: "Sonntag, 31. Januar 2027"
+theme: "Kleidung & Mode"
+cando:
+  a1: "name clothes and colors and say what I like"
+  b1b2: "describe an outfit in detail and shop for clothes"
+grammar_focus: "A1/A2: Der Pullover ist blau. Er gefällt mir. (Things are er/sie/es too!) B1/B2: adjective endings after ein: ein blauer Pullover, eine rote Jacke, ein schwarzes T-Shirt."
+ap:
+  unit: "AP theme: Art and Creativity (fashion) / Global Contexts (fast fashion)"
+  mode: "Interpersonal role play + interpretive data reading"
+  note: "Landeskunde climbs from a product (Tracht) to a perspective (regional identity); the extension pairs a text with a cost breakdown, an AP-style chart task."
+
+builder:
+  - title: "Kleidung (Clothes)"
+    rows:
+      - ["der Pullover, der Rock, der Mantel, der Schal", "sweater, skirt, coat, scarf"]
+      - ["die Jacke, die Hose, die Jeans, die Mütze", "jacket, pants, jeans, hat"]
+      - ["das T-Shirt, das Hemd, das Kleid", "T-shirt, shirt, dress"]
+      - ["die Schuhe, die Socken, die Stiefel", "shoes, socks, boots"]
+      - ["Ich trage heute ...", "Today I'm wearing ..."]
+      - ["rot, blau, grün, gelb, schwarz, weiß, grau, braun, bunt", "red, blue, green, yellow, black, white, gray, brown, colorful"]
+  - title: "Im Geschäft (In the store)"
+    rows:
+      - ["Der Pullover ist schön. Er gefällt mir.", "The sweater is nice. I like it."]
+      - ["Die Jacke ist zu teuer / zu groß / zu klein.", "The jacket is too expensive / too big / too small."]
+      - ["Kann ich das anprobieren?", "Can I try this on?"]
+      - ["Welche Größe? S, M oder L?", "What size? S, M or L?"]
+      - ["Ich nehme ihn / sie / es.", "I'll take it. (m / f / n)"]
+      - ["ein blauer Pullover / eine rote Jacke / ein schwarzes T-Shirt [B1/B2]", "a blue sweater / a red jacket / a black T-shirt"]
+
+vocab:
+  complete:
+    - ["Heute ___ ich eine Jeans.", "Today I'm wearing jeans.", "trage"]
+    - ["Der Pullover ist schön. ___ gefällt mir.", "The sweater is nice. I like it.", "Er"]
+    - ["Die Jacke ist zu ___.", "The jacket is too expensive.", "teuer"]
+    - ["Kann ich das ___?", "Can I try this on?", "anprobieren"]
+    - ["Der Mantel? Ich ___ ihn.", "The coat? I'll take it.", "nehme"]
+    - ["Welche ___ haben Sie?", "What size are you?", "Größe"]
+  match:
+    - ["die Größe", "size"]
+    - ["anprobieren", "to try on"]
+    - ["teuer", "expensive"]
+    - ["billig", "cheap"]
+    - ["die Umkleidekabine", "fitting room"]
+    - ["passen", "to fit"]
+  match_order: [3, 4, 6, 2, 1, 5]
+  translate:
+    - ["Ich trage heute einen grauen Pullover.", "Today I'm wearing a gray sweater."]
+    - ["Die Schuhe sind zu klein.", "The shoes are too small."]
+    - ["Wie gefällt dir das Kleid?", "How do you like the dress?"]
+    - ["Es gefällt mir sehr gut.", "I like it a lot."]
+    - ["Kann ich die Jacke anprobieren?", "Can I try on the jacket?"]
+    - ["Der Mantel kostet 80 Euro.", "The coat costs 80 euros."]
+    - ["Ich nehme sie.", "I'll take it. (the jacket)"]
+    - ["Meine Lieblingsfarbe ist Grün.", "My favorite color is green."]
+  letters: ["Pullover", "Jacke", "Schuhe", "Mantel", "Größe", "schwarz", "anprobieren", "Kleidung"]
+  broken:
+    - ["Ich trage gern Jeans und Turnschuhe.", "I like to wear jeans and sneakers."]
+    - ["Der Mantel ist zu teuer.", "The coat is too expensive."]
+    - ["Kann ich das Hemd anprobieren?", "Can I try on the shirt?"]
+    - ["Die Farbe gefällt mir gut.", "I like the color."]
+  suitable:
+    - "Heute trage ich ___."
+    - "Meine Lieblingsfarbe ist ___."
+    - "Der Pullover ist zu ___."
+    - "___ gefällt mir."
+    - "Am Wochenende trage ich gern ___."
+    - "Zur Schule trage ich ___."
+
+reading:
+  a1:
+    texts:
+      - ["Leon", "Ich heiße Leon. Heute trage ich eine Jeans, ein graues T-Shirt und meine Lieblingsschuhe. Sie sind weiß und sehr bequem. Ich trage fast immer Schwarz oder Grau. Bunte Kleidung gefällt mir nicht so."]
+      - ["Hannah", "Ich heiße Hannah. Ich liebe Farben! Heute trage ich einen gelben Pullover und eine grüne Hose. Meine Oma sagt, das passt nicht zusammen. Ich finde, es sieht toll aus. Am Wochenende kaufe ich gern Kleidung im Secondhandladen. Das ist billig und gut für die Umwelt."]
+    questions:
+      - ["Which colors does Leon almost always wear?", "Black or gray"]
+      - ["What does Leon like about his favorite shoes?", "They're comfortable (and white)."]
+      - ["What does Hannah's grandma think of her outfit?", "That the colors don't go together."]
+      - ["Why does Hannah shop at the secondhand store?", "It's cheap and good for the environment."]
+  b1:
+    texts:
+      - ["Valentina", "Ich studiere Modedesign in Düsseldorf. Für mich ist Kleidung eine Sprache: Was man trägt, sagt etwas über einen. In Deutschland sind die Leute im Alltag oft eher praktisch angezogen. Eine gute Jacke ist wichtiger als ein schickes Outfit. Aber junge Leute experimentieren mehr, besonders in Großstädten wie Berlin."]
+      - ["Max", "An meiner Schule in München gibt es keine Schuluniform, wie an fast allen deutschen Schulen. Manche Eltern wollen eine, weil dann niemand wegen seiner Kleidung gemobbt wird. Ich bin dagegen. Ich finde, man soll selbst entscheiden dürfen, was man trägt. Außerdem kostet eine Uniform auch Geld."]
+    questions:
+      - ["Was ist Kleidung für Valentina?", "Eine Sprache: Was man trägt, sagt etwas über einen."]
+      - ["Wie sind viele Deutsche im Alltag angezogen?", "Eher praktisch."]
+      - ["Warum wollen manche Eltern eine Schuluniform?", "Damit niemand wegen seiner Kleidung gemobbt wird."]
+      - ["Warum ist Max gegen eine Schuluniform?", "Man soll selbst entscheiden dürfen, was man trägt, und eine Uniform kostet auch Geld."]
+
+structured_input:
+  ref:
+    directions: "Wovon spricht die Person? (What is the person talking about?)"
+    items:
+      - ["Sie ist zu teuer.", "die Jacke", ["die Jacke", "der Rock"]]
+      - ["Er passt gut.", "der Mantel", ["die Hose", "der Mantel"]]
+      - ["Es ist zu klein.", "das Hemd", ["das Hemd", "die Mütze"]]
+      - ["Sie sind zu groß.", "die Schuhe", ["das Kleid", "die Schuhe"]]
+      - ["Er ist schwarz und warm.", "der Schal", ["der Schal", "das T-Shirt"]]
+  aff:
+    directions: "Wie findest du das?"
+    options: ["Stimmt!", "Stimmt nicht."]
+    items:
+      - "Schwarze Kleidung ist cool."
+      - "Ich trage gern bunte Socken."
+      - "Eine Schuluniform ist praktisch."
+      - "Markenkleidung ist mir wichtig."
+      - "Ich kaufe gern secondhand."
+
+task:
+  title: "Ein Outfit für drei Anlässe (an outfit for three occasions)"
+  format: "Partner role play: customer and salesperson"
+  directions: "Partner A is the customer with 100 euros and needs clothes for three occasions: a winter hike (Winterwanderung), a birthday party (Geburtstagsparty) and a job interview (Vorstellungsgespräch). Partner B is the salesperson with the catalog. The customer asks for items (Haben Sie einen Mantel?), asks about color, size and price, and buys at least one item for each occasion. The salesperson fills in the receipt. Then switch roles; the new customer has 80 euros."
+  a1: "Use Haben Sie ...? Was kostet ...? Ich nehme ihn / sie / es. Describe items with ist-sentences: Der Mantel ist schwarz."
+  b1: "Describe what you want with adjective endings (Ich suche einen warmen Mantel, eine schwarze Hose, ein weißes Hemd) and say why each item fits the occasion."
+  tables:
+    - title: "Katalog"
+      head: ["Artikel", "Farben", "Preis"]
+      rows:
+        - ["der Wintermantel", "schwarz, grau, rot", "59 €"]
+        - ["die Regenjacke", "gelb, blau", "35 €"]
+        - ["der Pullover", "grün, weiß, grau", "25 €"]
+        - ["die Jeans", "blau, schwarz", "30 €"]
+        - ["das Hemd", "weiß, hellblau", "20 €"]
+        - ["das Kleid", "rot, schwarz", "45 €"]
+        - ["die Schuhe (Paar)", "braun, schwarz", "40 €"]
+        - ["die Wanderstiefel (Paar)", "braun", "50 €"]
+        - ["die Mütze", "bunt, grau", "10 €"]
+        - ["der Schal", "rot, grün", "12 €"]
+    - title: "Kassenbon (receipt)"
+      head: ["Anlass", "Artikel", "Farbe", "Größe", "Preis"]
+      rows:
+        - ["Winterwanderung", "", "", "", ""]
+        - ["Geburtstagsparty", "", "", "", ""]
+        - ["Vorstellungsgespräch", "", "", "", ""]
+        - ["Summe", "", "", "", ""]
+
+output:
+  a1: "Describe a classmate's outfit without saying the name: Er / Sie trägt eine Jeans. Die Jeans ist blau. Er / Sie trägt ... Your partner guesses who it is."
+  b1: "Write a short fashion-blog post (5–6 sentences): what you like to wear, your favorite piece and why, where you shop, and one opinion (Schuluniform? Secondhand? Marken?). Use at least four adjectives with endings. Your partner comments like a blog reader: one compliment and one question."
+
+landeskunde:
+  title: "Tracht: Dirndl und Lederhose"
+  text: |
+    In Bavaria and Austria, traditional clothing (Tracht) isn't a costume. Women wear the Dirndl, a fitted dress with a blouse and apron; men wear Lederhosen, leather shorts or knee breeches. People wear them to weddings, church festivals and folk festivals like Munich's Oktoberfest, and some simply on Sundays. A good Tracht is expensive and often handed down. Small details carry messages: by custom, an apron bow tied on the wearer's left means single, on the right means taken.
+
+    In the last twenty years Tracht has become popular again with young people, which some see as pride in regional identity and others as a marketing trend. Other regions have their own Trachten, like the Black Forest's Bollenhut, a straw hat with big red pompoms.
+  warum: "Why might young people in Bavaria choose to wear their grandparents' kind of clothing? What does Tracht say about regional identity?"
+  vergleich: "Is there clothing in the US that shows where someone is from or what group they belong to? Compare it with Tracht."
+
+exit:
+  a1: "Ich kann sagen, was ich trage und was mir gefällt."
+  b1: "Ich kann ein Outfit genau beschreiben und im Geschäft einkaufen."
+
+energizer:
+  title: "Modenschau (fashion show)"
+  text: "Volunteers walk a runway between the desks. An announcer describes each outfit: Hier kommt Maya! Sie trägt eine Jeans und einen Pullover. Der Pullover ist rot. The class claps if the description is right and calls out the fix if it isn't."
+
+extension:
+  title: "Fast Fashion: Wer zahlt den Preis?"
+  intro: "Lies den Text und die Tabelle (Beispielrechnung). Dann beantworte die Fragen."
+  text: "Ein T-Shirt für fünf Euro: Wie ist das möglich? Viele Kleidungsstücke werden in Ländern mit sehr niedrigen Löhnen produziert, und die Herstellung verbraucht viel Wasser. Für ein einziges Baumwoll-T-Shirt braucht man oft mehrere tausend Liter. Gleichzeitig kaufen viele Menschen heute viel mehr Kleidung als früher und tragen sie seltener. In Deutschland gibt es deshalb immer mehr Secondhandläden, Kleidertauschpartys und Reparatur-Cafés."
+  table:
+    head: ["Wohin gehen die 5 € für ein T-Shirt? (Beispiel)", "Euro"]
+    rows:
+      - ["Geschäft und Gewinn", "2,95 €"]
+      - ["Material (Baumwolle, Farbe)", "1,25 €"]
+      - ["Transport", "0,40 €"]
+      - ["Fabrik", "0,35 €"]
+      - ["Lohn der Näherin", "0,05 €"]
+  questions:
+    - ["Warum sind manche T-Shirts so billig?", "Sie werden in Ländern mit sehr niedrigen Löhnen produziert."]
+    - ["Wie viel bekommt die Näherin in diesem Beispiel?", "5 Cent (0,05 €)."]
+    - ["Was ist das Problem mit dem Wasser?", "Für ein T-Shirt braucht man mehrere tausend Liter Wasser."]
+    - ["Welche Alternativen gibt es in Deutschland?", "Secondhandläden, Kleidertauschpartys und Reparatur-Cafés."]
+  task: "Schreib 5–6 Sätze: Würdest du mehr für ein T-Shirt bezahlen, wenn die Näherin mehr Geld bekommt? Benutze eine Zahl aus der Tabelle."
+
+buffer: "A paper clothing swap (students trade drawn items: Ich gebe dir meinen Schal für deine Mütze.), or a second shopping round with a new budget."
+
+page:
+  modules:
+    einstieg: "TPR: Steh auf, wenn du Blau trägst!"
+    input: "Sentence builder + narrow reading (Leon & Hannah, Valentina & Max) + Achte auf die Form"
+    kernaufgabe: "Ein Outfit für drei Anlässe: shopping on a budget"
+    landeskunde: "Tracht: Dirndl und Lederhose"
+    energizer: "Modenschau (fashion show)"
+    extension: "Fast Fashion: Wer zahlt den Preis? (text + cost chart)"
+    buffer: "Paper clothing swap, or a second shopping round"
+  einstieg: "Run a quick TPR round: *Steh auf, wenn du Blau trägst! Heb die Hand, wenn du Turnschuhe trägst!* Point at items as you name them. Then point to three pieces of clothing in the room and ask either/or questions: *Ist das ein Pullover oder eine Jacke?*"
+  materials:
+    - "Student packet, one per student"
+    - "Optional: a few real clothing items or catalog pictures"
+  summary: "Ein Outfit für drei Anlässe. Partner A is a customer with a budget who needs clothes for a winter hike, a birthday party and a job interview; Partner B is the salesperson with the catalog. The customer asks about items, colors, sizes and prices and buys something for each occasion, and the salesperson fills in the receipt. Then they switch. A1/A2 describe with *Der Mantel ist schwarz*; B1/B2 use adjective endings (*einen warmen Mantel*) and explain why each item fits."
+  note:
+    type: note
+    text: "A1/A2 students don't need adjective endings this week; the program says so. *Der Pullover ist blau* and *Er gefällt mir* count as full success. Only B1/B2 work with *ein blauer Pullover*."
+  grammar: |
+    **A1/A2: things are er, sie, es too.** A pronoun for an object follows the noun's gender. There's no all-purpose "it":
+
+    > **Der** Pullover ist schön. **Er** gefällt mir. · **Die** Jacke ist teuer. **Sie** kostet 60 Euro. · **Das** Kleid ist kurz. **Es** ist zu klein.
+
+    After *nehmen* (I'll take it), the masculine one changes: *Ich nehme **ihn*** (the sweater), *sie* (the jacket), *es* (the dress).
+
+    **B1/B2: adjective endings after *ein*.** The ending shows the gender that *ein* can't:
+
+    | | der-words | das-words | die-words |
+    | :--- | :--- | :--- | :--- |
+    | Subject | ein blau**er** Pullover | ein schwarz**es** T-Shirt | eine rot**e** Jacke |
+    | Object (*Ich suche ...*) | einen blau**en** Pullover | ein schwarz**es** T-Shirt | eine rot**e** Jacke |
+
+    After *ist* there's no ending at all: *Der Pullover ist blau.*
+  achtung: "**What students will do:** call everything *es*: *„Der Mantel? Es ist zu groß.“* With two items on the table, that's a meaning problem, so the Achte-auf-die-Form items make students match *er / sie / es* to the right item. B1/B2 will get adjective endings wrong constantly, and that's expected: these endings are among the last things learners acquire. Restate, don't drill, and don't grade them."
+  b2: "**If a B2 asks:** after *der / die / das* the endings are simpler (*der blaue Pullover, die rote Jacke, das schwarze T-Shirt*, all *-e*). *Gefallen* takes the dative: *Er gefällt **mir***. *Die Jeans* is singular in German (*Die Jeans ist zu lang*). The catalog prices and the T-shirt cost breakdown are invented examples."
+  vocab_extra:
+    - ["die Kleidung", "clothes"]
+    - ["bequem", "comfortable"]
+    - ["die Umkleidekabine", "fitting room"]
+    - ["die Tracht", "traditional regional clothing"]
+    - ["das Dirndl / die Lederhose", "dirndl / lederhosen"]
+    - ["der Secondhandladen", "secondhand store"]

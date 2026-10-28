@@ -18,12 +18,12 @@
 - {week: 12, date: 2027-01-10, theme: "Neujahr & Gute Vorsätze", cando: "State resolutions/future plans.", notes: "Future (werden).", page: /wochen/woche-12/}
 - {week: 13, date: 2027-01-17, theme: "Wetter & Winter", cando: "Describe weather; discuss winter sports/activities.", notes: "Dative with prepositions.", page: /wochen/woche-13/}
 - {week: 14, date: 2027-01-24, theme: "Körper & Gesundheit", cando: "Name body parts; describe simple ailments; doctor role-play.", notes: "müssen/sollen.", page: /wochen/woche-14/}
-- {week: 15, date: 2027-01-31, theme: "Kleidung & Mode", cando: "Shop for clothing; describe outfits.", notes: "Adjective endings (A1 skips agreement)."}
-- {week: 16, date: 2027-02-07, theme: "Karneval & Fasching", cando: "Describe costumes/traditions; compare regional Karneval.", notes: "Actual Karnevalssonntag."}
-- {week: 17, date: 2027-02-14, theme: "Valentinstag & Freundschaft", cando: "Describe a person's character; compare two people.", notes: "Comparatives."}
-- {week: 18, date: 2027-02-21, theme: "Stadt & Wegbeschreibung", cando: "Give and follow directions; read a map.", notes: "Map info-gap; imperative."}
-- {week: 19, date: 2027-02-28, theme: "Reisen & Verkehrsmittel", cando: "Narrate a past trip.", notes: "Perfekt."}
-- {week: 20, date: 2027-03-07, theme: "Medien & Technologie", cando: "State and justify an opinion (phones in school?).", notes: "B1/B2: short debate."}
+- {week: 15, date: 2027-01-31, theme: "Kleidung & Mode", cando: "Shop for clothing; describe outfits.", notes: "Adjective endings (A1 skips agreement).", page: /wochen/woche-15/}
+- {week: 16, date: 2027-02-07, theme: "Karneval & Fasching", cando: "Describe costumes/traditions; compare regional Karneval.", notes: "Actual Karnevalssonntag.", page: /wochen/woche-16/}
+- {week: 17, date: 2027-02-14, theme: "Valentinstag & Freundschaft", cando: "Describe a person's character; compare two people.", notes: "Comparatives.", page: /wochen/woche-17/}
+- {week: 18, date: 2027-02-21, theme: "Stadt & Wegbeschreibung", cando: "Give and follow directions; read a map.", notes: "Map info-gap; imperative.", page: /wochen/woche-18/}
+- {week: 19, date: 2027-02-28, theme: "Reisen & Verkehrsmittel", cando: "Narrate a past trip.", notes: "Perfekt.", page: /wochen/woche-19/}
+- {week: 20, date: 2027-03-07, theme: "Medien & Technologie", cando: "State and justify an opinion (phones in school?).", notes: "B1/B2: short debate.", page: /wochen/woche-20/}
 - {week: 21, date: 2027-03-14, theme: "Deutschland-Kunde", cando: "Locate states/cities; jigsaw info exchange.", notes: "B2: dialect variation."}
 - {week: 22, date: 2027-03-21, theme: "Ostern", cando: "Describe Easter traditions in German-speaking countries.", notes: "B2: wishes with Konjunktiv II."}
 - {week: ,   date: 2027-03-28, theme: "No School", cando: "", notes: "Easter."}

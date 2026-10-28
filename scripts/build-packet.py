@@ -59,6 +59,23 @@ def keep(inner):
     return f'<div class="keep">{inner}</div>'
 
 
+def town_map(m):
+    """A street grid: rows of blocks (\"?\" = unknown) with named streets between them."""
+    blocks, hs, vs = m["blocks"], m["hstreets"], m["vstreets"]
+    ncols = len(blocks[0])
+    cells = []
+    for r, row in enumerate(blocks):
+        for c, name in enumerate(row):
+            cls = "blk unknown" if name == "?" else "blk"
+            cells.append(f'<div class="{cls}">{"?" if name == "?" else esc(name)}</div>')
+            if c < ncols - 1:
+                label = esc(vs[c]) if r == 0 else ""
+                cells.append(f'<div class="vst"><span>{label}</span></div>')
+        cells.append(f'<div class="hst" style="grid-column: 1 / span {2 * ncols - 1}">{esc(hs[r])}</div>')
+    cols = " 22px ".join(["1fr"] * ncols)
+    return f'<div class="town-map" style="grid-template-columns: {cols}">{"".join(cells)}</div>'
+
+
 def band(title):
     return f'<div class="band">{esc(title)}</div>'
 
@@ -176,6 +193,8 @@ def build(nn):
         rows = [list(row) for row in tb.get("rows", [])]
         rows += [[""] * len(tb["head"]) for _ in range(tb.get("blank", 0))]
         parts.append(keep(title + table(rows, head=tb["head"], cls="ws-table task")))
+    for m in t.get("maps", []):
+        parts.append(keep(f'<p class="level">{esc(m["title"])}</p>' + town_map(m)))
     if t.get("html"):
         parts.append(t["html"])
 

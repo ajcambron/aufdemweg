@@ -1,0 +1,221 @@
+week: 20
+date: 2027-03-07
+date_label: "Sonntag, 7. März 2027"
+theme: "Medien & Technologie"
+cando:
+  a1: "say which devices and apps I use and give a simple opinion"
+  b1b2: "state and justify an opinion and respond to a counterargument in a short debate"
+grammar_focus: "Ich finde, dass ... sends the verb to the end (dass Handys nützlich sind). Meiner Meinung nach + verb second (Meiner Meinung nach sind Handys nützlich)."
+ap:
+  unit: "AP theme: Science and Technology (media, privacy)"
+  mode: "Presentational argument (debate) + three-source argumentative writing"
+  note: "The extension is a scaled AP Argumentative Essay: three sources including data, a clear position, every source cited, and organization by claim rather than by source."
+
+builder:
+  - title: "Meine Medien (My media)"
+    rows:
+      - ["Ich habe ein Handy / einen Laptop / ein Tablet.", "I have a phone / a laptop / a tablet."]
+      - ["Ich bin ... Stunden pro Tag am Handy.", "I'm on my phone ... hours a day."]
+      - ["Ich chatte / streame / poste / zocke.", "I chat / stream / post / game."]
+      - ["Ich benutze oft YouTube / WhatsApp / TikTok.", "I often use YouTube / WhatsApp / TikTok."]
+      - ["Ohne mein Handy kann ich nicht leben.", "I can't live without my phone."]
+      - ["Das ist praktisch / nützlich / gefährlich / Zeitverschwendung.", "That's practical / useful / dangerous / a waste of time."]
+  - title: "Meine Meinung (My opinion)"
+    rows:
+      - ["Ich finde, dass Handys nützlich sind.", "I think that phones are useful."]
+      - ["Meiner Meinung nach sind Handys in der Schule ein Problem.", "In my opinion, phones in school are a problem."]
+      - ["Ich bin dafür. / Ich bin dagegen.", "I'm for it. / I'm against it."]
+      - ["Das stimmt, aber ... / Da bin ich anderer Meinung.", "That's true, but ... / I disagree."]
+      - ["Einerseits ..., andererseits ... [B1/B2]", "On the one hand ..., on the other hand ..."]
+      - ["erstens, außerdem, deshalb, trotzdem [B1/B2]", "first, besides, therefore, nevertheless"]
+
+vocab:
+  complete:
+    - ["Ich finde, dass Handys nützlich ___.", "I think that phones are useful.", "sind"]
+    - ["Meiner Meinung ___ sind Handys ein Problem.", "In my opinion phones are a problem.", "nach"]
+    - ["Ich bin ___. Handys sollen verboten sein.", "I'm for it. Phones should be banned.", "dafür"]
+    - ["Ich ___ jeden Tag zwei Stunden am Handy.", "I'm on my phone two hours every day.", "bin"]
+    - ["Das ___, aber ...", "That's true, but ...", "stimmt"]
+    - ["Soziale Medien sind oft ___.", "Social media are often a waste of time.", "Zeitverschwendung"]
+  match:
+    - ["die Meinung", "opinion"]
+    - ["nützlich", "useful"]
+    - ["ablenken", "to distract"]
+    - ["verbieten", "to ban"]
+    - ["der Bildschirm", "screen"]
+    - ["erlaubt", "allowed"]
+  match_order: [3, 5, 1, 6, 2, 4]
+  translate:
+    - ["Ich finde, dass Handys praktisch sind.", "I think that phones are practical."]
+    - ["Meiner Meinung nach ist TikTok Zeitverschwendung.", "In my opinion TikTok is a waste of time."]
+    - ["Ich bin dagegen.", "I'm against it."]
+    - ["Handys lenken im Unterricht ab.", "Phones are distracting in class."]
+    - ["In der Pause sind Handys erlaubt.", "Phones are allowed at break."]
+    - ["Da bin ich anderer Meinung.", "I disagree."]
+    - ["Ich chatte jeden Abend mit meinen Freunden.", "I chat with my friends every evening."]
+    - ["Deshalb sollte man Handys verbieten.", "That's why phones should be banned."]
+  letters: ["Handy", "Meinung", "Bildschirm", "nützlich", "verbieten", "erlaubt", "Laptop", "Internet"]
+  broken:
+    - ["Ich finde, dass Handys nützlich sind.", "I think that phones are useful."]
+    - ["Meiner Meinung nach lenken Handys ab.", "In my opinion phones are distracting."]
+    - ["Ich bin dafür, weil es praktisch ist.", "I'm for it because it's practical."]
+    - ["Da bin ich anderer Meinung.", "I disagree."]
+  suitable:
+    - "Ich bin ___ Stunden pro Tag am Handy."
+    - "Ich finde, dass ___."
+    - "Meiner Meinung nach ist ___."
+    - "Ich bin dafür, weil ___."
+    - "Ich bin dagegen, weil ___."
+    - "Ohne ___ kann ich nicht leben."
+
+reading:
+  a1:
+    texts:
+      - ["Paula", "Ich heiße Paula. Ich bin jeden Tag drei Stunden am Handy. Ich chatte mit meinen Freunden und schaue Videos. Meine Eltern finden, dass das zu viel ist. Ich finde, dass mein Handy wichtig ist. Ohne mein Handy weiß ich nicht, was meine Freunde machen!"]
+      - ["Finn", "Ich heiße Finn. Ich habe kein Smartphone, nur ein altes Handy zum Telefonieren. Meine Freunde finden das komisch. Aber ich finde, dass ich so mehr Zeit habe: Ich lese viel und spiele Gitarre. Meiner Meinung nach brauchen Jugendliche kein Smartphone."]
+    questions:
+      - ["How long is Paula on her phone each day?", "Three hours"]
+      - ["What do Paula's parents think?", "That it's too much."]
+      - ["What kind of phone does Finn have?", "An old phone, just for calls"]
+      - ["What does Finn do with his extra time?", "He reads and plays guitar."]
+  b1:
+    texts:
+      - ["Frau Neumann", "An unserer Schule sind Handys seit diesem Schuljahr im Unterricht verboten. Die Schülerinnen und Schüler müssen sie morgens in eine Box legen und bekommen sie erst nach der letzten Stunde zurück. Am Anfang gab es viel Protest. Inzwischen sagen viele Lehrkräfte, dass die Klassen ruhiger sind und die Schüler sich in der Pause wieder mehr unterhalten."]
+      - ["Yusuf", "Ich bin Schülersprecher und verstehe das Problem, aber ein komplettes Verbot finde ich falsch. Wir benutzen das Handy auch zum Lernen: für Vokabel-Apps, zum Recherchieren oder für den Stundenplan. Außerdem müssen wir lernen, selbst mit Medien umzugehen. Das lernt man nicht, wenn das Handy den ganzen Tag in einer Box liegt. Meiner Meinung nach sollten Schüler und Lehrer die Regeln zusammen machen."]
+    questions:
+      - ["Was müssen die Schüler morgens machen?", "Ihre Handys in eine Box legen."]
+      - ["Was sagen viele Lehrkräfte inzwischen?", "Die Klassen sind ruhiger, und die Schüler unterhalten sich in der Pause mehr."]
+      - ["Wofür benutzt Yusuf das Handy beim Lernen?", "Für Vokabel-Apps, zum Recherchieren und für den Stundenplan."]
+      - ["Was schlägt Yusuf vor?", "Schüler und Lehrer sollten die Regeln zusammen machen."]
+
+structured_input:
+  ref:
+    directions: "Ist die Person für oder gegen Handys in der Schule?"
+    options: ["pro Handy", "contra Handy"]
+    items:
+      - ["Ich finde, dass Handys in der Schule stören.", "contra Handy"]
+      - ["Meiner Meinung nach sind Handys im Unterricht nützlich.", "pro Handy"]
+      - ["Ich bin dagegen, dass man Handys verbietet.", "pro Handy"]
+      - ["Ich glaube nicht, dass Schüler ohne Handy schlechter lernen.", "contra Handy"]
+      - ["Ich bin dafür, dass Handys in der Pause erlaubt sind.", "pro Handy"]
+      - ["Meiner Meinung nach lenken Handys zu sehr ab.", "contra Handy"]
+  aff:
+    directions: "Was meinst du?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich bin jeden Tag mehr als drei Stunden am Handy."
+      - "Ich finde, dass soziale Medien Stress machen."
+      - "Meiner Meinung nach brauchen Schüler ein Handy."
+      - "Ich lese lieber auf Papier als am Bildschirm."
+      - "Ich könnte eine Woche ohne Handy leben."
+
+task:
+  title: "Handyregeln für DSB Hall (phone rules: a mini debate)"
+  format: "Four corners + structured group debate"
+  directions: "Step 1: Read the argument cards and mark each one pro (for phones in school) or contra. Step 2: Go to a corner of the room: sehr dafür, eher dafür, eher dagegen or sehr dagegen. Step 3: In mixed groups of four (two pro, two contra), each person gives one argument, and the next speaker must respond to it before adding their own (Das stimmt, aber ...). Step 4: Your group writes three phone rules that everyone can accept."
+  a1: "Sort the cards, pick your corner, and read one card aloud as your argument: Ich bin dafür. Mit dem Handy kann man ..."
+  b1: "Give your argument with Meiner Meinung nach or Ich finde, dass ..., respond to the previous speaker first, and use at least one connector (außerdem, deshalb, trotzdem)."
+  tables:
+    - title: "Argumentkarten (argument cards): pro oder contra?"
+      head: ["Argument", "pro / contra"]
+      rows:
+        - ["Mit dem Handy kann man schnell etwas recherchieren.", ""]
+        - ["Handys lenken im Unterricht ab.", ""]
+        - ["Im Notfall kann man die Eltern anrufen.", ""]
+        - ["In der Pause reden die Schüler nicht mehr miteinander.", ""]
+        - ["Man lernt, verantwortungsvoll mit Medien umzugehen.", ""]
+        - ["Manche Schüler werden online gemobbt, auch in der Schule.", ""]
+        - ["Vokabel-Apps helfen beim Lernen.", ""]
+        - ["Ohne Handy kann man sich besser konzentrieren.", ""]
+    - title: "Unsere drei Handyregeln (our three phone rules)"
+      head: ["#", "Regel"]
+      rows:
+        - ["1", ""]
+        - ["2", ""]
+        - ["3", ""]
+
+output:
+  a1: "Write three opinion sentences about media: Ich finde, dass ___ ___ ist. Meiner Meinung nach ist ___. Ich bin dafür / dagegen. Read them to a partner. They answer Ich auch! or Da bin ich anderer Meinung!"
+  b1: "Write a short argument (6–8 sentences): Sollten Handys in der Schule verboten sein? Include a clear claim, two reasons with examples, one counterargument (Einerseits ..., andererseits ...), and a conclusion with deshalb. Your partner underlines your claim, numbers your reasons, circles your connectors and says which reason convinced them most."
+
+landeskunde:
+  title: "Datenschutz: Privatsphäre ist wichtig"
+  text: |
+    Germans tend to be more careful with personal data than many Americans. Privacy (Datenschutz) is a strong legal and cultural value, shaped partly by history: both the Nazi regime and East Germany's secret police, the Stasi, kept files on millions of people. When Google Street View came to Germany in 2010, hundreds of thousands of households asked to have their homes blurred, and the service barely expanded there for over a decade.
+
+    It shows up in daily life: many Germans still prefer cash, use nicknames online and don't post photos of their children. Schools need parents' permission before publishing photos of students. And the EU's privacy law (DSGVO, known in English as GDPR) strictly limits what companies may collect.
+  warum: "How might a country's history shape how it thinks about privacy today? What does Datenschutz say about German values?"
+  vergleich: "Do you think about privacy when you post online? Compare your habits with the German attitude."
+
+exit:
+  a1: "Ich kann sagen, welche Medien ich benutze und was ich davon halte."
+  b1: "Ich kann meine Meinung begründen und auf ein Gegenargument reagieren."
+
+energizer:
+  title: "Schnell-Meinung (opinion speed round)"
+  text: "The instructor calls out a topic: Hausaufgaben am Wochenende! Pizza mit Ananas! Schule am Sonntag! Students step left for Ich bin dafür or right for Ich bin dagegen. Call on one student from each side for a quick reason (weil ...)."
+
+extension:
+  title: "Drei Quellen, ein Text (AP-Training)"
+  intro: "Lies die drei Quellen. Dann schreib einen argumentativen Text und benutze alle drei."
+  text: |
+    Quelle 1 (Zeitungsartikel): In mehreren europäischen Ländern sind Handys an Schulen inzwischen stark eingeschränkt. Befürworter berichten von weniger Ablenkung im Unterricht und mehr Gesprächen in den Pausen.
+
+    Quelle 2 (Interview mit einer Medienpädagogin): „Ein Verbot löst das Problem nicht. Jugendliche müssen lernen, mit dem Handy umzugehen, und dafür brauchen sie Übung, auch in der Schule.“
+
+    Quelle 3 (Tabelle, Beispieldaten): Wie viele Stunden am Tag sind Jugendliche am Handy? Siehe Tabelle.
+  table:
+    head: ["Quelle 3: Stunden pro Tag am Handy", "Jugendliche"]
+    rows:
+      - ["0–2 Stunden", "18 %"]
+      - ["2–4 Stunden", "41 %"]
+      - ["mehr als 4 Stunden", "41 %"]
+  questions:
+    - ["Was berichten Befürworter eines Verbots (Quelle 1)?", "Weniger Ablenkung im Unterricht und mehr Gespräche in den Pausen."]
+    - ["Warum ist die Medienpädagogin gegen ein Verbot (Quelle 2)?", "Jugendliche müssen den Umgang mit dem Handy üben, auch in der Schule."]
+    - ["Wie viele Jugendliche sind mehr als vier Stunden am Tag am Handy (Quelle 3)?", "41 %."]
+    - ["Welche Quelle passt am besten zu deiner Meinung? Warum?", "Open answer."]
+  task: "Schreib einen argumentativen Text (8–10 Sätze): Sollten Handys an Schulen verboten werden? Nimm klar Stellung, benutze alle drei Quellen und nenne sie jedes Mal (Laut Quelle 1 ...), und erkläre, wie jede Quelle dein Argument stützt. Ordne den Text nach Argumenten, nicht nach Quellen."
+
+buffer: "A second debate round on a new question (Sollte TikTok erst ab 16 erlaubt sein?), or a class vote on the best group's phone rules."
+
+page:
+  modules:
+    einstieg: "Silent screen-time poll"
+    input: "Sentence builder + narrow reading (Paula & Finn, Frau Neumann & Yusuf) + Achte auf die Form"
+    kernaufgabe: "Handyregeln für DSB Hall: four corners + mini debate"
+    landeskunde: "Datenschutz: Privatsphäre ist wichtig"
+    energizer: "Schnell-Meinung (opinion speed round)"
+    extension: "Drei Quellen, ein Text (AP-style essay)"
+    buffer: "Second debate topic, or a vote on the rules"
+  einstieg: "Ask students to check their phone's screen-time number without saying it. Run a silent hands-up poll: *Wer ist weniger als zwei Stunden am Tag am Handy? Zwei bis vier? Mehr als vier?* Write the tallies on the board in German. Then ask *Ist das zu viel?* and collect *ja / nein*. Those tallies set up the debate."
+  materials:
+    - "Student packet, one per student"
+    - "Four signs for the corners of the room: sehr dafür / eher dafür / eher dagegen / sehr dagegen"
+  summary: "Handyregeln für DSB Hall. Students sort eight argument cards into pro and contra, choose a corner of the room to show where they stand, then debate in mixed groups of four where each speaker must respond to the previous one before adding a new argument. Each group ends by writing three phone rules everyone can accept. A1/A2 read an argument card aloud as their contribution; B1/B2 use *Meiner Meinung nach* and *Ich finde, dass ...*, respond with *Das stimmt, aber ...* and add a connector."
+  note:
+    type: important
+    text: "This is the program's B1/B2 debate week. The extension is a full AP-style source-based essay (three sources, one argument); if you have strong B2 students, it's the most valuable optional module of the year to run."
+  grammar: |
+    **Two ways to give an opinion, two word orders.**
+
+    *Ich finde, dass ...* sends the verb to the end, like *weil* in Week 1:
+
+    > Ich finde, **dass** Handys nützlich **sind**.
+
+    *Meiner Meinung nach* counts as the first element, so the verb comes right after it (Week 6's verb-second rule):
+
+    > **Meiner Meinung nach sind** Handys nützlich.
+
+    **Taking sides:** *Ich bin dafür* (for it), *Ich bin dagegen* (against it). With a clause: *Ich bin dafür, dass Handys erlaubt sind.*
+
+    **Connectors (B1/B2):** *erstens* (first), *außerdem* (besides), *deshalb* (that's why), *trotzdem* (nevertheless), *einerseits ... andererseits* (on the one hand ... on the other). *Deshalb* and *trotzdem* take the verb right after them: *Deshalb **sind** Handys ...*
+  achtung: "**What students will do:** two word-order slips, *„Ich finde, dass Handys sind nützlich“* and *„Meiner Meinung nach Handys sind nützlich.“* In a debate, meaning comes first: restate instead of interrupting. The bigger meaning trap is negation inside an opinion: *Ich bin dagegen, dass man Handys verbietet* is actually *pro* phones. The Achte-auf-die-Form items are built around exactly that kind of sentence."
+  b2: "**If a B2 asks:** *Ich denke / Ich glaube / Ich meine, dass ...* all work like *Ich finde, dass ...*. *Sollte* (should) is the Konjunktiv II of *sollen* (Week 14). For the essay: organize by argument, not by source, and name the source every time you use it. Quelle 3's numbers are invented."
+  vocab_extra:
+    - ["das Argument / das Gegenargument", "argument / counterargument"]
+    - ["dafür / dagegen", "for it / against it"]
+    - ["der Datenschutz", "data privacy"]
+    - ["sich konzentrieren", "to concentrate"]
+    - ["zocken (Umgangssprache)", "to game (slang)"]
+    - ["die Quelle", "source"]

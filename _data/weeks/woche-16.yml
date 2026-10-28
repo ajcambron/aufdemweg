@@ -1,0 +1,209 @@
+week: 16
+date: 2027-02-07
+date_label: "Sonntag, 7. Februar 2027: Karnevalssonntag"
+theme: "Karneval & Fasching"
+cando:
+  a1: "describe a costume and name Karneval traditions"
+  b1b2: "compare regional Karneval traditions and explain what they mean"
+grammar_focus: "Ich gehe als ... (als + noun: Ich gehe als Pirat.) And tragen changes its vowel: du trägst, er/sie trägt."
+ap:
+  unit: "AP theme: Families and Communities (celebrations) / Language and Culture (regional identity)"
+  mode: "Interpretive reading (jigsaw) + cultural comparison writing"
+  note: "Four regions, one season: students describe products (masks, lanterns) and practices (parades, Büttenreden) and climb to a perspective (Narrenfreiheit), the full AP products-practices-perspectives ladder."
+
+builder:
+  - title: "Mein Kostüm (My costume)"
+    rows:
+      - ["Ich gehe als Pirat / als Prinzessin / als Clown.", "I'm going as a pirate / a princess / a clown."]
+      - ["Ich verkleide mich als ...", "I'm dressing up as ..."]
+      - ["Ich trage eine Maske / eine Perücke / einen Hut.", "I'm wearing a mask / a wig / a hat."]
+      - ["Du trägst ... / Er, sie trägt ...", "You're wearing ... / He, she is wearing ..."]
+      - ["das Kostüm / die Verkleidung", "costume / disguise"]
+      - ["lustig, gruselig, bunt, verrückt", "funny, scary, colorful, crazy"]
+  - title: "Karneval, Fasching, Fastnacht"
+    rows:
+      - ["Kölle Alaaf! (Köln) / Helau! (Mainz, Düsseldorf)", "Karneval cheers (Cologne / Mainz, Düsseldorf)"]
+      - ["der Umzug / der Rosenmontagszug", "parade / Rose Monday parade"]
+      - ["Kamelle (Bonbons), Kostüme, Musik", "candy thrown from the floats, costumes, music"]
+      - ["am 11.11. um 11:11 Uhr", "November 11 at 11:11: the season opens"]
+      - ["Weiberfastnacht: Frauen schneiden Krawatten ab.", "Women's Carnival Day: women cut off men's ties."]
+      - ["Am Aschermittwoch ist alles vorbei.", "On Ash Wednesday it's all over."]
+
+vocab:
+  complete:
+    - ["Ich gehe ___ Pirat.", "I'm going as a pirate.", "als"]
+    - ["Er ___ eine Maske.", "He's wearing a mask.", "trägt"]
+    - ["Was ___ du?", "What are you wearing?", "trägst"]
+    - ["In Köln ruft man: Kölle ___!", "In Cologne people shout: Kölle Alaaf!", "Alaaf"]
+    - ["Am Rosenmontag gibt es einen großen ___.", "On Rose Monday there's a big parade.", "Umzug"]
+    - ["Ich ___ mich als Hexe.", "I'm dressing up as a witch.", "verkleide"]
+  match:
+    - ["die Maske", "mask"]
+    - ["die Perücke", "wig"]
+    - ["der Umzug", "parade"]
+    - ["gruselig", "scary, creepy"]
+    - ["die Hexe", "witch"]
+    - ["der Narr", "fool, jester"]
+  match_order: [5, 3, 1, 6, 4, 2]
+  translate:
+    - ["Ich gehe als Astronaut.", "I'm going as an astronaut."]
+    - ["Meine Schwester trägt eine Perücke.", "My sister is wearing a wig."]
+    - ["Was trägst du an Karneval?", "What are you wearing for Karneval?"]
+    - ["Die Kinder sammeln Kamelle.", "The children collect candy."]
+    - ["Der Umzug ist sehr laut und bunt.", "The parade is very loud and colorful."]
+    - ["Am Aschermittwoch ist alles vorbei.", "On Ash Wednesday it's all over."]
+    - ["Mein Kostüm ist gruselig.", "My costume is scary."]
+    - ["Ich verkleide mich gern.", "I like dressing up."]
+  letters: ["Karneval", "Kostüm", "Maske", "Perücke", "Umzug", "Fasching", "verkleiden", "Konfetti"]
+  broken:
+    - ["Ich gehe dieses Jahr als Clown.", "This year I'm going as a clown."]
+    - ["Er trägt eine bunte Perücke.", "He's wearing a colorful wig."]
+    - ["Am Rosenmontag gibt es einen Umzug.", "On Rose Monday there's a parade."]
+    - ["Die Leute rufen Helau und werfen Bonbons.", "People shout Helau and throw candy."]
+  suitable:
+    - "Ich gehe als ___."
+    - "Ich trage ___."
+    - "Mein Kostüm ist ___."
+    - "Mein Freund trägt ___."
+    - "An Karneval ___ die Leute ___."
+    - "Am liebsten verkleide ich mich als ___."
+
+reading:
+  a1:
+    texts:
+      - ["Jana", "Ich heiße Jana und ich wohne in Köln. Karneval ist hier die fünfte Jahreszeit! Dieses Jahr gehe ich als Biene. Mein Bruder trägt ein Piratenkostüm. Am Rosenmontag sehen wir den großen Umzug und sammeln Kamelle. Alle rufen: Kölle Alaaf!"]
+      - ["David", "Ich heiße David. Bei uns in Delaware gibt es keinen Karneval, aber an Halloween verkleide ich mich gern. Letztes Jahr war ich ein Zombie. Meine Freundin trägt immer ein lustiges Kostüm. Ich möchte einmal nach Köln fahren und Karneval sehen."]
+    questions:
+      - ["What is Jana dressing up as?", "A bee"]
+      - ["What is her brother wearing?", "A pirate costume"]
+      - ["When does David dress up?", "At Halloween"]
+      - ["What would David like to do someday?", "Go to Cologne and see Karneval"]
+  b1:
+    texts:
+      - ["Frau Krämer", "Ich bin seit dreißig Jahren in einem Mainzer Fastnachtsverein. Für uns ist Fastnacht nicht nur Party, sondern auch Politik: In den Sitzungen stehen Redner in der Bütt und machen sich über Politiker lustig. Früher war das eine der wenigen Gelegenheiten, bei denen man die Mächtigen offen kritisieren durfte. Narrenfreiheit nennt man das."]
+      - ["Felix", "In Basel ist die Fasnacht ganz anders als in Köln. Sie beginnt am Montag nach Aschermittwoch, genau um vier Uhr morgens, mit dem Morgestraich: In der ganzen Altstadt gehen die Lichter aus, und Tausende Menschen mit Masken und großen Laternen ziehen durch die dunklen Straßen und spielen Piccolo und Trommel. Es ist gar nicht laut und lustig, sondern fast feierlich. Ich bekomme jedes Mal Gänsehaut."]
+    questions:
+      - ["Was machen die Redner in der Bütt?", "Sie machen sich über Politiker lustig."]
+      - ["Was bedeutet Narrenfreiheit?", "An Fastnacht darf man die Mächtigen offen kritisieren."]
+      - ["Wann beginnt die Basler Fasnacht?", "Am Montag nach Aschermittwoch um vier Uhr morgens."]
+      - ["Wie ist die Stimmung beim Morgestraich?", "Fast feierlich, nicht laut und lustig."]
+
+structured_input:
+  ref:
+    directions: "Wer ist das? Das Verb verrät es. (Who is it? The verb gives it away.)"
+    items:
+      - ["___ trägt eine Maske.", "er", ["ich", "er"]]
+      - ["___ trage einen Hut.", "ich", ["ich", "er"]]
+      - ["___ trägst ein Piratenkostüm.", "du", ["du", "sie"]]
+      - ["___ tragen rote Clownsnasen.", "wir", ["du", "wir"]]
+      - ["___ verkleidest dich als Hexe.", "du", ["ich", "du"]]
+      - ["___ verkleidet sich als Biene.", "sie", ["sie", "ich"]]
+  aff:
+    directions: "Was würdest du an Karneval tragen?"
+    options: ["Gern!", "Nie!"]
+    items:
+      - "Ich gehe als Superheld oder Superheldin."
+      - "Ich trage eine Maske."
+      - "Ich verkleide mich als Tier."
+      - "Ich gehe als Lehrer oder Lehrerin."
+      - "Ich trage eine bunte Perücke."
+
+task:
+  title: "Karneval-Jigsaw: vier Städte"
+  format: "Group jigsaw, groups of four"
+  directions: "Each person reads ONE card: Köln, Mainz, Rottweil or Basel. Then explain your city's Karneval to your group in German while the others complete the chart. Finally, choose together which city you'd most like to visit and write two reasons."
+  a1: "Short answers in the chart are fine: Helau! Holzmasken. Um vier Uhr morgens."
+  b1: "Explain one difference with aber or während: In Köln ist es laut, während es in Basel fast feierlich ist."
+  tables:
+    - title: "Die vier Karten"
+      head: ["Köln", "Mainz", "Rottweil", "Basel"]
+      rows:
+        - ["Name: Karneval. Ruf: Kölle Alaaf! Höhepunkt: der Rosenmontagszug mit über einer Million Zuschauern. Typisch: Kamelle (Bonbons) und Blumen fliegen von den Wagen. Alle tragen Kostüme; es ist laut und bunt.", "Name: Fastnacht. Ruf: Helau! Höhepunkt: die Sitzungen im Fernsehen und der Rosenmontagszug. Typisch: Büttenreden, in denen man Politiker kritisiert. Die Farben sind Rot, Weiß, Blau und Gelb.", "Name: Fasnet (schwäbisch-alemannisch). Höhepunkt: der Narrensprung am Montag und Dienstag vor Aschermittwoch. Typisch: alte, handgeschnitzte Holzmasken und schwere Kostüme mit Glocken. Die Tradition ist mehrere hundert Jahre alt.", "Name: Fasnacht. Höhepunkt: der Morgestraich am Montag um 4 Uhr morgens in der dunklen Stadt. Typisch: große Laternen, Masken, Piccolos und Trommeln. Die Fasnacht beginnt erst nach Aschermittwoch und dauert genau drei Tage."]
+    - title: "Vergleich (comparison chart)"
+      head: ["", "Köln", "Mainz", "Rottweil", "Basel"]
+      rows:
+        - ["Name", "", "", "", ""]
+        - ["Ruf / Musik", "", "", "", ""]
+        - ["Höhepunkt", "", "", "", ""]
+        - ["Typisch", "", "", "", ""]
+    - title: "Unsere Wahl"
+      head: ["Wir möchten nach ... fahren, weil ..."]
+      blank: 2
+
+output:
+  a1: "Design your costume: draw it and describe it. Ich gehe als ___. Ich trage ___ und ___. Mein Kostüm ist ___. Read your description; your partner guesses what you are before seeing the drawing."
+  b1: "Write a short report (5–6 sentences) comparing Karneval in one of the four cities with a US celebration such as Halloween or Mardi Gras in New Orleans: costumes, music, food, and what the celebration means. Your partner adds one more similarity or difference."
+
+landeskunde:
+  title: "Die fünfte Jahreszeit"
+  text: |
+    In the Rhineland and the southwest, Karneval (also called Fasching or Fastnacht, depending on the region) is known as the fifth season. It officially opens on November 11 at 11:11, pauses for Christmas, and explodes in the week before Lent: Weiberfastnacht on Thursday, when women storm city halls and snip off men's ties; the parades on Rosenmontag, when many schools and offices in Cologne, Mainz and Düsseldorf close; and the end on Ash Wednesday.
+
+    For a few days, Karneval turns the world upside down: fools rule, ordinary people mock the powerful, and strangers link arms and sway to the music (schunkeln). In the north and east of Germany, Karneval is much smaller, and many people there find the whole thing baffling.
+  warum: "Why would a society set aside days when the usual rules don't apply and people can mock those in power? What does Narrenfreiheit say about the culture?"
+  vergleich: "Compare Karneval with Mardi Gras in New Orleans or with Halloween. What's the same, and what's different?"
+
+exit:
+  a1: "Ich kann mein Kostüm beschreiben."
+  b1: "Ich kann regionale Karnevalstraditionen vergleichen."
+
+energizer:
+  title: "Kamelle-Quiz"
+  text: "The instructor calls out quick questions about the week (Was ruft man in Köln? Wann beginnt der Karneval?). Correct answers earn a point, or a wrapped candy tossed Karneval-style if your program allows food. End with the whole class shouting Alaaf! or Helau! (vote first)."
+
+extension:
+  title: "Karneval: Spaß für alle?"
+  intro: "Lies die zwei Meinungen und beantworte die Fragen."
+  text: |
+    Lukas, 17, Köln: Karneval ist das Schönste am ganzen Jahr. Alle feiern zusammen, egal wie alt man ist oder woher man kommt. An Karneval spricht man mit Fremden und singt mit ihnen. Wo gibt es das sonst?
+
+    Aylin, 18, Düsseldorf: Ich mag die Kostüme und die Umzüge, aber manche Kostüme sind problematisch, zum Beispiel wenn sich Leute als Klischee einer anderen Kultur verkleiden. Außerdem trinken viele zu viel Alkohol, und die Stadt ist danach voller Müll. Karneval sollte respektvoller werden.
+  questions:
+    - ["Was gefällt Lukas am Karneval?", "Alle feiern zusammen; man spricht mit Fremden und singt mit ihnen."]
+    - ["Welche Kostüme findet Aylin problematisch?", "Kostüme, die das Klischee einer anderen Kultur zeigen."]
+    - ["Welche anderen Probleme nennt Aylin?", "Zu viel Alkohol und viel Müll."]
+    - ["Was meinst du: Welche Kostüme sind okay, welche nicht?", "Open answer."]
+  task: "Schreib einen Kommentar (5–6 Sätze) für die Schülerzeitung: Was macht ein gutes Karnevalskostüm aus? Beziehe dich auf beide Meinungen (Lukas meint ..., Aylin findet ...)."
+
+buffer: "Paper-plate masks, described in German while students work (Meine Maske ist rot und gruselig.), or schunkeln practice: link arms and sway to a Karneval song."
+
+page:
+  modules:
+    einstieg: "Karneval photos: Was trägt er? Was trägt sie?"
+    input: "Sentence builder + narrow reading (Jana & David, Frau Krämer & Felix) + Achte auf die Form"
+    kernaufgabe: "Karneval-Jigsaw: Köln, Mainz, Rottweil, Basel"
+    landeskunde: "Die fünfte Jahreszeit"
+    energizer: "Kamelle-Quiz"
+    extension: "Karneval: Spaß für alle? (opinion commentary)"
+    buffer: "Paper-plate masks, or schunkeln"
+  einstieg: "Show 4–5 photos: a Cologne Rosenmontag float, costumed crowds, a carved Swabian wooden mask, Basel's lanterns in the dark. For each, ask *Was trägt er / sie?* Students answer in single words (*eine Maske, einen Hut*). Then ask *Wo ist das, glaubst du?* and let them guess."
+  materials:
+    - "Student packet, one per student"
+    - "Photos for the Einstieg (Cologne parade, a Swabian-Alemannic wooden mask, Basel's Morgestraich)"
+    - "Optional: paper plates and markers for masks"
+  summary: "Karneval-Jigsaw. In groups of four, each student reads one card (Köln, Mainz, Rottweil or Basel) and explains that city's Karneval while the others fill in a comparison chart. Then the group picks the city they'd most like to visit and writes two reasons. B1/B2 explain a difference with *aber* or *während*."
+  note:
+    type: important
+    text: "This class falls on **Karnevalssonntag**, the real Sunday before Rosenmontag (February 8, 2027). Costumes are welcome if your program allows it; even a hat or face paint sets the mood."
+  grammar: |
+    **Ich gehe als ...** *Als* (as) is followed by a plain noun, usually without an article: *Ich gehe **als** Pirat. Sie geht **als** Hexe.* Many role nouns have a female form in *-in*: *als Pirat / als Piratin*. B1/B2 add *sich verkleiden als*: *Ich verkleide mich als Clown.*
+
+    **tragen changes its vowel** in the *du* and *er/sie* forms:
+
+    | | tragen |
+    | :--- | :--- |
+    | ich | trage |
+    | du | **trägst** |
+    | er / sie | **trägt** |
+    | wir / sie / Sie | tragen |
+
+    Same pattern: *fahren → du fährst*, *schlafen → er schläft*. (Week 10's command *Fahr!* drops the umlaut again.)
+  achtung: "**What students will do:** say *„Er tragt“* or *„Du tragst“*, dropping the umlaut. It doesn't block meaning, so restate it: *„Ja, er trägt eine Maske!“* The Achte-auf-die-Form items blank out the subject, so the verb ending is the only clue to who's wearing what. Also expect *„Ich gehe wie ein Pirat.“* *Wie* means \"like\"; *als* means \"as.\""
+  b2: "**If a B2 asks:** *Karneval, Fasching, Fastnacht* and *Fasnet* are regional names for the same season. *Kamelle* is Cologne dialect for candy. *Während* (while) sends the verb to the end, like *weil*. The two opinions in the extension are invented, but the debate about stereotyped costumes is a real one in Germany."
+  vocab_extra:
+    - ["sich verkleiden", "to dress up"]
+    - ["der Narr / die Närrin", "fool, jester (m / f)"]
+    - ["die Bütt", "barrel-shaped podium for Karneval speeches"]
+    - ["die Büttenrede", "satirical Karneval speech"]
+    - ["schunkeln", "to link arms and sway to music"]
+    - ["die Narrenfreiheit", "fool's license to mock anyone"]
