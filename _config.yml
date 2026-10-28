@@ -73,7 +73,6 @@ heading_anchors: true
 exclude:
   - README.md
   - CLAUDE.md
-  - cloudflare.yml
   - worksheet-sources/
   - scripts/
   - Gemfile
