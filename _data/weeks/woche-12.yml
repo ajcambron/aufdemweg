@@ -1,0 +1,210 @@
+week: 12
+date: 2027-01-10
+date_label: "Sonntag, 10. Januar 2027"
+theme: "Neujahr & Gute Vorsätze"
+cando:
+  a1: "say what I will do in the new year"
+  b1b2: "state a resolution, explain why it matters and judge how realistic it is"
+grammar_focus: "Future with werden + infinitive at the end: Ich werde mehr Sport machen. ich werde, du wirst, er/sie wird."
+ap:
+  unit: "AP theme: Contemporary Life (personal goals) / Families and Communities (celebrations)"
+  mode: "Interpersonal speaking + short persuasive writing"
+  note: "The extension reads survey data and ends with a short persuasive reply, an early step toward the AP Argumentative Essay."
+
+builder:
+  - title: "Gute Vorsätze (Resolutions)"
+    rows:
+      - ["Ich werde mehr Sport machen.", "I will do more sports."]
+      - ["Ich werde weniger am Handy sein.", "I will spend less time on my phone."]
+      - ["Ich werde gesünder essen.", "I will eat healthier."]
+      - ["Ich werde jeden Tag Deutsch üben.", "I will practice German every day."]
+      - ["Ich werde früher ins Bett gehen.", "I will go to bed earlier."]
+      - ["Mein Vorsatz ist: ...", "My resolution is: ..."]
+      - ["Das ist realistisch / unrealistisch, weil ... [B1/B2]", "That's realistic / unrealistic, because ..."]
+  - title: "Silvester und Neujahr (New Year's Eve and New Year)"
+    rows:
+      - ["Silvester (31. Dezember) / Neujahr (1. Januar)", "New Year's Eve / New Year's Day"]
+      - ["das Feuerwerk / um Mitternacht", "fireworks / at midnight"]
+      - ["Guten Rutsch! / Frohes neues Jahr!", "Happy New Year! (before / after midnight)"]
+      - ["der Glücksbringer: das Schwein, das Kleeblatt, der Schornsteinfeger", "good-luck charm: pig, four-leaf clover, chimney sweep"]
+      - ["ich werde / du wirst / er, sie wird", "I will / you will / he, she will"]
+      - ["wir werden / ihr werdet / sie werden", "we will / you all will / they will"]
+
+vocab:
+  complete:
+    - ["Ich ___ mehr Sport machen.", "I will do more sports.", "werde"]
+    - ["Du ___ weniger am Handy sein.", "You will spend less time on your phone.", "wirst"]
+    - ["Lena wird mehr Wasser ___.", "Lena will drink more water.", "trinken"]
+    - ["Um ___ gibt es ein Feuerwerk.", "At midnight there are fireworks.", "Mitternacht"]
+    - ["Mein ___ ist: mehr lesen.", "My resolution is: read more.", "Vorsatz"]
+    - ["Guten ___!", "Happy New Year! (said before midnight)", "Rutsch"]
+  match:
+    - ["der Vorsatz", "resolution"]
+    - ["das Feuerwerk", "fireworks"]
+    - ["die Mitternacht", "midnight"]
+    - ["das Glück", "luck"]
+    - ["gesund", "healthy"]
+    - ["üben", "to practice"]
+  match_order: [3, 6, 2, 5, 1, 4]
+  translate:
+    - ["Ich werde mehr lesen.", "I will read more."]
+    - ["Wirst du früher aufstehen?", "Will you get up earlier?"]
+    - ["Mein Bruder wird Gitarre lernen.", "My brother will learn guitar."]
+    - ["Wir werden zusammen kochen.", "We will cook together."]
+    - ["Um Mitternacht gibt es ein Feuerwerk.", "At midnight there are fireworks."]
+    - ["Das Schwein ist ein Glücksbringer.", "The pig is a good-luck charm."]
+    - ["Frohes neues Jahr!", "Happy New Year!"]
+    - ["Das ist unrealistisch.", "That's unrealistic."]
+  letters: ["Silvester", "Vorsatz", "Feuerwerk", "Mitternacht", "Glücksbringer", "gesünder", "Kleeblatt", "Neujahr"]
+  broken:
+    - ["Ich werde jeden Tag Deutsch üben.", "I will practice German every day."]
+    - ["Um Mitternacht gibt es ein Feuerwerk.", "At midnight there are fireworks."]
+    - ["Mein Vorsatz: mehr Sport und weniger Handy.", "My resolution: more sports and less phone."]
+    - ["Frohes neues Jahr und viel Glück!", "Happy New Year and good luck!"]
+  suitable:
+    - "Ich werde mehr ___."
+    - "Ich werde weniger ___."
+    - "Im neuen Jahr wird mein Freund ___."
+    - "An Silvester ___ ich ___."
+    - "Mein Vorsatz ist: ___."
+    - "Das ist realistisch, weil ___."
+
+reading:
+  a1:
+    texts:
+      - ["Sara", "Ich heiße Sara. An Silvester bin ich immer bei meiner Freundin. Um Mitternacht sehen wir das Feuerwerk. Mein Vorsatz für das neue Jahr: Ich werde mehr Sport machen. Ich werde dreimal pro Woche joggen. Mein Bruder sagt, das schaffe ich nie!"]
+      - ["Ali", "Ich heiße Ali. Ich mache keine großen Vorsätze. Ich werde nur zwei Sachen ändern: Ich werde weniger am Handy sein, nur eine Stunde pro Tag. Und ich werde jeden Tag zehn Minuten Deutsch üben, mit einer App."]
+    questions:
+      - ["Where is Sara on New Year's Eve?", "At her friend's house"]
+      - ["What is Sara's resolution?", "More sports: jogging three times a week"]
+      - ["How much time will Ali spend on his phone?", "Only one hour a day"]
+      - ["How will Ali practice German?", "Ten minutes a day with an app"]
+  b1:
+    texts:
+      - ["Julia", "Jedes Jahr am 1. Januar schreibe ich meine Vorsätze in ein Heft, und jedes Jahr im Februar habe ich sie vergessen. Dieses Jahr mache ich es anders: Ich werde nur einen Vorsatz haben, und ich werde ihn ganz konkret formulieren. Statt „Ich werde mehr lesen“ schreibe ich: „Ich werde jeden Abend vor dem Schlafen zwanzig Minuten lesen.“ Meine Freundin wird mich jeden Sonntag fragen, ob ich es geschafft habe."]
+      - ["Herr Wagner", "Ich bin Sportlehrer. Im Januar sind die Fitnessstudios voll, im März sind sie wieder leer. Das sehe ich jedes Jahr. Mein Tipp: Wählt etwas, das euch Spaß macht, und macht es mit anderen zusammen. Wer allein joggt, hört schneller auf. Wer in einem Verein oder mit Freunden trainiert, bleibt dabei."]
+    questions:
+      - ["Was ist Julias Problem mit Vorsätzen?", "Im Februar hat sie sie schon vergessen."]
+      - ["Was macht Julia dieses Jahr anders?", "Nur ein Vorsatz, ganz konkret formuliert; ihre Freundin fragt jeden Sonntag nach."]
+      - ["Was sieht Herr Wagner jedes Jahr?", "Im Januar sind die Fitnessstudios voll, im März wieder leer."]
+      - ["Was ist sein Tipp?", "Etwas wählen, das Spaß macht, und es mit anderen zusammen machen."]
+
+structured_input:
+  ref:
+    directions: "Jetzt oder in der Zukunft? (Now or in the future?)"
+    options: ["jetzt", "Zukunft"]
+    items:
+      - ["Lena wird mehr Wasser trinken.", "Zukunft"]
+      - ["Max spielt jeden Tag Gitarre.", "jetzt"]
+      - ["Ich werde früher schlafen gehen.", "Zukunft"]
+      - ["Wir lernen Spanisch.", "jetzt"]
+      - ["Du wirst weniger am Handy sein.", "Zukunft"]
+      - ["Meine Mutter macht Yoga.", "jetzt"]
+  aff:
+    directions: "Ist das dein Vorsatz?"
+    options: ["Das mache ich!", "Nein, danke."]
+    items:
+      - "Ich werde mehr Sport machen."
+      - "Ich werde weniger Süßigkeiten essen."
+      - "Ich werde jeden Tag Deutsch üben."
+      - "Ich werde mein Zimmer aufräumen."
+      - "Ich werde früher aufstehen."
+
+task:
+  title: "Vorsatz-Partner (accountability partners)"
+  format: "Partner interview + contract"
+  directions: "Interview your partner about three possible resolutions. For each one ask: Was wirst du machen? Wie oft? Ist das realistisch? Then pick together the ONE resolution with the best chance and make it concrete: what, how often, when. Write it in the contract, both sign it, and set a check-in date (Ich werde dich am ... fragen)."
+  a1: "Ask Was wirst du machen? and answer with Ich werde ... Rate each idea from 1 (unrealistisch) to 5 (realistisch)."
+  b1: "Push your partner to be concrete: Wie genau? Wann? Was machst du, wenn ...? Write the contract in full sentences in the third person (Sie wird jeden Abend ...)."
+  tables:
+    - title: "Interview"
+      head: ["Vorsatz", "Wie oft?", "Realistisch? (1–5)"]
+      blank: 3
+    - title: "Vertrag (contract)"
+      head: ["Mein Partner / Meine Partnerin wird ...", "Wie oft?", "Wir prüfen am ..."]
+      blank: 1
+    - head: ["Unterschrift", "Unterschrift"]
+      blank: 1
+
+output:
+  a1: "Write three resolutions for yourself and one for a family member: Ich werde ___. Meine Mutter wird ___. Read them to a partner. For each one, they say Das ist realistisch! or Das ist unrealistisch!"
+  b1: "Write a short paragraph (5–6 sentences): your resolution, why it matters to you, what could get in the way, and what you'll do then (Wenn ..., werde ich ...). Your partner reads it and gives one piece of advice: Du solltest ..."
+
+landeskunde:
+  title: "Silvester"
+  text: |
+    Germans call New Year's Eve Silvester, after the saint whose feast day is December 31. Before midnight, people wish each other einen guten Rutsch (a good slide into the new year); after midnight it's Frohes neues Jahr! At midnight the sky over German cities explodes: private fireworks go on sale for only the last few days of the year, and many people set them off right in the street.
+
+    Other customs: Dinner for One, a 1963 British comedy sketch that is barely known in Britain, has aired on German TV on New Year's Eve for decades. People give each other small good-luck charms (Glücksbringer): marzipan pigs, four-leaf clovers, chimney sweeps, ladybugs. And many families used to melt bits of lead over a candle and read the future in the shapes (Bleigießen); since the EU restricted lead, they use wax or tin instead.
+  warum: "Pigs, clovers and chimney sweeps all stand for luck. Why might a culture put so much energy into luck at the start of the year?"
+  vergleich: "How does your family mark New Year's? Compare one of your customs with a German one."
+
+exit:
+  a1: "Ich kann sagen, was ich im neuen Jahr machen werde."
+  b1: "Ich kann einen Vorsatz erklären und sagen, ob er realistisch ist."
+
+energizer:
+  title: "Wahrsager (fortune teller)"
+  text: "Each student writes one funny prediction for a classmate on a slip of paper with werden (Du wirst einen Hund kaufen. Du wirst nach Berlin fliegen.). Fold the slips, mix them in a hat, draw and read them aloud. The class guesses who wrote each one."
+
+extension:
+  title: "Warum Vorsätze scheitern"
+  intro: "Lies den Text und die Tabelle (Beispieldaten). Dann beantworte die Fragen."
+  text: "Eine Umfrage unter 500 Jugendlichen zeigt: Fast die Hälfte hat einen Vorsatz für das neue Jahr, aber nur wenige halten ihn bis zum Sommer durch. Die häufigsten Gründe für das Scheitern sind keine Zeit, keine Motivation und zu große Ziele. Experten raten deshalb zu kleinen, konkreten Zielen und zu einem Partner, der einen unterstützt."
+  table:
+    head: ["Grund für das Scheitern", "Prozent"]
+    rows:
+      - ["keine Zeit", "38 %"]
+      - ["keine Motivation", "31 %"]
+      - ["das Ziel war zu groß", "22 %"]
+      - ["anderer Grund", "9 %"]
+  questions:
+    - ["Wie viele Jugendliche haben einen Vorsatz?", "Fast die Hälfte."]
+    - ["Was ist der häufigste Grund für das Scheitern?", "Keine Zeit (38 %)."]
+    - ["Was raten Experten?", "Kleine, konkrete Ziele und einen Partner, der unterstützt."]
+    - ["Passt euer Vertrag aus der Kernaufgabe zu diesem Rat? Warum (nicht)?", "Open answer."]
+  task: "Eine Freundin schreibt dir: „Ich mache nie wieder Vorsätze, das bringt nichts!“ Antworte ihr in 4–5 Sätzen. Benutze eine Zahl aus der Tabelle."
+
+buffer: "A second fortune-teller round, or a class Vorsatz wall: each student posts their contract sentence on a poster to revisit in Week 26."
+
+page:
+  modules:
+    einstieg: "Fireworks photo + Wirst du ...? questions"
+    input: "Sentence builder + narrow reading (Sara & Ali, Julia & Herr Wagner) + Achte auf die Form"
+    kernaufgabe: "Vorsatz-Partner: interview, choose, sign a contract"
+    landeskunde: "Silvester"
+    energizer: "Wahrsager (fortune teller)"
+    extension: "Warum Vorsätze scheitern (data + persuasive reply)"
+    buffer: "Fortune-teller round two, or a Vorsatz wall"
+  einstieg: "Show a photo of New Year's fireworks over a German city (the Brandenburg Gate in Berlin is the classic). Say *An Silvester gibt es um Mitternacht ein Feuerwerk.* Then model three resolutions about yourself with gestures: *Ich werde mehr joggen. Ich werde weniger Kaffee trinken.* Ask *Und du? Wirst du mehr Sport machen?* Students answer *ja* or *nein*."
+  materials:
+    - "Student packet, one per student"
+    - "A fireworks photo for the Einstieg"
+    - "Optional: a poster for the Vorsatz wall (revisit in Week 26)"
+  summary: "Vorsatz-Partner. Partners interview each other about three possible resolutions and rate how realistic each one is. Then they choose one, make it concrete (what, how often, when), write it into a contract they both sign and set a check-in date. A1/A2 use *Ich werde ...* and a 1–5 rating; B1/B2 push for specifics and write the contract in the third person."
+  note:
+    type: note
+    text: "This is the first class after a three-week break. Expect rust: give the Einstieg a few extra minutes and recycle Week 11's *möchte* and *will* before introducing *werden*."
+  grammar: |
+    **Future with werden.** *werden* plus an infinitive at the very end:
+
+    | | werden |
+    | :--- | :--- |
+    | ich | werde |
+    | du | **wirst** |
+    | er / sie / es | **wird** |
+    | wir / sie / Sie | werden |
+    | ihr | werdet |
+
+    > Ich **werde** mehr Sport **machen**. Du **wirst** weniger am Handy **sein**.
+
+    German uses the plain present for the future far more than English (*Morgen spiele ich Fußball*). *Werden* adds intention or prediction, which is why it fits resolutions.
+  achtung: "**What students will do:** right after Week 11, mix up *will* (want) and *werde* (will). Write both on the board side by side. They'll also slip on word order (*„Ich werde machen mehr Sport“*); restate it and move on. The Achte-auf-die-Form items contain no time words like *morgen* or *nächstes Jahr*, so students have to notice *werden* itself to know it's the future."
+  b2: "**If a B2 asks:** *werden* on its own means \"to become\" (*Ich werde Ärztin* = I'm going to be a doctor; see Week 24). *Wirst* and *wird* are the only irregular forms. The extension's survey numbers are invented."
+  vocab_extra:
+    - ["der Vorsatz", "resolution"]
+    - ["Silvester", "New Year's Eve"]
+    - ["der Glücksbringer", "good-luck charm"]
+    - ["schaffen", "to manage, to pull off"]
+    - ["üben", "to practice"]
+    - ["scheitern", "to fail"]

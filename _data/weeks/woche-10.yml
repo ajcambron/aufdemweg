@@ -1,0 +1,217 @@
+week: 10
+date: 2026-12-06
+date_label: "Sonntag, 6. Dezember 2026: Nikolaustag!"
+theme: "Nikolaustag!"
+cando:
+  a1: "give and follow simple commands and name Nikolaus traditions"
+  b1b2: "explain how St. Nicholas Day is celebrated in different regions"
+grammar_focus: "The du-command: verb stem without du and without -st (Komm! Geh! Sing!). Learn these: Sei brav! Nimm! Lies! Iss!"
+ap:
+  unit: "AP theme: Families and Communities / Language and Culture (regional traditions)"
+  mode: "Interpersonal speaking + opinion writing"
+  note: "Landeskunde compares regional versions of one tradition; the extension weighs two perspectives on tradition versus spectacle."
+
+builder:
+  - title: "Nikolaus-Befehle (Nikolaus commands)"
+    rows:
+      - ["Sei brav!", "Be good!"]
+      - ["Putz deine Stiefel!", "Clean your boots!"]
+      - ["Stell die Stiefel vor die Tür!", "Put the boots outside the door!"]
+      - ["Sing ein Lied! / Sag ein Gedicht auf!", "Sing a song! / Recite a poem!"]
+      - ["Geh nach links / nach rechts / geradeaus!", "Go left / right / straight ahead!"]
+      - ["Nimm den Schokoladen-Nikolaus!", "Take the chocolate Nikolaus!"]
+      - ["Such unter dem Tisch!", "Look under the table!"]
+      - ["Kommt alle her! [B1/B2: ihr-Form]", "Everybody come here!"]
+  - title: "Der Nikolaustag (St. Nicholas Day)"
+    rows:
+      - ["der Nikolaus / der Bischof / der Bart", "St. Nicholas / bishop / beard"]
+      - ["der Stiefel (die Stiefel)", "boot (boots)"]
+      - ["Nüsse, Mandarinen, Schokolade", "nuts, tangerines, chocolate"]
+      - ["Knecht Ruprecht / der Krampus", "Nikolaus's helper (Germany) / Krampus (Alps)"]
+      - ["die Rute", "bundle of twigs"]
+      - ["am 5. Dezember am Abend", "on the evening of December 5"]
+
+vocab:
+  complete:
+    - ["___ brav!", "Be good!", "Sei"]
+    - ["___ deine Stiefel!", "Clean your boots!", "Putz"]
+    - ["Stell die Stiefel vor die ___!", "Put the boots outside the door!", "Tür"]
+    - ["___ ein Lied!", "Sing a song!", "Sing"]
+    - ["Der Nikolaus bringt Nüsse und ___.", "Nikolaus brings nuts and tangerines.", "Mandarinen"]
+    - ["___ den Schokoladen-Nikolaus!", "Take the chocolate Nikolaus!", "Nimm"]
+  match:
+    - ["der Stiefel", "boot"]
+    - ["brav", "good, well-behaved"]
+    - ["der Bart", "beard"]
+    - ["die Tür", "door"]
+    - ["suchen", "to look for"]
+    - ["das Gedicht", "poem"]
+  match_order: [6, 4, 2, 1, 3, 5]
+  translate:
+    - ["Komm her!", "Come here!"]
+    - ["Sei bitte leise!", "Please be quiet!"]
+    - ["Geh zur Tür!", "Go to the door!"]
+    - ["Der Nikolaus hat einen langen Bart.", "Nikolaus has a long beard."]
+    - ["Putz deine Stiefel!", "Clean your boots!"]
+    - ["Such unter dem Stuhl!", "Look under the chair!"]
+    - ["Am 6. Dezember ist Nikolaustag.", "December 6 is St. Nicholas Day."]
+    - ["Lies das Gedicht!", "Read the poem!"]
+  letters: ["Nikolaus", "Stiefel", "Mandarine", "Schokolade", "Gedicht", "Bischof", "Krampus", "geradeaus"]
+  broken:
+    - ["Stell deine Stiefel vor die Tür!", "Put your boots outside the door!"]
+    - ["Der Nikolaus bringt Nüsse und Schokolade.", "Nikolaus brings nuts and chocolate."]
+    - ["Geh drei Schritte nach links!", "Take three steps to the left!"]
+    - ["Sing ein Lied für den Nikolaus!", "Sing a song for Nikolaus!"]
+  suitable:
+    - "___ brav!"
+    - "Geh nach ___!"
+    - "Such unter ___!"
+    - "Im Stiefel sind ___."
+    - "Der Nikolaus hat ___."
+    - "Bitte ___!"
+
+reading:
+  a1:
+    texts:
+      - ["Mila", "Ich heiße Mila. Ich habe eine kleine Schwester. Am Abend vom 5. Dezember putzen wir unsere Stiefel und stellen sie vor die Tür. Am Morgen sind Nüsse, Mandarinen und ein Schokoladen-Nikolaus in den Stiefeln. Meine Mama sagt immer: Sei brav, dann kommt der Nikolaus!"]
+      - ["Tim", "Ich heiße Tim und ich wohne in Wien. Bei uns kommt am 5. Dezember nicht nur der Nikolaus, sondern auch der Krampus. Der Krampus ist ein Monster mit Hörnern. Er ist laut und wild. Ich finde den Krampus ein bisschen gruselig, aber auch cool!"]
+    questions:
+      - ["When do Mila and her sister put their boots outside?", "On the evening of December 5"]
+      - ["What is in the boots in the morning?", "Nuts, tangerines and a chocolate Nikolaus"]
+      - ["Where does Tim live?", "In Vienna"]
+      - ["What is the Krampus?", "A monster with horns that comes with Nikolaus"]
+  b1:
+    texts:
+      - ["Frau Becker", "Ich bin Grundschullehrerin in Bonn. Am 6. Dezember kommt bei uns jedes Jahr der Nikolaus in die Klasse. Die Kinder sagen ein Gedicht auf oder singen ein Lied, und der Nikolaus liest aus seinem goldenen Buch vor, was jedes Kind gut gemacht hat. Früher hat er auch geschimpft, aber heute ist der Nikolaus nur noch freundlich. Strafen gibt es nicht mehr."]
+      - ["Lukas", "In unserem Dorf in Oberbayern gibt es Anfang Dezember einen Krampuslauf. Junge Männer ziehen Fellkostüme und geschnitzte Holzmasken an und laufen mit großen Glocken durch die Straßen. Für Touristen ist das ein Spektakel, aber für uns ist es eine alte Tradition. Mein großer Bruder läuft dieses Jahr zum ersten Mal mit, und er hat ein Jahr lang an seiner Maske geschnitzt."]
+    questions:
+      - ["Was machen die Kinder, wenn der Nikolaus in die Klasse kommt?", "Sie sagen ein Gedicht auf oder singen ein Lied."]
+      - ["Was steht im goldenen Buch?", "Was jedes Kind gut gemacht hat."]
+      - ["Was tragen die Männer beim Krampuslauf?", "Fellkostüme, Holzmasken und große Glocken."]
+      - ["Wie lange hat Lukas' Bruder an seiner Maske gearbeitet?", "Ein Jahr lang."]
+
+structured_input:
+  ref:
+    directions: "Hör zu und lies. Befehl (command) oder Aussage (statement)?"
+    options: ["Befehl", "Aussage"]
+    items:
+      - ["Sing ein Lied.", "Befehl"]
+      - ["Du putzt deine Stiefel.", "Aussage"]
+      - ["Nimm eine Mandarine.", "Befehl"]
+      - ["Du bist brav.", "Aussage"]
+      - ["Sei brav.", "Befehl"]
+      - ["Du gehst zur Tür.", "Aussage"]
+  aff:
+    directions: "Was machst du für den Nikolaus?"
+    options: ["Gern!", "Lieber nicht!"]
+    items:
+      - "Sing ein Lied für den Nikolaus."
+      - "Sag ein Gedicht auf."
+      - "Putz deine Stiefel."
+      - "Iss einen Schokoladen-Nikolaus."
+      - "Triff den Krampus."
+
+task:
+  title: "Stiefel-Rallye (boot hunt)"
+  format: "Small groups: write, swap, follow"
+  directions: "In groups of three, choose a hiding place in the room for your paper boot. Write six commands that lead from the door to the hiding place, then hide the boot. Swap command lists with another group. One person reads their commands aloud, the others follow them exactly. Found it? Write where it was."
+  a1: "Use the command bank. Count your steps in German."
+  b1: "Write your commands without the bank and add one condition: Wenn du die Tür siehst, geh nach rechts."
+  tables:
+    - title: "Befehls-Bank (command bank)"
+      head: ["Gehen", "Suchen"]
+      rows:
+        - ["Geh drei Schritte geradeaus.", "Such unter dem Tisch."]
+        - ["Geh nach links / nach rechts.", "Schau hinter die Tür."]
+        - ["Dreh dich um.", "Schau neben das Fenster."]
+        - ["Bleib stehen.", "Nimm den Stiefel!"]
+    - title: "Unsere Befehle (our commands)"
+      head: ["#", "Befehl"]
+      rows:
+        - ["1", ""]
+        - ["2", ""]
+        - ["3", ""]
+        - ["4", ""]
+        - ["5", ""]
+        - ["6", ""]
+    - title: "Gefunden! (found it!)"
+      head: ["Wo war der Stiefel?"]
+      blank: 1
+
+output:
+  a1: "Write four commands for a partner (Sing ___! Geh ___! Nimm ___! Sag ___!). Your partner does them, then gives one command back to you."
+  b1: "Write Nikolaus's golden-book entry for a classmate (ask first!): three things they do well (Du hilfst immer ..., Du bist ...) and two friendly commands for next year (Sei ...! Vergiss nicht ...!). Read it to them. They answer Danke, Nikolaus! and say which command they'll follow."
+
+landeskunde:
+  title: "Nikolaus, Weihnachtsmann, Christkind"
+  text: |
+    St. Nicholas was a 4th-century bishop in what is now Turkey, remembered for giving gifts in secret. On the evening of December 5, German children clean their boots and set them outside the door. By morning, Nikolaus has filled them with nuts, tangerines, chocolate and small gifts. In some families, schools and clubs, a visitor in bishop's robes comes in person and reads from a golden book.
+
+    He doesn't travel alone. In much of Germany his helper is Knecht Ruprecht; in Bavaria and Austria it's the Krampus, a horned creature who scares the naughty. And Nikolaus is not Santa Claus. On Christmas Eve, gifts come from the Weihnachtsmann (mostly in the north and east) or from the Christkind, a childlike angel figure (mostly in the south and in Austria).
+  warum: "Many traditions pair a kind figure (Nikolaus) with a frightening one (Krampus, Knecht Ruprecht). Why might a culture tell children about both?"
+  vergleich: "In the US, Santa Claus does the job of Nikolaus and the Weihnachtsmann together. What's gained or lost when one figure does everything?"
+
+exit:
+  a1: "Ich kann einfache Befehle geben und verstehen."
+  b1: "Ich kann erklären, wie man Nikolaus in verschiedenen Regionen feiert."
+
+energizer:
+  title: "Nikolaus sagt ... (Simon says)"
+  text: "The instructor, later a student, gives commands. Follow only when the command starts with Nikolaus sagt: Nikolaus sagt: Steh auf! ... Setz dich! (Gotcha!) Good commands: Steh auf! Setz dich! Spring! Dreh dich um! Heb die Hand! Klatsch dreimal!"
+
+extension:
+  title: "Krampuslauf: Brauchtum oder Show?"
+  intro: "Lies die zwei Meinungen und beantworte die Fragen."
+  text: |
+    Anna, 17, Salzburg: Der Krampuslauf gehört zu unserer Heimat. Die Masken werden von Hand geschnitzt und oft über Generationen weitergegeben. Wenn Touristen kommen, ist das okay, solange die Tradition echt bleibt.
+
+    Moritz, 18, München: Ehrlich gesagt ist der Krampuslauf heute vor allem eine Show. Manche Läufer schlagen mit ihren Ruten zu fest zu, und kleine Kinder haben richtig Angst. Ich finde, eine Tradition muss sich auch ändern dürfen.
+  questions:
+    - ["Warum ist der Krampuslauf für Anna wichtig?", "Er gehört zu ihrer Heimat; die Masken sind handgeschnitzt und werden weitergegeben."]
+    - ["Wann sind Touristen für Anna okay?", "Solange die Tradition echt bleibt."]
+    - ["Was kritisiert Moritz?", "Es ist eine Show, manche Läufer schlagen zu fest, und kleine Kinder haben Angst."]
+    - ["Wem stimmst du eher zu? Warum?", "Open answer."]
+  task: "Schreib 4–5 Sätze: Darf sich eine alte Tradition ändern? Nutze ein Beispiel aus dem Text und eins aus deiner eigenen Kultur."
+
+buffer: "A class Nikolaus poem (four lines with rhyming pairs like Haus / raus, Tür / dir), or a second boot hunt with harder commands."
+
+page:
+  modules:
+    einstieg: "Mystery boot: Was ist im Stiefel?"
+    input: "Sentence builder + narrow reading (Mila & Tim, Frau Becker & Lukas) + Achte auf die Form"
+    kernaufgabe: "Stiefel-Rallye: write commands, swap, follow"
+    landeskunde: "Nikolaus, Weihnachtsmann, Christkind"
+    energizer: "Nikolaus sagt ... (Simon says)"
+    extension: "Krampuslauf: Brauchtum oder Show? (opinion writing)"
+    buffer: "Class Nikolaus poem, or a second boot hunt"
+  einstieg: "Bring a boot (or draw one on the board) with a few things inside: a tangerine, some nuts, a chocolate. Pull them out one at a time: *Was ist das? Eine Mandarine!* Then ask *Wann bekommt man das in Deutschland?* The answer is today."
+  materials:
+    - "Student packet, one per student"
+    - "Paper boot cut-outs (or small objects) to hide, one per group"
+    - "Optional: a boot with tangerines, nuts and chocolate for the Einstieg"
+  summary: "Stiefel-Rallye. Groups of three hide a paper boot somewhere in the room and write six commands that lead from the door to it. Groups swap command lists and follow them: one student reads aloud, the others move. A1/A2 use the command bank in the packet; B1/B2 write their own commands and add one *wenn*-condition."
+  note:
+    type: important
+    text: "This class falls on the actual Nikolaustag. If you can, bring tangerines or chocolate. The Kernaufgabe has students moving around the room, so clear some space before class."
+  grammar: |
+    **The du-command.** Take the *du*-form and drop both *du* and the *-st* ending:
+
+    | du-form | Command |
+    | :--- | :--- |
+    | du komm**st** | **Komm!** |
+    | du geh**st** | **Geh!** |
+    | du sing**st** | **Sing!** |
+    | du putz**t** | **Putz!** |
+
+    Verbs that change *e* to *i* keep it: *du nimmst → **Nimm!***, *du liest → **Lies!***, *du isst → **Iss!*** The one to memorize: *sein → **Sei brav!*** Verbs with *a → ä* drop the umlaut: *du fährst → **Fahr!***
+
+    B1/B2 also meet the *ihr*-command, which is just the *ihr*-form without *ihr*: *Kommt! Singt!*
+  achtung: "**What students will do:** keep *du* (*„Du geh zur Tür!“*) or the ending (*„Gehst zur Tür!“*). In the boot hunt the command still works, so let the group follow it and restate it once: *„Geh zur Tür, genau!“* The Achte-auf-die-Form items have no exclamation points, so students must notice the verb itself. Read them aloud in a flat voice, not a commanding one."
+  b2: "**If a B2 asks:** the formal command is verb + *Sie* (*Gehen Sie!*), coming in Week 18. Separable verbs split: *aufstehen → Steh auf!* Reflexive verbs keep *dich*: *Dreh dich um!* Krampus runs are real and regional (Bavaria, Austria, South Tyrol); the two opinions in the extension are invented."
+  vocab_extra:
+    - ["der Stiefel", "boot"]
+    - ["brav", "good, well-behaved"]
+    - ["das Gedicht", "poem"]
+    - ["der Bischof", "bishop"]
+    - ["der Krampuslauf", "Krampus run (parade)"]
+    - ["die Maske", "mask"]

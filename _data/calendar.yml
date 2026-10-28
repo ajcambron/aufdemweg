@@ -6,18 +6,18 @@
 - {week: 4,  date: 2026-10-18, theme: "Zuhause & Zimmer", cando: "Describe a home/room; compare with a partner's.", notes: "Prepositions of place.", page: /wochen/woche-04/}
 - {week: 5,  date: 2026-10-25, theme: "Herbst & Erntedank", cando: "Talk about weather, seasons, harvest traditions.", notes: "Sets up St. Martin/Nikolaus arc.", page: /wochen/woche-05/}
 - {week: 6,  date: 2026-11-01, theme: "Schule & Stundenplan", cando: "Describe a school day/schedule; compare German vs. US systems.", notes: "Real schedule comparison info-gap.", page: /wochen/woche-06/}
-- {week: 7,  date: 2026-11-08, theme: "Essen & Trinken", cando: "Order food, state likes/dislikes, discuss regional dishes.", notes: ""}
-- {week: 8,  date: 2026-11-15, theme: "Freizeit & Hobbys", cando: "Discuss hobbies, frequency, make plans with a partner.", notes: "Frequency adverbs."}
-- {week: 9,  date: 2026-11-22, theme: "Dankbarkeit & Traditionen", cando: "Compare US Thanksgiving with Erntedank/St. Martin's Day.", notes: "Builds on Week 5's Erntedank seed."}
+- {week: 7,  date: 2026-11-08, theme: "Essen & Trinken", cando: "Order food, state likes/dislikes, discuss regional dishes.", notes: "", page: /wochen/woche-07/}
+- {week: 8,  date: 2026-11-15, theme: "Freizeit & Hobbys", cando: "Discuss hobbies, frequency, make plans with a partner.", notes: "Frequency adverbs.", page: /wochen/woche-08/}
+- {week: 9,  date: 2026-11-22, theme: "Dankbarkeit & Traditionen", cando: "Compare US Thanksgiving with Erntedank/St. Martin's Day.", notes: "Builds on Week 5's Erntedank seed.", page: /wochen/woche-09/}
 - {week: ,   date: 2026-11-29, theme: "No School", cando: "", notes: "Thanksgiving."}
-- {week: 10, date: 2026-12-06, theme: "Nikolaustag!", cando: "Recount St. Nicholas Day traditions; give simple commands.", notes: "Imperative (Sei brav!)."}
-- {week: 11, date: 2026-12-13, theme: "Weihnachten: Vorbereitung", cando: "Christmas vocabulary across German-speaking countries; express wants.", notes: "Rehearse the party skit. Modals (möchten/wollen)."}
-- {week: ,   date: 2026-12-20, theme: "Weihnachtsfeier (DSB Hall)", cando: "", notes: "Celebration day; one-page song/card insert only."}
+- {week: 10, date: 2026-12-06, theme: "Nikolaustag!", cando: "Recount St. Nicholas Day traditions; give simple commands.", notes: "Imperative (Sei brav!).", page: /wochen/woche-10/}
+- {week: 11, date: 2026-12-13, theme: "Weihnachten: Vorbereitung", cando: "Christmas vocabulary across German-speaking countries; express wants.", notes: "Rehearse the party skit. Modals (möchten/wollen).", page: /wochen/woche-11/}
+- {week: ,   date: 2026-12-20, theme: "Weihnachtsfeier (DSB Hall)", cando: "", notes: "Celebration day; one-page song/card insert only.", page: /wochen/weihnachtsfeier/}
 - {week: ,   date: 2026-12-27, theme: "No School", cando: "", notes: "Christmas holiday."}
 - {week: ,   date: 2027-01-03, theme: "No School", cando: "", notes: "New Year's holiday."}
-- {week: 12, date: 2027-01-10, theme: "Neujahr & Gute Vorsätze", cando: "State resolutions/future plans.", notes: "Future (werden)."}
-- {week: 13, date: 2027-01-17, theme: "Wetter & Winter", cando: "Describe weather; discuss winter sports/activities.", notes: "Dative with prepositions."}
-- {week: 14, date: 2027-01-24, theme: "Körper & Gesundheit", cando: "Name body parts; describe simple ailments; doctor role-play.", notes: "müssen/sollen."}
+- {week: 12, date: 2027-01-10, theme: "Neujahr & Gute Vorsätze", cando: "State resolutions/future plans.", notes: "Future (werden).", page: /wochen/woche-12/}
+- {week: 13, date: 2027-01-17, theme: "Wetter & Winter", cando: "Describe weather; discuss winter sports/activities.", notes: "Dative with prepositions.", page: /wochen/woche-13/}
+- {week: 14, date: 2027-01-24, theme: "Körper & Gesundheit", cando: "Name body parts; describe simple ailments; doctor role-play.", notes: "müssen/sollen.", page: /wochen/woche-14/}
 - {week: 15, date: 2027-01-31, theme: "Kleidung & Mode", cando: "Shop for clothing; describe outfits.", notes: "Adjective endings (A1 skips agreement)."}
 - {week: 16, date: 2027-02-07, theme: "Karneval & Fasching", cando: "Describe costumes/traditions; compare regional Karneval.", notes: "Actual Karnevalssonntag."}
 - {week: 17, date: 2027-02-14, theme: "Valentinstag & Freundschaft", cando: "Describe a person's character; compare two people.", notes: "Comparatives."}

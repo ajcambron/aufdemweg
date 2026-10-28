@@ -1,0 +1,212 @@
+week: 11
+date: 2026-12-13
+date_label: "Sonntag, 13. Dezember 2026"
+theme: "Weihnachten: Vorbereitung"
+cando:
+  a1: "say what I'd like for Christmas and name Christmas traditions"
+  b1b2: "write and perform a short skit with my group"
+grammar_focus: "möchten and wollen + infinitive at the end: Ich möchte einen Baum kaufen. Careful: ich will = I want, not I will!"
+ap:
+  unit: "AP theme: Families and Communities (celebrations) / Art and Creativity (performance)"
+  mode: "Presentational speaking (skit) + interpersonal writing"
+  note: "The skit is a low-stakes presentational task. Coach delivery (eye contact, pace, no reading from the page) the way the AP Project rewards it, but let students write their own lines."
+
+builder:
+  - title: "Wünsche (Wishes)"
+    rows:
+      - ["Ich möchte ein neues Handy.", "I'd like a new phone."]
+      - ["Ich wünsche mir einen Hund / eine Gitarre / ein Fahrrad.", "I'm wishing for a dog / a guitar / a bike."]
+      - ["Ich will Plätzchen backen.", "I want to bake cookies."]
+      - ["Willst du auf den Weihnachtsmarkt gehen?", "Do you want to go to the Christmas market?"]
+      - ["Was möchtest du zu Weihnachten?", "What would you like for Christmas?"]
+      - ["Wir wollen zusammen feiern.", "We want to celebrate together."]
+      - ["der Wunschzettel", "wish list"]
+  - title: "Weihnachten (Christmas)"
+    rows:
+      - ["der Adventskranz / der Adventskalender", "Advent wreath / Advent calendar"]
+      - ["der Weihnachtsbaum / der Tannenbaum", "Christmas tree / fir tree"]
+      - ["der Weihnachtsmarkt / die Plätzchen / der Lebkuchen", "Christmas market / cookies / gingerbread"]
+      - ["Heiligabend (am 24. Dezember)", "Christmas Eve (December 24)"]
+      - ["die Kerze / der Stern / das Geschenk", "candle / star / gift"]
+      - ["Frohe Weihnachten! / Frohes Fest!", "Merry Christmas! / Happy holidays!"]
+
+vocab:
+  complete:
+    - ["Ich ___ ein neues Fahrrad.", "I'd like a new bike.", "möchte"]
+    - ["Wir wollen Plätzchen ___.", "We want to bake cookies.", "backen"]
+    - ["___ du auf den Weihnachtsmarkt gehen?", "Do you want to go to the Christmas market?", "Willst"]
+    - ["Am 24. Dezember ist ___.", "December 24 is Christmas Eve.", "Heiligabend"]
+    - ["Ich wünsche mir einen ___.", "I'm wishing for a dog.", "Hund"]
+    - ["Frohe ___!", "Merry Christmas!", "Weihnachten"]
+  match:
+    - ["der Adventskranz", "Advent wreath"]
+    - ["die Kerze", "candle"]
+    - ["der Wunschzettel", "wish list"]
+    - ["backen", "to bake"]
+    - ["das Plätzchen", "cookie"]
+    - ["Heiligabend", "Christmas Eve"]
+  match_order: [5, 1, 6, 2, 3, 4]
+  translate:
+    - ["Ich möchte einen Weihnachtsbaum kaufen.", "I'd like to buy a Christmas tree."]
+    - ["Willst du Lebkuchen essen?", "Do you want to eat gingerbread?"]
+    - ["Am Heiligabend gibt es Geschenke.", "On Christmas Eve there are presents."]
+    - ["Der Adventskranz hat vier Kerzen.", "The Advent wreath has four candles."]
+    - ["Wir wollen zusammen singen.", "We want to sing together."]
+    - ["Ich wünsche mir ein Buch.", "I'm wishing for a book."]
+    - ["Der Weihnachtsmarkt ist sehr schön.", "The Christmas market is very pretty."]
+    - ["Frohe Weihnachten!", "Merry Christmas!"]
+  letters: ["Weihnachten", "Kerze", "Plätzchen", "Geschenk", "Lebkuchen", "Adventskranz", "Tannenbaum", "Wunschzettel"]
+  broken:
+    - ["Ich möchte einen Weihnachtsbaum kaufen.", "I'd like to buy a Christmas tree."]
+    - ["Wir wollen am Sonntag Plätzchen backen.", "We want to bake cookies on Sunday."]
+    - ["Was wünschst du dir zu Weihnachten?", "What are you wishing for for Christmas?"]
+    - ["Frohe Weihnachten und einen guten Rutsch!", "Merry Christmas and a happy New Year!"]
+  suitable:
+    - "Ich möchte ___."
+    - "Zu Weihnachten wünsche ich mir ___."
+    - "Ich will ___ backen."
+    - "Willst du ___?"
+    - "Auf dem Weihnachtsmarkt gibt es ___."
+    - "An Heiligabend ___ wir ___."
+
+reading:
+  a1:
+    texts:
+      - ["Clara", "Ich heiße Clara und ich wohne in Nürnberg. Im Dezember gehe ich oft auf den Christkindlesmarkt. Dort gibt es Lebkuchen, Bratwürste und Kinderpunsch. Zu Weihnachten möchte ich ein neues Fahrrad. Ich will auch mit meiner Oma Plätzchen backen."]
+      - ["Noah", "Ich heiße Noah. Ich wohne in Delaware, aber meine Mutter kommt aus Österreich. Wir feiern am 24. Dezember, wie in Österreich. Am Abend gibt es Geschenke vom Christkind. Ich wünsche mir dieses Jahr einen Hund, aber meine Eltern wollen keinen Hund!"]
+    questions:
+      - ["What would Clara like for Christmas?", "A new bike"]
+      - ["What does Clara want to do with her grandma?", "Bake cookies"]
+      - ["When does Noah's family celebrate?", "On the evening of December 24"]
+      - ["Why might Noah not get his wish?", "His parents don't want a dog."]
+  b1:
+    texts:
+      - ["Hanna", "Bei uns beginnt Weihnachten eigentlich schon am ersten Advent. Dann zünden wir die erste Kerze am Adventskranz an, und jeden Sonntag kommt eine Kerze dazu. Den Weihnachtsbaum schmücken wir erst am 24. Dezember am Vormittag. Am Abend gehen wir in die Kirche, danach essen wir Kartoffelsalat mit Würstchen. Das ist ganz einfach, aber es ist Tradition. Die Geschenke gibt es erst nach dem Essen."]
+      - ["Paul", "In unserer Theater-AG spielen wir jedes Jahr vor Weihnachten ein kurzes Stück. Dieses Jahr wollen wir eine lustige Szene auf dem Weihnachtsmarkt spielen: Eine Familie will einen Baum kaufen, aber alle wollen einen anderen. Ich spiele den Verkäufer. Wir proben zweimal pro Woche, und ich muss meinen Text noch auswendig lernen."]
+    questions:
+      - ["Wann zündet Hannas Familie die erste Kerze an?", "Am ersten Advent."]
+      - ["Was isst Hannas Familie an Heiligabend?", "Kartoffelsalat mit Würstchen."]
+      - ["Worum geht es in Pauls Theaterstück?", "Eine Familie will einen Baum kaufen, aber alle wollen einen anderen."]
+      - ["Was muss Paul noch machen?", "Seinen Text auswendig lernen."]
+
+structured_input:
+  ref:
+    directions: "Was bedeutet der Satz? (What does it mean?)"
+    items:
+      - ["Ich will einen Hund.", "I want a dog.", ["I want a dog.", "I will get a dog."]]
+      - ["Lena will morgen Ski fahren.", "Lena wants to ski tomorrow.", ["Lena wants to ski tomorrow.", "Lena will ski tomorrow."]]
+      - ["Wir möchten Plätzchen backen.", "We'd like to bake cookies.", ["We'd like to bake cookies.", "We are baking cookies."]]
+      - ["Willst du mitkommen?", "Do you want to come along?", ["Will you come along?", "Do you want to come along?"]]
+      - ["Mein Bruder will kein Geschenk.", "My brother doesn't want a gift.", ["My brother won't give a gift.", "My brother doesn't want a gift."]]
+  aff:
+    directions: "Was möchtest du in den Ferien?"
+    options: ["Ja!", "Nein!"]
+    items:
+      - "Ich möchte Schnee an Weihnachten."
+      - "Ich will viele Geschenke."
+      - "Ich möchte Plätzchen backen."
+      - "Ich will jeden Tag lange schlafen."
+      - "Ich möchte auf einen Weihnachtsmarkt gehen."
+
+task:
+  title: "Unser Weihnachts-Sketch (our Christmas skit)"
+  format: "Group project: write and rehearse"
+  directions: "In groups of four, write and rehearse a two-minute skit to perform at the Weihnachtsfeier next week: Eine Familie auf dem Weihnachtsmarkt. Everyone in the family wants something different (a different tree, a different snack, a different gift), and in the end they have to agree. Start from the skeleton below. Every person needs at least two lines, and every person says möchte or will at least once."
+  a1: "Use the skeleton and add lines with Ich will ... / Ich möchte ... / Nein, ich will ... Short lines are fine."
+  b1: "Add a twist (the money runs out, the tree falls over, Oma shows up) and resolve it. Use at least one weil-clause and one wenn-clause."
+  tables:
+    - title: "Rollen (roles)"
+      head: ["Rolle", "Wer spielt?", "Was will diese Person?"]
+      rows:
+        - ["Mutter / Vater", "", ""]
+        - ["Kind 1", "", ""]
+        - ["Kind 2", "", ""]
+        - ["Verkäufer / Verkäuferin", "", ""]
+    - title: "Gerüst (skeleton): fill in lines 5–10"
+      head: ["#", "Wer?", "Was sagt er / sie?"]
+      rows:
+        - ["1", "Verkäufer/in", "Guten Tag! Was möchten Sie?"]
+        - ["2", "Mutter / Vater", "Wir möchten einen Weihnachtsbaum."]
+        - ["3", "Kind 1", "Ich will einen großen Baum!"]
+        - ["4", "Kind 2", "Nein! Ich will einen kleinen Baum!"]
+        - ["5", "", ""]
+        - ["6", "", ""]
+        - ["7", "", ""]
+        - ["8", "", ""]
+        - ["9", "", ""]
+        - ["10", "", ""]
+        - ["Ende", "Alle", "Frohe Weihnachten!"]
+
+output:
+  a1: "Write your Wunschzettel: three things you'd like (Ich möchte ___. Ich wünsche mir ___.) and one thing you want to do over break (Ich will ___.). Read it to a partner. They guess which wish matters most to you."
+  b1: "Write a Wunschzettel with a twist: three wishes that aren't things (Ich wünsche mir, dass ...: verb to the end), each with a weil-reason. Swap with a partner. They choose the wish they'd grant first and say why."
+
+landeskunde:
+  title: "Advent und Weihnachtsmarkt"
+  text: |
+    German Christmas starts four Sundays early. Families light one more candle on the Adventskranz each Sunday of Advent, and children open one door of the Adventskalender every day from December 1. From late November, almost every town square has a Weihnachtsmarkt: wooden booths, Lebkuchen, roasted almonds, Glühwein for adults and Kinderpunsch for kids. Famous markets include Nuremberg's Christkindlesmarkt and Dresden's Striezelmarkt, one of the oldest.
+
+    The main celebration is Heiligabend, the evening of December 24. The tree is often decorated that day, many families go to church, and presents are opened that evening, not on the morning of the 25th. December 25 and 26 are both holidays (erster and zweiter Weihnachtsfeiertag), usually spent visiting relatives.
+  warum: "Advent stretches Christmas over four weeks of waiting and small rituals. What does that say about how the season is meant to feel?"
+  vergleich: "In the US, presents are usually opened on the morning of the 25th. Which do you prefer, Christmas Eve or Christmas morning? Why?"
+
+exit:
+  a1: "Ich kann sagen, was ich mir zu Weihnachten wünsche."
+  b1: "Ich kann mit meiner Gruppe einen kurzen Sketch schreiben und spielen."
+
+energizer:
+  title: "Weihnachts-Bingo"
+  text: "Students draw a 3×3 grid and fill it with Christmas words from the Sentence Builder. The instructor describes words in simple German (Das ist rund und hat vier Kerzen. → der Adventskranz). Three in a row: Bingo!"
+
+extension:
+  title: "Weihnachten ohne Stress?"
+  intro: "Lies den Text und beantworte die Fragen."
+  text: "Für viele Familien in Deutschland ist die Adventszeit nicht nur schön, sondern auch stressig. Die Geschenke kosten viel Geld, alle Verwandten wollen besucht werden, und in den Geschäften ist es voll. Deshalb machen manche Familien neue Regeln: Sie ziehen Namen, und jede Person kauft nur ein Geschenk für eine andere Person. Das nennt man Wichteln. Andere schenken Zeit statt Dinge, zum Beispiel einen gemeinsamen Ausflug. Wieder andere sagen, genau der Trubel gehört zu Weihnachten dazu."
+  questions:
+    - ["Warum ist die Adventszeit für viele stressig?", "Geschenke kosten viel Geld, man muss alle Verwandten besuchen, und die Geschäfte sind voll."]
+    - ["Was ist Wichteln?", "Man zieht Namen, und jede Person kauft nur ein Geschenk für eine andere Person."]
+    - ["Was bedeutet „Zeit statt Dinge schenken“?", "Man schenkt gemeinsame Erlebnisse, zum Beispiel einen Ausflug."]
+    - ["Was sagen andere Leute?", "Der Trubel gehört zu Weihnachten dazu."]
+  task: "Schreib 4–5 Sätze: Sollte deine Familie Wichteln machen? Begründe deine Meinung mit weil und deshalb."
+
+buffer: "More skit rehearsal (top priority this week), or make Christmas cards for the party: Frohe Weihnachten, liebe / lieber ...!"
+
+page:
+  modules:
+    einstieg: "Board Advent calendar: open a door, find a word"
+    input: "Sentence builder + narrow reading (Clara & Noah, Hanna & Paul) + Achte auf die Form"
+    kernaufgabe: "Unser Weihnachts-Sketch: write and rehearse for the party"
+    landeskunde: "Advent und Weihnachtsmarkt"
+    energizer: "Weihnachts-Bingo"
+    extension: "Weihnachten ohne Stress? (opinion writing)"
+    buffer: "More skit rehearsal, or Christmas cards"
+  einstieg: "Draw a six-door Advent calendar on the board, each door hiding a picture word (*Kerze, Stern, Lebkuchen, Baum, Geschenk, Schnee*). Students call out a number; draw the picture behind that door and say the word twice. Then ask *Möchtest du das?* and let students answer *Ja, ich möchte ...* without pressure."
+  materials:
+    - "Student packet, one per student"
+    - "Optional: simple props for the skits (scarves, a paper tree, a cash box)"
+  summary: "Unser Weihnachts-Sketch. Groups of four write and rehearse a two-minute skit, *Eine Familie auf dem Weihnachtsmarkt*, in which everyone wants a different tree, snack or gift and the family has to agree. They perform it at the Weihnachtsfeier next week. Every student gets at least two lines with *möchte* or *will*. B1/B2 add a twist and resolve it with *weil* and *wenn*."
+  note:
+    type: important
+    text: "The skits are performed at the **Weihnachtsfeier on December 20**, so rehearsal time beats every optional module this week. If time runs short, cut the energizer, extension and Landeskunde and give the groups that time. Each group should leave with a finished script and assigned roles."
+  grammar: |
+    **möchten and wollen + infinitive.** Both are modal verbs: they take a second verb, and that verb goes to the very end.
+
+    | | möchten (would like) | wollen (want) |
+    | :--- | :--- | :--- |
+    | ich | möchte | **will** |
+    | du | möchtest | **willst** |
+    | er / sie | möchte | **will** |
+    | wir / sie / Sie | möchten | wollen |
+
+    > Ich **möchte** einen Baum **kaufen**. Wir **wollen** Plätzchen **backen**.
+
+    *ich* and *er/sie* share a form with no *-t* (*er will*, not *er willt*). *Möchte* is the polite choice; *will* is blunter, which suits a skit where everyone argues.
+  achtung: "**What students will do:** read ***Ich will*** as \"I will.\" It means \"I want.\" That changes the meaning, so the Achte-auf-die-Form items test it directly. The word-order slip (*„Ich will backen Plätzchen“*) doesn't block meaning; restate it. In the skits, fix only what an audience wouldn't understand."
+  b2: "**If a B2 asks:** \"I will\" in the future sense is *ich werde* (Week 12). *Ich wünsche mir* (I wish for) is reflexive, and *Ich wünsche mir, dass ...* sends the verb to the end. Glühwein is mulled wine for adults; Kinderpunsch is the alcohol-free version children drink."
+  vocab_extra:
+    - ["der Wunschzettel", "wish list"]
+    - ["der Sketch / die Szene", "skit / scene"]
+    - ["proben", "to rehearse"]
+    - ["auswendig lernen", "to memorize"]
+    - ["der Verkäufer / die Verkäuferin", "salesperson (m / f)"]
+    - ["Wichteln", "Secret Santa"]

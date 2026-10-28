@@ -1,0 +1,206 @@
+week: 8
+date: 2026-11-15
+date_label: "Sonntag, 15. November 2026"
+theme: "Freizeit & Hobbys"
+cando:
+  a1: "talk about my hobbies and say how often I do them"
+  b1b2: "make plans with a partner and agree on a time, place and activity"
+grammar_focus: "Frequency words after the verb: immer > oft > manchmal > selten > nie. Ich spiele oft Fußball."
+ap:
+  unit: "AP theme: Families and Communities / Contemporary Life (leisure)"
+  mode: "Interpersonal speaking + writing (invitation and reply)"
+  note: "Landeskunde climbs from a practice (Vereine) to a perspective (community and volunteering). The extension reads survey data."
+
+builder:
+  - title: "Meine Hobbys (My hobbies)"
+    rows:
+      - ["Ich spiele Fußball / Basketball / Gitarre / Videospiele.", "I play soccer / basketball / guitar / video games."]
+      - ["Ich lese / zeichne / koche / tanze gern.", "I like to read / draw / cook / dance."]
+      - ["Ich gehe gern schwimmen / ins Kino / shoppen.", "I like to go swimming / to the movies / shopping."]
+      - ["Ich mache Sport / Musik / Fotos.", "I do sports / make music / take photos."]
+      - ["immer / oft / manchmal / selten / nie", "always / often / sometimes / rarely / never"]
+      - ["einmal / zweimal / dreimal pro Woche", "once / twice / three times a week"]
+      - ["am Wochenende / nach der Schule", "on the weekend / after school"]
+  - title: "Pläne machen (Making plans)"
+    rows:
+      - ["Hast du am Samstag Zeit?", "Are you free on Saturday?"]
+      - ["Wollen wir ins Kino gehen?", "Shall we go to the movies?"]
+      - ["Gute Idee! / Super, gern!", "Good idea! / Great, I'd love to!"]
+      - ["Leider kann ich nicht. Ich muss ...", "Unfortunately I can't. I have to ..."]
+      - ["Wann treffen wir uns? Um drei Uhr?", "When shall we meet? At three?"]
+      - ["Wo treffen wir uns? Vor dem Kino.", "Where shall we meet? In front of the movie theater."]
+
+vocab:
+  complete:
+    - ["Ich spiele ___ Fußball. Jeden Tag!", "I always play soccer. Every day!", "immer"]
+    - ["Ich lese ___. Nur einmal im Monat.", "I rarely read. Only once a month.", "selten"]
+    - ["___ du am Samstag Zeit?", "Are you free on Saturday?", "Hast"]
+    - ["___ wir ins Kino gehen?", "Shall we go to the movies?", "Wollen"]
+    - ["Ich gehe gern ___.", "I like to go swimming.", "schwimmen"]
+    - ["Leider ___ ich nicht.", "Unfortunately I can't.", "kann"]
+  match:
+    - ["manchmal", "sometimes"]
+    - ["nie", "never"]
+    - ["die Zeit", "time"]
+    - ["sich treffen", "to meet"]
+    - ["zeichnen", "to draw"]
+    - ["der Verein", "club"]
+  match_order: [5, 3, 6, 1, 4, 2]
+  translate:
+    - ["Ich spiele zweimal pro Woche Basketball.", "I play basketball twice a week."]
+    - ["Am Wochenende lese ich oft.", "On the weekend I often read."]
+    - ["Ich gehe nie shoppen.", "I never go shopping."]
+    - ["Hast du am Freitag Zeit?", "Are you free on Friday?"]
+    - ["Wollen wir zusammen kochen?", "Shall we cook together?"]
+    - ["Leider kann ich nicht.", "Unfortunately I can't."]
+    - ["Wir treffen uns um drei Uhr.", "We'll meet at three o'clock."]
+    - ["Mein Hobby ist Fotografie.", "My hobby is photography."]
+  letters: ["Hobby", "Fußball", "manchmal", "selten", "Wochenende", "Verein", "Gitarre", "zeichnen"]
+  broken:
+    - ["Ich spiele oft Gitarre.", "I often play guitar."]
+    - ["Am Wochenende gehe ich manchmal ins Kino.", "On the weekend I sometimes go to the movies."]
+    - ["Hast du am Sonntag Zeit?", "Are you free on Sunday?"]
+    - ["Wir treffen uns vor dem Kino.", "We'll meet in front of the movie theater."]
+  suitable:
+    - "Ich spiele oft ___."
+    - "Ich ___ nie."
+    - "Am Wochenende ___ ich gern ___."
+    - "Hast du am ___ Zeit?"
+    - "Wollen wir ___?"
+    - "Wir treffen uns um ___ Uhr."
+
+reading:
+  a1:
+    texts:
+      - ["Jonas", "Ich heiße Jonas. Ich spiele oft Fußball, dreimal pro Woche im Verein. Am Wochenende spiele ich manchmal Videospiele. Ich lese nie. Das finde ich langweilig!"]
+      - ["Aylin", "Ich heiße Aylin. Ich zeichne jeden Tag, also immer! Ich gehe auch gern schwimmen, aber nur selten, weil das Schwimmbad weit weg ist. Am Samstag gehe ich oft mit meinen Freundinnen ins Kino."]
+    questions:
+      - ["How often does Jonas play soccer?", "Three times a week (in a club)"]
+      - ["What does Jonas never do?", "Read"]
+      - ["How often does Aylin draw?", "Every day (always)"]
+      - ["Why does Aylin rarely go swimming?", "The pool is far away."]
+  b1:
+    texts:
+      - ["Marie", "Neben der Schule bin ich in zwei Vereinen: Ich spiele Handball und ich singe im Chor. Das ist manchmal stressig, weil ich dreimal pro Woche Training habe und am Donnerstag Chorprobe. Aber im Verein habe ich meine besten Freundinnen kennengelernt. Am Wochenende habe ich oft Spiele, deshalb schlafe ich fast nie aus."]
+      - ["Ben", "Ich bin kein Vereinsmensch. In meiner Freizeit mache ich lieber spontan etwas: Ich fahre Skateboard, filme Videos mit meinem Handy und schneide sie am Computer. Meine Eltern sagen, ich sitze zu viel vor dem Bildschirm. Das stimmt vielleicht, aber beim Filmen bin ich ja draußen!"]
+    questions:
+      - ["In welchen Vereinen ist Marie?", "Im Handballverein und im Chor."]
+      - ["Warum ist Maries Woche manchmal stressig?", "Sie hat dreimal pro Woche Training und am Donnerstag Chorprobe."]
+      - ["Was macht Ben in seiner Freizeit?", "Er fährt Skateboard, filmt Videos und schneidet sie am Computer."]
+      - ["Was sagen Bens Eltern?", "Er sitzt zu viel vor dem Bildschirm."]
+
+structured_input:
+  ref:
+    directions: "Wie oft? Kreuz an. (How often? Check one.)"
+    items:
+      - ["Lena spielt nie Tennis.", "never", ["never", "3 times a week"]]
+      - ["Max geht immer zu Fuß zur Schule.", "every school day", ["once a week", "every school day"]]
+      - ["Ich koche selten.", "once a month", ["once a month", "every day"]]
+      - ["Sara schwimmt oft.", "4 times a week", ["4 times a week", "never"]]
+      - ["Wir gehen manchmal ins Kino.", "now and then", ["every day", "now and then"]]
+  aff:
+    directions: "Wie ist es bei dir?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich spiele oft Videospiele."
+      - "Ich lese nie."
+      - "Am Wochenende schlafe ich immer aus."
+      - "Ich gehe selten ins Kino."
+      - "Ich mache manchmal Sport."
+
+task:
+  title: "Wochenend-Plan (Plan a weekend)"
+  format: "Partner information gap"
+  directions: "First fill in your own weekend on your own: write two things you already have to do (Ich muss ...) and leave the rest free. Don't show your partner! Then ask each other questions until you find a time you're both free, agree on an activity, and fill in Unser Plan together. Ideen: ins Kino gehen, Fußball spielen, schwimmen gehen, Pizza essen, Videospiele spielen, einen Film schauen, Rad fahren."
+  a1: "Ask Hast du am Samstag um zwei Uhr Zeit? until you find a free time. Answer Ja! or Nein, leider nicht."
+  b1: "When you say no, give a reason (Leider kann ich nicht, ich muss ...) and suggest another time. Agree on where to meet."
+  tables:
+    - title: "Mein Wochenende (secret!)"
+      head: ["", "Samstag", "Sonntag"]
+      rows:
+        - ["Vormittag (10–12 Uhr)", "", ""]
+        - ["Mittag (12–14 Uhr)", "", ""]
+        - ["Nachmittag (14–17 Uhr)", "", ""]
+        - ["Abend (18–21 Uhr)", "", ""]
+    - title: "Unser Plan"
+      head: ["Wann?", "Was?", "Wo treffen wir uns?"]
+      blank: 1
+
+output:
+  a1: "Write four sentences about your hobbies, one with each word: immer, oft, selten, nie (Ich spiele oft ___.). Read them to a partner. They answer Ich auch! or Ich nicht! Count your Ich auch! points."
+  b1: "Write a short message inviting a friend to something this weekend: what, when, where, and why it'll be fun (weil ...). Swap with a partner. They write a reply that accepts or declines with a reason and suggests something else."
+
+landeskunde:
+  title: "Der Verein"
+  text: |
+    If a German teenager plays soccer, swims, sings in a choir or trains as a volunteer firefighter, they almost always do it in a Verein, a local club, not at school. Germany has roughly 600,000 registered clubs: sports clubs, music clubs, hiking clubs, even garden-plot clubs (Kleingartenvereine). The volunteer fire departments (Freiwillige Feuerwehr) run youth groups too.
+
+    Clubs are run by their members, often as volunteers (Ehrenamt), and they mix ages: a 14-year-old might play on a team coached by a retiree and train next to adults. There's an old joke that when three Germans meet, they found a club.
+  warum: "Why might Germans organize hobbies through volunteer-run clubs instead of through schools? What does that say about community?"
+  vergleich: "Where do American teenagers do sports and hobbies? What changes when your team belongs to your school instead of your town?"
+
+exit:
+  a1: "Ich kann sagen, was ich in meiner Freizeit mache und wie oft."
+  b1: "Ich kann mit einem Partner etwas planen und einen Termin finden."
+
+energizer:
+  title: "Hobby-Pantomime"
+  text: "One student acts out a hobby without speaking. The class guesses: Du spielst Gitarre! Du schwimmst! The first correct guess acts next. B1/B2 actors answer one follow-up after the guess: Wie oft machst du das?"
+
+extension:
+  title: "Freizeit in Zahlen"
+  intro: "Lies den Text und die Tabelle (Beispieldaten). Dann beantworte die Fragen."
+  text: "Eine Schülerzeitung in Bremen hat 150 Jugendliche gefragt: Was machst du in deiner Freizeit mindestens dreimal pro Woche? Man konnte mehrere Antworten geben. Fast alle Jugendlichen sind jeden Tag online. Überraschend ist, dass immer noch mehr als die Hälfte regelmäßig Sport macht. Nur wenige lesen oft Bücher, aber viele lesen Texte im Internet."
+  table:
+    head: ["Aktivität", "Prozent"]
+    rows:
+      - ["online sein / soziale Medien", "94 %"]
+      - ["Musik hören", "81 %"]
+      - ["Sport machen", "56 %"]
+      - ["Freunde treffen", "49 %"]
+      - ["Bücher lesen", "18 %"]
+  questions:
+    - ["Was machen fast alle Jugendlichen?", "Sie sind online / nutzen soziale Medien (94 %)."]
+    - ["Wie viel Prozent machen regelmäßig Sport?", "56 %, mehr als die Hälfte."]
+    - ["Was ist laut Text überraschend?", "Dass immer noch mehr als die Hälfte regelmäßig Sport macht."]
+    - ["Warum ergeben die Zahlen zusammen mehr als 100 %?", "Man konnte mehrere Antworten geben."]
+  task: "Macht dieselbe Umfrage in der Klasse. Ist unsere Klasse wie die Jugendlichen in Bremen? Schreib zwei Sätze mit aber oder auch."
+
+buffer: "Run the Bremen survey with the whole class (from the extension), or a second planning round with a new partner."
+
+page:
+  modules:
+    einstieg: "Hobby photo poll: Wer macht das oft?"
+    input: "Sentence builder + narrow reading (Jonas & Aylin, Marie & Ben) + Achte auf die Form"
+    kernaufgabe: "Wochenend-Plan: find a shared free time and agree on a plan"
+    landeskunde: "Der Verein"
+    energizer: "Hobby-Pantomime"
+    extension: "Freizeit in Zahlen (chart + class survey)"
+    buffer: "Class survey, or a second planning round"
+  einstieg: "Show 8 hobby pictures one at a time. Say the phrase (*Fußball spielen, zeichnen, schwimmen gehen ...*) and ask *Wer macht das oft?* Students raise hands; count out loud in German and keep the tallies on the board. Those tallies are the input for *oft* and *selten*."
+  materials:
+    - "Student packet, one per student"
+    - "Hobby pictures for the Einstieg"
+  summary: "Wochenend-Plan. Each student secretly blocks out two commitments on their own weekend calendar. Then partners ask each other *Hast du am Samstag um zwei Uhr Zeit?* until they find a shared free time, agree on an activity and fill in a plan together. B1/B2 give reasons when they say no, suggest alternatives and set a meeting place."
+  note:
+    type: note
+    text: "The information gap only works if partners can't see each other's calendars. Have students fill in their own first, then sit back to back or hold the packet up like a hand of cards."
+  grammar: |
+    **Frequency words go after the verb.** They carry the main meaning, so students rarely misread them:
+
+    *immer* (always) > *oft* (often) > *manchmal* (sometimes) > *selten* (rarely) > *nie* (never)
+
+    > Ich spiele **oft** Fußball. Am Wochenende lese ich **manchmal**. Ich koche **nie**.
+
+    Counting: *einmal, zweimal, dreimal pro Woche* (once, twice, three times a week).
+
+    **Making plans** uses two modal verbs as fixed phrases: *Wollen wir ...?* (Shall we ...?) and *Ich kann nicht. Ich muss ...* (I can't. I have to ...). The second verb goes to the end: *Wollen wir ins Kino **gehen**?*
+  achtung: "**What students will do:** put the frequency word in English position: *„Ich oft spiele Fußball.“* Restate it: *„Ah, du spielst oft Fußball!“* Also watch for doubled negatives (*„Ich lese nicht nie“*). German doesn't double them; *nie* alone is enough."
+  b2: "**If a B2 asks:** *nie* means never and *nicht* means not; *gar nicht* is \"not at all.\" *Wollen wir ...?* is a suggestion (\"shall we\"), not \"do we want.\" The extension's survey numbers are invented."
+  vocab_extra:
+    - ["die Freizeit", "free time"]
+    - ["der Verein", "club"]
+    - ["das Training", "practice"]
+    - ["ausschlafen", "to sleep in"]
+    - ["das Ehrenamt", "volunteer work"]
+    - ["der Termin", "appointment, set time"]

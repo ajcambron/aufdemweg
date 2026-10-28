@@ -1,0 +1,216 @@
+week: 13
+date: 2027-01-17
+date_label: "Sonntag, 17. Januar 2027"
+theme: "Wetter & Winter"
+cando:
+  a1: "describe winter weather and say what I do in winter"
+  b1b2: "plan a winter trip from a forecast and justify my choices"
+grammar_focus: "Dative after mit, bei, in, auf: mit dem Zug, mit der Familie, in den Bergen, auf dem Eis. der/das → dem, die → der, plural → den."
+ap:
+  unit: "AP theme: Global Contexts (climate) / Contemporary Life (leisure)"
+  mode: "Interpersonal information gap + interpretive listening"
+  note: "The extension uses two-pass listening (listen first, take notes second), the CED's strategy for fast authentic audio."
+
+builder:
+  - title: "Winterwetter (Winter weather)"
+    rows:
+      - ["Es schneit. / Es ist eiskalt. / Es friert.", "It's snowing. / It's freezing cold. / It's below freezing."]
+      - ["Es sind minus fünf Grad.", "It's minus five degrees (Celsius)."]
+      - ["der Schnee / das Eis / der Wind / die Sonne", "snow / ice / wind / sun"]
+      - ["Die Straßen sind glatt.", "The roads are icy."]
+      - ["Morgen wird es sonnig.", "Tomorrow it'll be sunny."]
+      - ["bei schönem Wetter / bei Schnee", "in nice weather / when it snows"]
+  - title: "Was machst du im Winter? (What do you do in winter?)"
+    rows:
+      - ["Ich fahre Ski / Schlitten / Snowboard.", "I ski / go sledding / snowboard."]
+      - ["Ich laufe Schlittschuh.", "I ice-skate."]
+      - ["Ich baue einen Schneemann.", "I build a snowman."]
+      - ["mit dem Zug / mit dem Bus / mit der Bahn / mit dem Auto", "by train / by bus / by rail / by car"]
+      - ["mit meinem Bruder / mit meiner Familie / mit meinen Freunden", "with my brother / my family / my friends"]
+      - ["in den Bergen / auf dem Eis / im Schnee", "in the mountains / on the ice / in the snow"]
+
+vocab:
+  complete:
+    - ["Im Januar ___ es oft.", "In January it often snows.", "schneit"]
+    - ["Es sind minus fünf ___.", "It's minus five degrees.", "Grad"]
+    - ["Ich fahre mit ___ Zug.", "I go by train.", "dem"]
+    - ["Wir fahren mit ___ Familie Ski.", "We go skiing with the family.", "der"]
+    - ["Ich laufe gern ___.", "I like to ice-skate.", "Schlittschuh"]
+    - ["Die Kinder bauen einen ___.", "The kids are building a snowman.", "Schneemann"]
+  match:
+    - ["der Schlitten", "sled"]
+    - ["glatt", "slippery, icy"]
+    - ["die Mütze", "hat, cap"]
+    - ["der Handschuh", "glove"]
+    - ["frieren", "to freeze"]
+    - ["der Berg", "mountain"]
+  match_order: [4, 5, 1, 6, 2, 3]
+  translate:
+    - ["Es schneit seit gestern.", "It's been snowing since yesterday."]
+    - ["Wir fahren mit dem Zug in die Berge.", "We're taking the train to the mountains."]
+    - ["Ich fahre gern Schlitten.", "I like to go sledding."]
+    - ["Es sind minus zehn Grad.", "It's minus ten degrees."]
+    - ["Zieh deine Handschuhe an!", "Put on your gloves!"]
+    - ["Bei schönem Wetter fahren wir Ski.", "In nice weather we go skiing."]
+    - ["Mein Bruder baut einen Schneemann.", "My brother is building a snowman."]
+    - ["Die Straßen sind sehr glatt.", "The roads are very icy."]
+  letters: ["Schnee", "Schlitten", "Handschuh", "Mütze", "Schlittschuh", "Winter", "Berge", "eiskalt"]
+  broken:
+    - ["Im Winter fahre ich gern Ski.", "In winter I like to ski."]
+    - ["Wir fahren mit dem Bus in die Berge.", "We take the bus to the mountains."]
+    - ["Es sind minus drei Grad und es schneit.", "It's minus three degrees and it's snowing."]
+    - ["Ich laufe mit meinen Freunden Schlittschuh.", "I ice-skate with my friends."]
+  suitable:
+    - "Im Winter ___ ich gern ___."
+    - "Ich fahre mit ___ zur Schule."
+    - "Heute ist es ___."
+    - "Es sind ___ Grad."
+    - "Bei Schnee ___ ich ___."
+    - "Ich trage eine ___ und ___."
+
+reading:
+  a1:
+    texts:
+      - ["Marie", "Ich heiße Marie und ich wohne in Garmisch-Partenkirchen, in den Bergen. Im Winter schneit es hier viel. Ich fahre jedes Wochenende Ski, oft mit meinem Vater. Zur Schule fahre ich mit dem Bus. Wenn es sehr kalt ist, sind es minus fünfzehn Grad!"]
+      - ["Ethan", "Ich heiße Ethan und ich wohne in Delaware. Bei uns schneit es nicht so oft. Wenn es schneit, ist die Schule manchmal zu! Dann fahre ich mit meiner Schwester Schlitten, und wir bauen einen Schneemann. Ski fahren kann ich nicht."]
+    questions:
+      - ["Where does Marie live?", "In Garmisch-Partenkirchen, in the mountains"]
+      - ["Who does Marie often ski with?", "Her father"]
+      - ["What sometimes happens at Ethan's school when it snows?", "School is closed."]
+      - ["What can't Ethan do?", "Ski"]
+  b1:
+    texts:
+      - ["Nele", "In Hamburg haben wir selten richtigen Schnee. Meistens ist der Winter grau, nass und windig, und um vier Uhr nachmittags ist es schon dunkel. Trotzdem gehe ich jeden Tag mit unserem Hund spazieren. Meine Oma sagt immer: „Es gibt kein schlechtes Wetter, nur falsche Kleidung.“ Mit einer guten Regenjacke stimmt das sogar."]
+      - ["Jonas", "In Innsbruck ist Wintersport fast Pflicht. In der Schule haben wir eine Skiwoche: Die ganze Klasse fährt eine Woche lang mit dem Bus in ein Skigebiet. Wer nicht Ski fahren kann, lernt es dort bei einem Skilehrer. Ich finde das super, aber für manche Familien ist die Ausrüstung sehr teuer."]
+    questions:
+      - ["Wie ist der Winter in Hamburg meistens?", "Grau, nass und windig, und früh dunkel."]
+      - ["Was sagt Neles Oma?", "Es gibt kein schlechtes Wetter, nur falsche Kleidung."]
+      - ["Was ist eine Skiwoche?", "Die ganze Klasse fährt eine Woche lang in ein Skigebiet und lernt dort Ski fahren."]
+      - ["Welches Problem sieht Jonas?", "Die Ausrüstung ist für manche Familien sehr teuer."]
+
+structured_input:
+  ref:
+    directions: "Lies genau: der oder dem? Wer macht es? (Who does the action?)"
+    items:
+      - ["Der Junge hilft dem Opa beim Schneeschippen.", "der Junge", ["der Junge", "der Opa"]]
+      - ["Dem Jungen hilft der Opa beim Skifahren.", "der Opa", ["der Junge", "der Opa"]]
+      - ["Dem Vater gibt der Sohn die Mütze.", "der Sohn", ["der Vater", "der Sohn"]]
+      - ["Der Skilehrer zeigt dem Schüler den Berg.", "der Skilehrer", ["der Skilehrer", "der Schüler"]]
+      - ["Dem Skilehrer folgt der Anfänger.", "der Anfänger", ["der Skilehrer", "der Anfänger"]]
+  aff:
+    directions: "Was stimmt für dich?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich fahre gern mit dem Bus."
+      - "Im Winter bleibe ich am liebsten zu Hause."
+      - "Ich fahre gern mit meiner Familie in die Berge."
+      - "Bei Schnee bin ich gern draußen."
+      - "Mit meinen Freunden laufe ich Schlittschuh."
+
+task:
+  title: "Winterwochenende: Wohin fahren wir?"
+  format: "Partner information gap"
+  directions: "Partner A has the forecast for Garmisch, Hamburg and Wien. Partner B has the forecast for Zürich, Berlin and Innsbruck. Fold the page so you see only your own forecast! Ask each other about the weather in each city (Wie ist das Wetter am Samstag in ...? Wie viel Grad sind es?) and complete the full chart. Then decide together: where do you go skiing, where do you go ice-skating, and where do you spend a city weekend? How do you get there?"
+  a1: "Ask Wie ist das Wetter in ...? and write short answers (Schnee, minus sechs Grad)."
+  b1: "Justify every choice: Wir fahren mit dem Zug nach Innsbruck, weil es dort am Sonntag schneit."
+  tables:
+    - title: "Partner A: Wettervorhersage"
+      head: ["Stadt", "Samstag", "Sonntag"]
+      rows:
+        - ["Garmisch", "Schnee, −6 °C", "sonnig, −4 °C"]
+        - ["Hamburg", "Regen, 3 °C", "windig, 2 °C"]
+        - ["Wien", "bewölkt, −1 °C", "Schnee, −3 °C"]
+    - title: "Partner B: Wettervorhersage"
+      head: ["Stadt", "Samstag", "Sonntag"]
+      rows:
+        - ["Zürich", "sonnig, 1 °C", "bewölkt, 0 °C"]
+        - ["Berlin", "sonnig und eiskalt, −8 °C (die Seen sind gefroren)", "sonnig, −7 °C"]
+        - ["Innsbruck", "Schnee, −5 °C", "Schnee, −9 °C"]
+    - title: "Alle sechs Städte (fill in together)"
+      head: ["Stadt", "Samstag", "Sonntag"]
+      rows:
+        - ["Garmisch", "", ""]
+        - ["Hamburg", "", ""]
+        - ["Wien", "", ""]
+        - ["Zürich", "", ""]
+        - ["Berlin", "", ""]
+        - ["Innsbruck", "", ""]
+    - title: "Unsere Wahl (our choice)"
+      head: ["Aktivität", "Wohin?", "Womit? (mit dem ...)", "Warum?"]
+      rows:
+        - ["Ski fahren", "", "", ""]
+        - ["Schlittschuh laufen", "", "", ""]
+        - ["Städtereise", "", "", ""]
+
+output:
+  a1: "Write about your winter: Im Winter ___ ich gern. Ich fahre mit ___ zur Schule. Bei Schnee ___ ich ___. Read it to a partner. They say Ich auch! or Ich nicht!"
+  b1: "Write a postcard (5–6 sentences) from the trip you chose: where you are, how you got there (mit dem ...), the weather, and what you're doing and with whom (mit meinen Freunden ...). Your partner reads it and writes a two-sentence reply."
+
+landeskunde:
+  title: "Kein schlechtes Wetter, nur falsche Kleidung"
+  text: |
+    German speakers have a saying: Es gibt kein schlechtes Wetter, nur falsche Kleidung (there's no bad weather, only the wrong clothes). Going outside every day, rain or snow, is normal. Families take a Sunday-afternoon Spaziergang (walk) in almost any weather, kindergarten children play outside in rain gear, and Waldkindergärten (forest kindergartens) keep children outdoors nearly all day, all year.
+
+    In the Alps, winter sports are part of growing up. Many Austrian schools run a Wintersportwoche, a ski week for the whole class. In the north, where real snow is rare, people wait for lakes and canals to freeze hard enough to skate on, and when it happens, it's an event.
+  warum: "What does a saying like „Es gibt kein schlechtes Wetter, nur falsche Kleidung“ tell you about how people think about nature and the outdoors?"
+  vergleich: "What does your school or family do when it snows? Compare it with the German or Austrian approach."
+
+exit:
+  a1: "Ich kann das Winterwetter beschreiben und sagen, was ich im Winter mache."
+  b1: "Ich kann mit einer Wettervorhersage eine Reise planen und meine Wahl begründen."
+
+energizer:
+  title: "Wetterbericht-Theater (TV weather report)"
+  text: "One student is the TV weather reporter; another stands at a blank map on the board. The reporter reads a forecast (Morgen schneit es in Berlin. Es sind minus fünf Grad.), and the partner draws the weather symbols in the right place. Swap roles after three cities."
+
+extension:
+  title: "Der Wetterbericht (two-pass listening)"
+  intro: "Cover the text. The instructor reads the forecast aloud twice. First time: just listen. Second time: take notes. Then uncover the text and answer the questions."
+  text: "Und nun das Wetter für Sonntag. Im Norden bleibt es grau und nass: In Hamburg und Bremen regnet es den ganzen Tag bei Temperaturen um drei Grad. Der Wind wird am Nachmittag stärker. In der Mitte Deutschlands ist es bewölkt, aber trocken. Im Süden scheint dagegen die Sonne. In den Alpen gibt es bis zu zwanzig Zentimeter Neuschnee, und in der Nacht sinken die Temperaturen auf minus zwölf Grad. Achtung: Auf den Straßen kann es glatt werden. Für Wintersportler ist das ein perfektes Wochenende."
+  questions:
+    - ["Wie ist das Wetter im Norden?", "Grau und nass, Regen, um drei Grad, am Nachmittag mehr Wind."]
+    - ["Wo scheint die Sonne?", "Im Süden."]
+    - ["Wie viel Neuschnee gibt es in den Alpen?", "Bis zu zwanzig Zentimeter."]
+    - ["Wovor warnt der Wetterbericht?", "Vor glatten Straßen."]
+  task: "Schreib einen kurzen Wetterbericht (4–5 Sätze) für Delaware für morgen. Benutze im Norden / im Süden und Temperaturen in Grad Celsius."
+
+buffer: "Paper snowflakes with German instructions (Falte das Papier. Schneide hier.), or a second trip-planning round with new cities students invent."
+
+page:
+  modules:
+    einstieg: "Today's weather + Celsius vs. Fahrenheit"
+    input: "Sentence builder + narrow reading (Marie & Ethan, Nele & Jonas) + Achte auf die Form"
+    kernaufgabe: "Winterwochenende: trade forecasts, choose trips"
+    landeskunde: "Kein schlechtes Wetter, nur falsche Kleidung"
+    energizer: "Wetterbericht-Theater"
+    extension: "Der Wetterbericht (two-pass listening)"
+    buffer: "Paper snowflakes, or a second planning round"
+  einstieg: "Look out the window or show a weather app: *Wie ist das Wetter heute?* Write today's temperature on the board in Fahrenheit and Celsius and give the rough scale: 0 °C is freezing, 20 °C is a nice day, 30 °C is hot. Ask students to guess the Celsius temperature for a snow day, a pool day and a jacket day."
+  materials:
+    - "Student packet, one per student"
+    - "Board space for weather symbols"
+  summary: "Winterwochenende. Partner A has a weekend forecast for three cities and Partner B for three others. They ask each other about the weather (*Wie ist das Wetter am Samstag in Wien?*) until the chart is full, then choose where to go skiing, ice-skating and on a city weekend, and how to get there. B1/B2 justify each choice with *weil*."
+  note:
+    type: note
+    text: "Both forecasts are on the same page, so have partners fold the page or cover each other's forecast. Quick Celsius check for you: 0 °C = 32 °F, −5 °C = 23 °F, −10 °C = 14 °F."
+  grammar: |
+    **Dative after prepositions.** After *mit, bei, von, zu* (always) and after *in, auf, an* when the question is *Wo?* (where?), the article changes to the dative:
+
+    | | der-words | das-words | die-words | plural |
+    | :--- | :--- | :--- | :--- | :--- |
+    | Normal | der Zug | das Auto | die Familie | die Berge |
+    | Dative | mit **dem** Zug | mit **dem** Auto | mit **der** Familie | in **den** Berge**n** |
+
+    Possessives follow the same pattern: *mit mein**em** Bruder, mit mein**er** Schwester, mit mein**en** Freunde**n***. Students met *auf dem Tisch* as a chunk in Week 4; this week shows why it looks that way.
+
+    **Temperatures:** *Es sind minus fünf Grad* takes a plural verb (*sind*) for any number but one.
+  achtung: "**What students will do:** see *dem* and still read the first noun as the doer, so *„Dem Jungen hilft der Opa“* becomes \"the boy helps Grandpa.\" The Achte-auf-die-Form items target exactly this: *dem* marks the one being helped, not the helper. In their own speech they'll say *„mit die Familie“*; restate it (*„Mit der Familie, schön!“*) and move on."
+  b2: "**If a B2 asks:** the dative plural adds *-n* to the noun unless it already ends in *-n* or *-s* (*den Freunden, den Bergen*, but *den Autos*). *Helfen, danken, folgen* and *gefallen* take dative objects (Week 25 uses *gefallen*). *Bei schönem Wetter* has an adjective ending; recognize it, don't teach it. The forecasts are invented."
+  vocab_extra:
+    - ["der Schlitten", "sled"]
+    - ["der Schlittschuh", "ice skate"]
+    - ["die Mütze / der Handschuh", "hat / glove"]
+    - ["glatt", "icy, slippery"]
+    - ["die Wettervorhersage", "weather forecast"]
+    - ["das Skigebiet", "ski area"]
+    - ["die Ausrüstung", "equipment, gear"]

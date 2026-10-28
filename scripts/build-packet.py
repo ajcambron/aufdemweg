@@ -82,8 +82,27 @@ def table(rows, head=None, cls="ws-table"):
     return out + "</table>"
 
 
+def check(d, nn):
+    """Catch the mistakes that are easy to make by hand in a data file."""
+    v = d["vocab"]
+    counts = {"complete": 6, "match": 6, "translate": 8, "letters": 8, "broken": 4, "suitable": 6}
+    for key, n in counts.items():
+        assert len(v[key]) == n, f"woche-{nn}: vocab.{key} has {len(v[key])} items, expected {n}"
+    order = v["match_order"]
+    assert sorted(order) == list(range(1, 7)), f"woche-{nn}: match_order must be a permutation of 1-6"
+    assert all(o != i + 1 for i, o in enumerate(order)), f"woche-{nn}: match_order leaves a pair on its own row"
+    for lvl in ("a1", "b1"):
+        assert len(d["reading"][lvl]["texts"]) == 2 and len(d["reading"][lvl]["questions"]) == 4, f"woche-{nn}: reading.{lvl}"
+    for item in d["structured_input"]["ref"]["items"]:
+        opts = item[2] if len(item) > 2 else d["structured_input"]["ref"]["options"]
+        assert item[1] in opts, f"woche-{nn}: answer {item[1]!r} not among options for {item[0]!r}"
+    for key in ("task", "output", "landeskunde", "exit", "energizer", "extension", "buffer", "page"):
+        assert key in d, f"woche-{nn}: missing {key}"
+
+
 def build(nn):
     d = yaml.safe_load((ROOT / "_data" / "weeks" / f"woche-{nn}.yml").read_text())
+    check(d, nn)
     w = d["week"]
     parts = []
 

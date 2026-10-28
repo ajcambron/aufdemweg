@@ -1,0 +1,211 @@
+week: 7
+date: 2026-11-08
+date_label: "Sonntag, 8. November 2026"
+theme: "Essen & Trinken"
+cando:
+  a1: "order food and drinks in a café and say what I like and don't like"
+  b1b2: "describe regional dishes and explain my food preferences"
+grammar_focus: "Ich möchte + accusative: only der-words change (einen Kaffee, ein Wasser, eine Cola). Likes: Ich esse gern / nicht gern ..."
+ap:
+  unit: "AP theme: Contemporary Life (food and daily life)"
+  mode: "Interpersonal speaking (role play) + formal email"
+  note: "Landeskunde climbs from a product (Kaffee und Kuchen) to the perspective behind it; the extension practices a formal email reply in the Sie-form, an AP register skill."
+
+builder:
+  - title: "Im Café (At the café)"
+    rows:
+      - ["Ich möchte einen Kaffee / einen Apfelsaft.", "I'd like a coffee / an apple juice."]
+      - ["Ich möchte ein Wasser / ein Stück Kuchen.", "I'd like a water / a piece of cake."]
+      - ["Ich möchte eine Cola / eine Brezel.", "I'd like a cola / a pretzel."]
+      - ["Ich nehme ... / Ich hätte gern ... [B1/B2]", "I'll take ... / I would like ..."]
+      - ["Was kostet das? Das kostet drei Euro fünfzig.", "How much is it? That's €3.50."]
+      - ["Zahlen, bitte! Zusammen oder getrennt?", "Check, please! Together or separate?"]
+      - ["Stimmt so.", "Keep the change."]
+  - title: "Was isst du gern? (What do you like to eat?)"
+    rows:
+      - ["Ich esse gern Pizza / Nudeln / Salat.", "I like to eat pizza / pasta / salad."]
+      - ["Ich trinke nicht gern Kaffee.", "I don't like to drink coffee."]
+      - ["Ich esse kein Fleisch. Ich bin Vegetarier / Vegetarierin.", "I don't eat meat. I'm a vegetarian (m / f)."]
+      - ["Das schmeckt gut / lecker / nicht so gut.", "That tastes good / delicious / not so good."]
+      - ["Mein Lieblingsessen ist ..., weil ... [B1/B2]", "My favorite food is ..., because ..."]
+      - ["In Bayern isst man ... [B1/B2]", "In Bavaria people eat ..."]
+
+vocab:
+  complete:
+    - ["Ich möchte ___ Kaffee, bitte.", "I'd like a coffee, please.", "einen"]
+    - ["Ich ___ gern Pizza.", "I like to eat pizza.", "esse"]
+    - ["Was ___ der Kuchen?", "How much is the cake?", "kostet"]
+    - ["Das ___ lecker!", "That tastes delicious!", "schmeckt"]
+    - ["Ich trinke ___ gern Milch.", "I don't like to drink milk.", "nicht"]
+    - ["___, bitte!", "Check, please!", "Zahlen"]
+  match:
+    - ["die Speisekarte", "menu"]
+    - ["das Getränk", "drink"]
+    - ["lecker", "delicious"]
+    - ["die Rechnung", "check, bill"]
+    - ["das Trinkgeld", "tip"]
+    - ["bestellen", "to order"]
+  match_order: [3, 5, 1, 6, 2, 4]
+  translate:
+    - ["Ich möchte eine Brezel und ein Wasser.", "I'd like a pretzel and a water."]
+    - ["Was kostet der Apfelstrudel?", "How much is the apple strudel?"]
+    - ["Ich esse kein Fleisch.", "I don't eat meat."]
+    - ["Die Suppe schmeckt sehr gut.", "The soup tastes very good."]
+    - ["Zusammen oder getrennt?", "Together or separate?"]
+    - ["Ich trinke gern Apfelschorle.", "I like to drink apple spritzer."]
+    - ["Mein Lieblingsessen ist Pizza.", "My favorite food is pizza."]
+    - ["Die Rechnung, bitte.", "The check, please."]
+  letters: ["Speisekarte", "Kuchen", "Getränk", "Brezel", "Rechnung", "Trinkgeld", "Kartoffel", "Frühstück"]
+  broken:
+    - ["Ich möchte einen Kaffee, bitte.", "I'd like a coffee, please."]
+    - ["Was kostet die Suppe?", "How much is the soup?"]
+    - ["Ich esse gern Nudeln mit Tomatensoße.", "I like to eat pasta with tomato sauce."]
+    - ["Das schmeckt lecker!", "That tastes delicious!"]
+  suitable:
+    - "Ich möchte ___, bitte."
+    - "Ich esse gern ___."
+    - "Ich esse nicht gern ___."
+    - "Mein Lieblingsgetränk ist ___."
+    - "Zum Frühstück esse ich ___."
+    - "___ schmeckt lecker!"
+
+reading:
+  a1:
+    texts:
+      - ["Paul", "Ich heiße Paul. Ich esse gern Pizza und Nudeln. Ich trinke gern Apfelschorle. Ich esse nicht gern Fisch. Im Café bestelle ich immer einen Kakao und ein Stück Schokoladenkuchen. Das schmeckt lecker!"]
+      - ["Lena", "Ich heiße Lena und ich bin Vegetarierin. Ich esse kein Fleisch. Ich esse gern Salat, Käse und Brezeln. Mein Lieblingsgetränk ist Tee. Im Café möchte ich einen Pfefferminztee und einen Apfelstrudel."]
+    questions:
+      - ["What does Paul like to drink?", "Apple spritzer (Apfelschorle)"]
+      - ["What doesn't Paul like to eat?", "Fish"]
+      - ["Why doesn't Lena eat meat?", "She's a vegetarian."]
+      - ["What does Lena order at the café?", "Peppermint tea and apple strudel"]
+  b1:
+    texts:
+      - ["Sophie", "Ich komme aus München. Am Wochenende frühstücken wir oft Weißwürste mit süßem Senf und einer Brezel. Man sagt, Weißwürste isst man nur bis zwölf Uhr mittags – das ist eine alte Tradition. Am Sonntagnachmittag gibt es bei meiner Oma immer Kaffee und Kuchen. Ich trinke keinen Kaffee, deshalb bekomme ich eine heiße Schokolade."]
+      - ["Can", "Ich wohne in Berlin. Hier isst man gern Currywurst, aber mein Lieblingsessen ist Döner. Der Döner ist in Berlin sehr beliebt und billiger als eine Pizza. Meine Familie kommt aus der Türkei, und zu Hause kochen wir oft türkisch. Wenn Freunde kommen, bestellen wir manchmal einfach Pizza, weil das schneller geht."]
+    questions:
+      - ["Bis wann isst man traditionell Weißwürste?", "Bis zwölf Uhr mittags."]
+      - ["Was trinkt Sophie bei ihrer Oma?", "Eine heiße Schokolade (keinen Kaffee)."]
+      - ["Was ist Cans Lieblingsessen?", "Döner."]
+      - ["Warum bestellt Cans Familie manchmal Pizza?", "Weil das schneller geht."]
+
+structured_input:
+  ref:
+    directions: "Lies genau: der oder den? Wer macht es? (Who does the action?)"
+    items:
+      - ["Der Gast ruft den Kellner.", "der Gast", ["der Gast", "der Kellner"]]
+      - ["Den Gast ruft der Kellner.", "der Kellner", ["der Gast", "der Kellner"]]
+      - ["Den Koch fragt der Kellner.", "der Kellner", ["der Koch", "der Kellner"]]
+      - ["Der Vater lädt den Sohn zum Essen ein.", "der Vater", ["der Vater", "der Sohn"]]
+      - ["Den Vater lädt der Sohn zum Essen ein.", "der Sohn", ["der Vater", "der Sohn"]]
+  aff:
+    directions: "Was stimmt für dich?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich esse gern Brezeln."
+      - "Einen Kaffee trinke ich jeden Morgen."
+      - "Einen Apfelstrudel möchte ich probieren."
+      - "Fisch esse ich nicht gern."
+      - "Mein Lieblingsessen ist Pizza."
+
+task:
+  title: "Im Café Sonnenschein (ordering on a budget)"
+  format: "Partner role play with an information gap"
+  directions: "Partner A is the guest and reads one role card. Partner B is the server and has the menu. The guest orders; the server writes the order on the Bestellzettel, adds up the bill and says the total in German (Das macht ... Euro). Then switch roles with the next role card."
+  a1: "Guest: Ich möchte ... / Ich nehme ... Server: Was möchtest du? ... Das macht ... Euro."
+  b1: "Guest: order with Ich hätte gern ..., ask one question about the menu (Ist die Suppe vegetarisch?), and pay with Zusammen oder getrennt? / Stimmt so."
+  tables:
+    - title: "Rollenkarten (role cards)"
+      head: ["Gast", "Budget", "Regel"]
+      rows:
+        - ["Gast 1", "8,00 €", "Du bist Vegetarier/in. Du möchtest etwas Warmes trinken."]
+        - ["Gast 2", "10,00 €", "Du hast großen Hunger. Du trinkst keinen Kaffee."]
+        - ["Gast 3", "6,50 €", "Du möchtest etwas Süßes und ein Getränk."]
+    - title: "Speisekarte: Café Sonnenschein"
+      head: ["Getränke", "Preis", "Essen", "Preis"]
+      rows:
+        - ["Kaffee", "2,80 €", "Brezel mit Butter", "2,40 €"]
+        - ["Kakao", "2,90 €", "Käsebrötchen", "3,20 €"]
+        - ["Tee", "2,50 €", "Tomatensuppe", "4,50 €"]
+        - ["Apfelschorle", "2,60 €", "Currywurst mit Pommes", "6,90 €"]
+        - ["Wasser", "2,00 €", "Apfelstrudel", "3,90 €"]
+        - ["Cola", "2,70 €", "Schokoladenkuchen", "3,50 €"]
+    - title: "Bestellzettel (order slip)"
+      head: ["Gast", "Was?", "Preis", "Das macht ... (total)"]
+      blank: 3
+
+output:
+  a1: "Write your own café order: Ich möchte einen ___ und ein ___. Ich esse gern ___, aber ich esse nicht gern ___. Read it to a partner. After each sentence they say Ich auch! or Ich nicht!"
+  b1: "Describe your Lieblingsessen in five sentences: what it is, where it comes from, when you eat it, and why you like it (use at least one weil-clause). Your partner asks one follow-up question and answers: Möchtest du das probieren? Ja / Nein, weil ..."
+
+landeskunde:
+  title: "Kaffee und Kuchen & regionale Küche"
+  text: |
+    On Sunday afternoons around 3:00, many German families sit down for Kaffee und Kuchen: coffee (or hot chocolate) and cake, often homemade, often at the grandparents'. The food matters less than the time together. Most shops are closed on Sundays, so the afternoon is free.
+
+    Food is regional. Bavaria is known for Weißwurst, Brezeln and Schweinebraten; Berlin for Currywurst and, thanks to Turkish-German families, the Döner kebab, now one of the most popular fast foods in the country. The north eats more fish (Fischbrötchen), and Swabia in the southwest has Spätzle. In a restaurant, the check never arrives on its own: you ask for it. Servers ask Zusammen oder getrennt? (one check or separate?), and people tip by rounding up, usually around 5–10%.
+  warum: "Why would families reserve a whole Sunday afternoon for coffee and cake? What does Kaffee und Kuchen say about how Germans value time together?"
+  vergleich: "Does your family have a weekly food ritual? How is it like or unlike Kaffee und Kuchen?"
+
+exit:
+  a1: "Ich kann im Café etwas bestellen und sagen, was ich gern esse."
+  b1: "Ich kann über regionales Essen sprechen und meine Meinung begründen."
+
+energizer:
+  title: "Ich packe meinen Picknickkorb"
+  text: "Sit in a circle. The first student says: Ich packe in meinen Picknickkorb einen Apfel. The next student repeats it and adds one item: ... einen Apfel und eine Brezel. Keep going around. Whoever forgets an item starts a new round."
+
+extension:
+  title: "Eine Restaurantkritik"
+  intro: "Lies die Kritik und beantworte die Fragen. Dann schreib eine kurze E-Mail (Sie-Form!)."
+  text: |
+    Gasthaus Zur Linde, Freiburg: 4 von 5 Sternen
+
+    Wir waren am Samstagabend zu viert im Gasthaus Zur Linde. Die Speisekarte ist klein, aber alles ist frisch und kommt aus der Region. Die Maultaschen waren hervorragend, und auch die vegetarischen Käsespätzle haben uns sehr gut geschmeckt. Leider mussten wir fast eine Stunde auf das Essen warten, und der Kellner hat sich nicht entschuldigt. Die Preise sind fair: Ein Hauptgericht kostet zwischen 12 und 18 Euro. Fazit: tolles Essen, aber bringen Sie Zeit mit!
+  questions:
+    - ["Wie viele Personen waren im Restaurant?", "Vier."]
+    - ["Was hat den Gästen gut geschmeckt?", "Die Maultaschen und die Käsespätzle."]
+    - ["Was war das Problem?", "Sie mussten fast eine Stunde warten, und der Kellner hat sich nicht entschuldigt."]
+    - ["Wie viel kostet ein Hauptgericht?", "Zwischen 12 und 18 Euro."]
+  task: "Du bist der Besitzer / die Besitzerin des Gasthauses. Schreib eine kurze Antwort an die Gäste (Sie-Form): Bedanke dich, entschuldige dich für die Wartezeit und mach ein Angebot. Beginn mit Sehr geehrte Gäste, und ende mit Mit freundlichen Grüßen."
+
+buffer: "A second café round with new roles, or a class vote: Was ist das beste deutsche Essen? Each student votes and gives one reason."
+
+page:
+  modules:
+    einstieg: "Food photos: Was ist das? Isst du das gern?"
+    input: "Sentence builder + narrow reading (Paul & Lena, Sophie & Can) + Achte auf die Form"
+    kernaufgabe: "Im Café Sonnenschein: ordering on a budget"
+    landeskunde: "Kaffee und Kuchen & regionale Küche"
+    energizer: "Ich packe meinen Picknickkorb"
+    extension: "Restaurantkritik + reply email (Sie-Form)"
+    buffer: "Second café round, or best-German-food vote"
+  einstieg: "Show 6–8 food photos (Brezel, Currywurst, Apfelstrudel, Döner, Spätzle, Schwarzwälder Kirschtorte). For each, ask *Was ist das?* and then *Isst du das gern?* Students answer *ja / nein* or with a thumbs up or down. Write the names on the board; several of them appear on the café menu."
+  materials:
+    - "Student packet, one per student"
+    - "Food photos for the Einstieg (printed or projected)"
+    - "Optional: play money for paying the bill"
+  summary: "Im Café Sonnenschein. In pairs, one student is the guest with a role card (a budget plus one rule, like *vegetarian* or *no coffee*), and the other is the server with the menu. The server writes the order, adds up the bill and says the total in German. Then they switch. B1/B2 order with *Ich hätte gern*, ask a question about the menu and handle the payment phrases."
+  note:
+    type: note
+    text: "Prices use German format (*3,50 €*, said *drei Euro fünfzig*). Adding up a bill in German is real work for A1 students; let them write the numbers first and say the total second."
+  grammar: |
+    **Ich möchte + accusative.** After *möchte* (and *nehme, esse, trinke, habe*), the thing you order is the object, and only der-words change:
+
+    | | der-words | das-words | die-words |
+    | :--- | :--- | :--- | :--- |
+    | On the menu | der Kaffee | das Wasser | die Cola |
+    | Ordering | Ich möchte **einen** Kaffee. | Ich möchte **ein** Wasser. | Ich möchte **eine** Cola. |
+    | Not ordering | **keinen** Kaffee | **kein** Wasser | **keine** Cola |
+
+    **Likes:** add *gern* after the verb. *Ich esse **gern** Pizza. Ich trinke **nicht gern** Milch.* That's the everyday way to say "like to"; *mögen* can wait.
+  achtung: "**What students will do:** say *„Ich möchte ein Kaffee.“* Restate it (*„Einen Kaffee, gern!“*) and move on; the Achte-auf-die-Form items do the real work by making students notice *den* to figure out who does what. Also teach the false friend: ***Ich bekomme einen Kaffee*** means \"I'll have a coffee,\" not \"I become a coffee.\" Students love it."
+  b2: "**If a B2 asks:** *Ich hätte gern* is the politest way to order (Konjunktiv II of *haben*, covered in Week 22). *Kein* negates nouns (*kein Fleisch*); *nicht* negates everything else (*nicht gern*). The café menu and prices are invented."
+  vocab_extra:
+    - ["die Speisekarte", "menu"]
+    - ["das Getränk", "drink"]
+    - ["die Rechnung", "check, bill"]
+    - ["das Trinkgeld", "tip"]
+    - ["bestellen", "to order"]
+    - ["der Kellner / die Kellnerin", "server (m / f)"]
+    - ["lecker", "delicious"]

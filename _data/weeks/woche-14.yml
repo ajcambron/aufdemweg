@@ -1,0 +1,213 @@
+week: 14
+date: 2027-01-24
+date_label: "Sonntag, 24. Januar 2027"
+theme: "Körper & Gesundheit"
+cando:
+  a1: "name body parts and say what hurts"
+  b1b2: "describe symptoms to a doctor and pass on advice"
+grammar_focus: "müssen (have to) and sollen (should, supposed to) + infinitive at the end. Careful: Du musst nicht = you don't have to, not you must not!"
+ap:
+  unit: "AP theme: Science and Technology (health) / Contemporary Life"
+  mode: "Interpersonal speaking (formal register) + source-based writing"
+  note: "The extension asks students to cite both texts by name (Laut Text 1 ...), the source-attribution habit the AP Essay rubric rewards."
+
+builder:
+  - title: "Was tut dir weh? (What hurts?)"
+    rows:
+      - ["Mein Kopf tut weh. / Ich habe Kopfschmerzen.", "My head hurts. / I have a headache."]
+      - ["Mein Bauch / Mein Hals / Mein Rücken tut weh.", "My stomach / throat / back hurts."]
+      - ["Meine Füße tun weh.", "My feet hurt."]
+      - ["Ich habe Fieber / Husten / Schnupfen.", "I have a fever / a cough / a runny nose."]
+      - ["Ich bin krank. / Mir ist schlecht.", "I'm sick. / I feel nauseous."]
+      - ["der Kopf, der Bauch, der Arm, das Bein, der Fuß, die Hand, das Auge, das Ohr", "head, stomach, arm, leg, foot, hand, eye, ear"]
+      - ["Gute Besserung!", "Get well soon!"]
+  - title: "Beim Arzt (At the doctor's)"
+    rows:
+      - ["Was fehlt Ihnen? / Wo tut es weh? / Seit wann?", "What's wrong? / Where does it hurt? / Since when?"]
+      - ["Sie müssen im Bett bleiben.", "You have to stay in bed."]
+      - ["Sie sollen viel Tee trinken.", "You should drink lots of tea."]
+      - ["Sie dürfen keinen Sport machen.", "You may not do any sports."]
+      - ["Nehmen Sie diese Tabletten.", "Take these pills."]
+      - ["Die Ärztin sagt, ich soll ... [B1/B2]", "The doctor says I'm supposed to ..."]
+
+vocab:
+  complete:
+    - ["Mein Kopf ___ weh.", "My head hurts.", "tut"]
+    - ["Ich habe ___.", "I have a fever.", "Fieber"]
+    - ["Sie ___ im Bett bleiben.", "You have to stay in bed.", "müssen"]
+    - ["Der Arzt sagt, ich ___ viel trinken.", "The doctor says I should drink a lot.", "soll"]
+    - ["Gute ___!", "Get well soon!", "Besserung"]
+    - ["Wo tut es ___?", "Where does it hurt?", "weh"]
+  match:
+    - ["der Hals", "throat, neck"]
+    - ["der Husten", "cough"]
+    - ["die Tablette", "pill"]
+    - ["krank", "sick"]
+    - ["der Rücken", "back"]
+    - ["das Rezept", "prescription"]
+  match_order: [2, 5, 6, 1, 3, 4]
+  translate:
+    - ["Mein Bauch tut weh.", "My stomach hurts."]
+    - ["Ich habe Husten und Schnupfen.", "I have a cough and a runny nose."]
+    - ["Du musst nicht kommen.", "You don't have to come."]
+    - ["Sie sollen drei Tage zu Hause bleiben.", "You should stay home for three days."]
+    - ["Mir ist schlecht.", "I feel nauseous."]
+    - ["Meine Füße tun weh.", "My feet hurt."]
+    - ["Wo tut es weh?", "Where does it hurt?"]
+    - ["Gute Besserung!", "Get well soon!"]
+  letters: ["Kopfschmerzen", "Fieber", "Husten", "Rücken", "Tablette", "Apotheke", "gesund", "Besserung"]
+  broken:
+    - ["Mein Hals tut weh.", "My throat hurts."]
+    - ["Sie müssen viel Wasser trinken.", "You have to drink lots of water."]
+    - ["Ich habe seit gestern Fieber.", "I've had a fever since yesterday."]
+    - ["Der Arzt sagt, ich soll im Bett bleiben.", "The doctor says I'm supposed to stay in bed."]
+  suitable:
+    - "Mein ___ tut weh."
+    - "Ich habe ___."
+    - "Du musst ___."
+    - "Du sollst ___."
+    - "Wenn ich krank bin, ___ ich ___."
+    - "Gute ___!"
+
+reading:
+  a1:
+    texts:
+      - ["Lina", "Ich heiße Lina. Heute bin ich krank. Ich habe Fieber und mein Hals tut weh. Ich muss im Bett bleiben. Meine Mutter macht mir einen Tee mit Honig. Ich muss heute nicht in die Schule gehen, aber ich bin trotzdem nicht froh!"]
+      - ["Tom", "Ich heiße Tom. Gestern habe ich Basketball gespielt, und jetzt tut mein Fuß weh. Die Ärztin sagt, ich soll den Fuß hochlegen. Ich darf zwei Wochen keinen Sport machen. Das ist doof!"]
+    questions:
+      - ["What's wrong with Lina?", "She has a fever and a sore throat."]
+      - ["What does Lina's mother make for her?", "Tea with honey"]
+      - ["What hurts on Tom?", "His foot"]
+      - ["How long can't Tom do sports?", "Two weeks"]
+  b1:
+    texts:
+      - ["Dr. Schulz", "Ich bin Kinderärztin in Leipzig. Im Winter kommen jeden Tag viele Kinder und Jugendliche mit Erkältungen in meine Praxis. Meistens brauchen sie keine Medikamente, sondern Ruhe, viel Tee und Geduld. Antibiotika helfen bei einer Erkältung nicht, weil sie meistens von Viren kommt. Trotzdem wollen viele Eltern ein Rezept. Dann muss ich lange erklären."]
+      - ["Kenan", "Letzten Monat war ich eine Woche krank. An meiner Schule braucht man ab dem dritten Tag ein Attest vom Arzt, sonst fehlt man unentschuldigt. Das ist manchmal stressig, weil man krank zum Arzt gehen muss. Meine Oma schwört übrigens auf Hausmittel: Hühnersuppe, Kamillentee und frische Luft."]
+    questions:
+      - ["Was brauchen Kinder mit einer Erkältung meistens?", "Ruhe, viel Tee und Geduld, keine Medikamente."]
+      - ["Warum helfen Antibiotika bei einer Erkältung nicht?", "Weil eine Erkältung meistens von Viren kommt."]
+      - ["Was braucht Kenan an seiner Schule ab dem dritten Tag?", "Ein Attest vom Arzt."]
+      - ["Welche Hausmittel empfiehlt Kenans Oma?", "Hühnersuppe, Kamillentee und frische Luft."]
+
+structured_input:
+  ref:
+    directions: "Was bedeutet der Satz? (What does it mean?)"
+    items:
+      - ["Du musst nicht in die Schule gehen.", "You don't have to go to school.", ["You must not go to school.", "You don't have to go to school."]]
+      - ["Sie müssen im Bett bleiben.", "You have to stay in bed.", ["You have to stay in bed.", "You may stay in bed."]]
+      - ["Der Arzt sagt, ich soll viel trinken.", "The doctor says I should drink a lot.", ["The doctor says I should drink a lot.", "The doctor says I want to drink a lot."]]
+      - ["Ich muss heute nicht zum Arzt.", "I don't have to go to the doctor today.", ["I must not go to the doctor today.", "I don't have to go to the doctor today."]]
+      - ["Du darfst keinen Sport machen.", "You're not allowed to do sports.", ["You're not allowed to do sports.", "You don't have to do sports."]]
+  aff:
+    directions: "Was machst du, wenn du krank bist?"
+    options: ["Ja", "Nein"]
+    items:
+      - "Wenn ich krank bin, bleibe ich im Bett."
+      - "Wenn ich krank bin, trinke ich viel Tee."
+      - "Wenn ich krank bin, gehe ich trotzdem in die Schule."
+      - "Wenn ich krank bin, schaue ich den ganzen Tag Filme."
+      - "Wenn ich krank bin, gehe ich sofort zum Arzt."
+
+task:
+  title: "In der Arztpraxis (doctor role play)"
+  format: "Partner role play with an information gap"
+  directions: "Partner A is the patient and secretly chooses a Patientenkarte. Partner B is the doctor and uses the Ratschläge list. The doctor asks questions (Was fehlt Ihnen? Wo tut es weh? Seit wann?), decides what's wrong and gives three pieces of advice with müssen, sollen or dürfen. The patient writes the advice on the Notizzettel. Then switch roles with a new card. Doctor and patient both use Sie."
+  a1: "Patient: Mein Kopf tut weh. Ich habe Fieber. Doctor: choose three lines from the Ratschläge list."
+  b1: "Doctor: ask Seit wann? plus one more follow-up and explain one piece of advice with weil. Patient: afterwards, tell a third student what the doctor said: Die Ärztin sagt, ich soll ..."
+  tables:
+    - title: "Patientenkarten (patient cards)"
+      head: ["Karte", "Symptome", "Seit wann?"]
+      rows:
+        - ["1", "Kopfschmerzen, Fieber (39 °C), Husten", "seit zwei Tagen"]
+        - ["2", "Bauchschmerzen, Mir ist schlecht.", "seit gestern Abend"]
+        - ["3", "Der Fuß tut weh (beim Basketball).", "seit heute Morgen"]
+        - ["4", "Halsschmerzen, Schnupfen, sehr müde", "seit drei Tagen"]
+    - title: "Ratschläge (advice list for the doctor)"
+      head: ["Sie müssen ...", "Sie sollen ...", "Sie dürfen ..."]
+      rows:
+        - ["im Bett bleiben", "viel Tee trinken", "keinen Sport machen"]
+        - ["diese Tabletten nehmen", "den Fuß hochlegen", "nicht in die Schule gehen"]
+        - ["zum Röntgen gehen", "nur Suppe und Zwieback essen", "keine kalten Getränke trinken"]
+        - ["in drei Tagen wiederkommen", "viel schlafen", "keine Süßigkeiten essen"]
+    - title: "Notizzettel (patient's notes)"
+      head: ["Karte", "Was hat der Arzt / die Ärztin gesagt?"]
+      blank: 2
+
+output:
+  a1: "Write a note: Ich bin krank. Mein ___ tut weh. Ich habe ___. Ich muss ___. Read it to a partner. They answer Gute Besserung! and give one tip as a command (Trink viel Tee!)."
+  b1: "Write an email to a teacher (Sie-Form!) saying you'll miss school: what's wrong, since when, what the doctor said (Die Ärztin sagt, ich soll ...), and when you'll be back. Your partner plays the teacher and writes a two-sentence reply."
+
+landeskunde:
+  title: "Apotheke, Drogerie, Hausmittel"
+  text: |
+    In Germany you can't buy aspirin or cough syrup at the supermarket. Medicine, even the non-prescription kind, is sold in the Apotheke (pharmacy), marked by a big red A, where a pharmacist advises you. Shampoo, toothpaste and vitamins come from a Drogerie such as dm or Rossmann. At night and on Sundays, one Apotheke in each area takes the Notdienst (emergency shift).
+
+    Many Germans reach for Hausmittel (home remedies) before pills: chamomile tea, chicken soup, steam inhalation, a warm compress, and above all fresh air. Opening the windows wide for a few minutes several times a day (Stoßlüften) is considered healthy, even in January.
+  warum: "Why might a country keep even simple medicines behind a pharmacist's counter? What does that say about how Germans think about health and expertise?"
+  vergleich: "Where does your family buy medicine? Which home remedies does your family use?"
+
+exit:
+  a1: "Ich kann sagen, was mir wehtut."
+  b1: "Ich kann beim Arzt Symptome beschreiben und Ratschläge weitergeben."
+
+energizer:
+  title: "Der Arzt sagt ... (body-part Simon says)"
+  text: "Week 10's Nikolaus sagt, with a doctor this time: Der Arzt sagt: Zeig auf dein Knie! ... Heb den Arm! (Gotcha!) Body parts: Kopf, Arm, Bein, Fuß, Hand, Auge, Ohr, Nase, Bauch, Rücken, Knie. Speed up each round."
+
+extension:
+  title: "Später in die Schule?"
+  intro: "Lies die zwei Texte und beantworte die Fragen."
+  text: |
+    Text 1, ein Schlafforscher: Jugendliche brauchen acht bis zehn Stunden Schlaf pro Nacht. In der Pubertät wird man abends später müde, deshalb ist ein Schulbeginn um 7:45 Uhr für viele zu früh. Wer zu wenig schläft, kann sich schlechter konzentrieren und wird öfter krank.
+
+    Text 2, eine Schulleiterin: An unserer Schule beginnt der Unterricht seit zwei Jahren erst um 8:30 Uhr. Die Schülerinnen und Schüler sind im Unterricht wacher. Aber es gibt auch Probleme: Die Schule endet später, und viele haben am Nachmittag weniger Zeit für Sport und Vereine.
+  questions:
+    - ["Wie viele Stunden Schlaf brauchen Jugendliche?", "Acht bis zehn Stunden."]
+    - ["Warum ist 7:45 Uhr für viele zu früh?", "In der Pubertät wird man abends später müde."]
+    - ["Was ist an der Schule der Schulleiterin besser?", "Die Schüler sind im Unterricht wacher."]
+    - ["Welches Problem gibt es?", "Die Schule endet später, und es bleibt weniger Zeit für Sport und Vereine."]
+  task: "Sollte die Schule später beginnen? Schreib einen Absatz (5–6 Sätze). Benutze beide Texte und nenne sie: Laut Text 1 ... / Text 2 zeigt, dass ..."
+
+buffer: "A second round of doctor role plays with symptom cards students invent, or a real Gute-Besserung card for someone who's out sick."
+
+page:
+  modules:
+    einstieg: "Body-part TPR: Zeig auf ...!"
+    input: "Sentence builder + narrow reading (Lina & Tom, Dr. Schulz & Kenan) + Achte auf die Form"
+    kernaufgabe: "In der Arztpraxis: patient cards and doctor's advice"
+    landeskunde: "Apotheke, Drogerie, Hausmittel"
+    energizer: "Der Arzt sagt ... (Simon says)"
+    extension: "Später in die Schule? (two sources, one paragraph)"
+    buffer: "New symptom cards, or a get-well card"
+  einstieg: "Total Physical Response with body parts, recycling Week 10's commands: *Zeig auf deinen Kopf! Zeig auf dein Knie!* Speed up, then mime pain: hold your head and say *Mein Kopf tut weh!* Students copy the gesture and the sentence. Do the same for *Bauch, Hals, Fuß*."
+  materials:
+    - "Student packet, one per student"
+    - "Optional: a toy stethoscope or a white shirt for the doctor role"
+  summary: "In der Arztpraxis. Partner A is the patient with a secret symptom card; Partner B is the doctor with an advice list. The doctor asks questions, decides what's wrong and gives three pieces of advice with *müssen*, *sollen* or *dürfen*, and the patient writes them down. Then they switch. Both use *Sie*. B1/B2 doctors explain one piece of advice with *weil*, and patients report it to someone else: *Die Ärztin sagt, ich soll ...*"
+  note:
+    type: note
+    text: "Doctors use *Sie* even with teenage patients, so this is a natural place to practice the formal register. The symptom cards keep the role play impersonal, which matters if a student has a health situation they'd rather not discuss."
+  grammar: |
+    **müssen and sollen + infinitive.** Two more modal verbs, like *möchten* and *wollen* in Week 11, with the second verb at the end:
+
+    | | müssen (have to) | sollen (should, supposed to) |
+    | :--- | :--- | :--- |
+    | ich | muss | soll |
+    | du | musst | sollst |
+    | er / sie | muss | soll |
+    | wir / sie / Sie | müssen | sollen |
+
+    > Sie **müssen** im Bett **bleiben**. Der Arzt sagt, ich **soll** viel Tee **trinken**.
+
+    *Sollen* often passes on someone else's instruction ("the doctor says I'm supposed to ..."), which is why the B1/B2 report-back uses it.
+
+    **What hurts:** *Mein Kopf **tut** weh* (one thing), *Meine Füße **tun** weh* (more than one). Or *Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen*.
+  achtung: "**What students will do:** read ***Du musst nicht*** as \"you must not.\" It means \"you don't have to\"; \"must not\" is *Du darfst nicht*. That flips the meaning, so it's what the Achte-auf-die-Form items test. The other common slip is *„Mein Kopf ist weh“* or *„Ich habe Kopf weh“*. Restate it: *„Ah, dein Kopf tut weh!“*"
+  b2: "**If a B2 asks:** *wehtun* is separable (*Es tut weh*). *Mir ist schlecht* uses the dative, like *Mir ist kalt* from Week 5. *Du solltest* (you ought to) is the Konjunktiv II of *sollen*, the polite way to give advice. Rules for school sick notes vary by German state; Kenan describes one school."
+  vocab_extra:
+    - ["die Apotheke", "pharmacy"]
+    - ["der Arzt / die Ärztin", "doctor (m / f)"]
+    - ["die Praxis", "doctor's office"]
+    - ["die Erkältung", "cold"]
+    - ["das Attest", "doctor's note"]
+    - ["das Hausmittel", "home remedy"]

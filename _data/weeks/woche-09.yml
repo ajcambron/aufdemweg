@@ -1,0 +1,201 @@
+week: 9
+date: 2026-11-22
+date_label: "Sonntag, 22. November 2026"
+theme: "Dankbarkeit & Traditionen"
+cando:
+  a1: "say what I'm thankful for and name harvest and St. Martin traditions"
+  b1b2: "compare Thanksgiving, Erntedank and St. Martin's Day and explain what they share"
+grammar_focus: "dankbar für + accusative (für meinen Hund, für meine Familie, für mein Zuhause). für = for (the receiver), von = from (the giver)."
+ap:
+  unit: "AP theme: Families and Communities (traditions)"
+  mode: "Interpretive reading + interpersonal jigsaw + spoken cultural comparison"
+  note: "The extension ends with a 40-second spoken cultural comparison, the same move the AP Project Q&A rewards."
+
+builder:
+  - title: "Ich bin dankbar für ... (I'm thankful for ...)"
+    rows:
+      - ["Ich bin dankbar für meine Familie / meine Freunde.", "I'm thankful for my family / my friends."]
+      - ["Ich bin dankbar für meinen Hund / meinen Bruder.", "I'm thankful for my dog / my brother."]
+      - ["Ich bin dankbar für mein Zuhause / mein Essen.", "I'm thankful for my home / my food."]
+      - ["Danke für ...! / Vielen Dank für ...!", "Thanks for ...! / Thank you very much for ...!"]
+      - ["Das Geschenk ist für dich. / Das Geschenk ist von mir.", "The gift is for you. / The gift is from me."]
+      - ["Ich bin dankbar, dass ... [B1/B2: verb to the end]", "I'm thankful that ..."]
+  - title: "Traditionen im Herbst (Fall traditions)"
+    rows:
+      - ["das Erntedankfest / der Erntedankaltar", "harvest festival / decorated church altar"]
+      - ["Thanksgiving: Die Familie kommt zusammen.", "Thanksgiving: The family gets together."]
+      - ["der Martinstag (am 11. November)", "St. Martin's Day (November 11)"]
+      - ["die Laterne / der Laternenumzug", "lantern / lantern procession"]
+      - ["die Martinsgans / der Weckmann", "St. Martin's goose / sweet bread man"]
+      - ["teilen: Sankt Martin teilt seinen Mantel.", "to share: St. Martin shares his cloak."]
+
+vocab:
+  complete:
+    - ["Ich bin dankbar ___ meine Familie.", "I'm thankful for my family.", "für"]
+    - ["Ich bin dankbar für ___ Hund.", "I'm thankful for my dog.", "meinen"]
+    - ["Am Martinstag gehen Kinder mit einer ___.", "On St. Martin's Day children walk with a lantern.", "Laterne"]
+    - ["Sankt Martin ___ seinen Mantel.", "St. Martin shares his cloak.", "teilt"]
+    - ["Vielen ___ für das Geschenk!", "Thanks a lot for the gift!", "Dank"]
+    - ["An Thanksgiving ___ die Familie zusammen.", "At Thanksgiving the family gets together.", "kommt"]
+  match:
+    - ["dankbar", "thankful"]
+    - ["teilen", "to share"]
+    - ["die Laterne", "lantern"]
+    - ["der Mantel", "coat, cloak"]
+    - ["das Geschenk", "gift"]
+    - ["der Umzug", "procession, parade"]
+  match_order: [2, 4, 6, 3, 1, 5]
+  translate:
+    - ["Ich bin dankbar für meine Freunde.", "I'm thankful for my friends."]
+    - ["Am 11. November ist Martinstag.", "November 11 is St. Martin's Day."]
+    - ["Die Kinder singen Laternenlieder.", "The children sing lantern songs."]
+    - ["Sankt Martin hilft einem armen Mann.", "St. Martin helps a poor man."]
+    - ["Wir essen Truthahn an Thanksgiving.", "We eat turkey on Thanksgiving."]
+    - ["Das Geschenk ist von meiner Oma.", "The gift is from my grandma."]
+    - ["Danke für deine Hilfe!", "Thanks for your help!"]
+    - ["Man soll teilen.", "One should share."]
+  letters: ["dankbar", "Laterne", "Mantel", "Geschenk", "teilen", "Truthahn", "Familie", "Umzug"]
+  broken:
+    - ["Ich bin dankbar für meine Familie.", "I'm thankful for my family."]
+    - ["Die Kinder gehen mit Laternen durch die Straßen.", "The children walk through the streets with lanterns."]
+    - ["Sankt Martin teilt seinen Mantel.", "St. Martin shares his cloak."]
+    - ["Vielen Dank für das Essen!", "Thank you very much for the food!"]
+  suitable:
+    - "Ich bin dankbar für ___."
+    - "Danke für ___!"
+    - "An Thanksgiving esse ich ___."
+    - "Am Martinstag ___ die Kinder ___."
+    - "Das Geschenk ist für ___."
+    - "Ich teile gern ___."
+
+reading:
+  a1:
+    texts:
+      - ["Emma", "Ich heiße Emma und ich wohne in Delaware. An Thanksgiving kommt meine ganze Familie zusammen. Wir essen Truthahn, Kartoffelbrei und Kürbiskuchen. Vor dem Essen sagt jeder: Ich bin dankbar für ... Ich bin dankbar für meine Familie und für meinen Hund Max."]
+      - ["Felix", "Ich heiße Felix und ich wohne in Köln. Am 11. November ist Martinstag. Am Abend gehen die Kinder mit Laternen durch die Straßen und singen Lieder. Ein Mann reitet als Sankt Martin auf einem Pferd. Danach gibt es einen Weckmann. Das ist ein süßes Brot."]
+    questions:
+      - ["Who comes together at Emma's Thanksgiving?", "Her whole family"]
+      - ["What is Emma thankful for?", "Her family and her dog Max"]
+      - ["When is St. Martin's Day?", "November 11"]
+      - ["What is a Weckmann?", "A sweet bread (shaped like a little man)"]
+  b1:
+    texts:
+      - ["Leonie", "Bei uns im Dorf feiern wir Anfang Oktober Erntedank. Die Kirche ist dann mit Obst, Gemüse, Getreide und Brot geschmückt. Nach dem Gottesdienst bringen wir die Lebensmittel zur Tafel, einer Organisation, die Essen an arme Menschen verteilt. Ich finde das schön, weil man nicht nur dankbar ist, sondern auch etwas teilt."]
+      - ["Jakob", "Ich war letztes Jahr als Austauschschüler in Ohio und habe dort zum ersten Mal Thanksgiving gefeiert. Es war wie Weihnachten ohne Geschenke: Alle Verwandten kamen, und es gab viel zu viel Essen! Am Nachmittag haben alle Football geschaut. Was mir gefallen hat: Vor dem Essen hat jeder gesagt, wofür er dankbar ist. Das machen wir in Deutschland an Erntedank nicht."]
+    questions:
+      - ["Womit ist die Kirche an Erntedank geschmückt?", "Mit Obst, Gemüse, Getreide und Brot."]
+      - ["Was passiert danach mit den Lebensmitteln?", "Sie gehen zur Tafel, die Essen an arme Menschen verteilt."]
+      - ["Womit vergleicht Jakob Thanksgiving?", "Mit Weihnachten ohne Geschenke."]
+      - ["Was hat Jakob an Thanksgiving gefallen?", "Dass jeder vor dem Essen sagt, wofür er dankbar ist."]
+
+structured_input:
+  ref:
+    directions: "für oder von? Lies genau. (for or from? Read carefully.)"
+    items:
+      - ["Das Geschenk ist für meinen Opa.", "Opa gets it", ["Opa gets it", "Opa gives it"]]
+      - ["Die Karte ist von meiner Tante.", "my aunt gives it", ["my aunt gets it", "my aunt gives it"]]
+      - ["Der Kuchen ist für meinen Bruder.", "my brother gets it", ["my brother gets it", "my brother gives it"]]
+      - ["Die Blumen sind von meinem Vater.", "Dad gives them", ["Dad gets them", "Dad gives them"]]
+      - ["Der Brief ist von meiner Freundin.", "my friend gives it", ["my friend gets it", "my friend gives it"]]
+  aff:
+    directions: "Wofür bist du dankbar?"
+    options: ["Ja, sehr!", "Nicht so"]
+    items:
+      - "Ich bin dankbar für meine Familie."
+      - "Ich bin dankbar für meinen besten Freund / meine beste Freundin."
+      - "Ich bin dankbar für mein Handy."
+      - "Ich bin dankbar für gutes Essen."
+      - "Ich bin dankbar für freie Tage."
+
+task:
+  title: "Drei Feste, ein Vergleich (Three festivals, one comparison)"
+  format: "Group jigsaw, groups of three"
+  directions: "Each person in your group reads ONE card: Karte 1 (Thanksgiving), Karte 2 (Erntedank) or Karte 3 (Martinstag). Read only your own card! Then explain your festival to your group in German while the others fill in the chart. Finally, decide together what all three festivals have in common and write one sentence."
+  a1: "Short answers are fine: Am 11. November. Man isst Truthahn. Kinder singen."
+  b1: "Explain your festival in full sentences and add one reason why people celebrate it."
+  tables:
+    - title: "Die drei Karten"
+      head: ["Karte 1: Thanksgiving", "Karte 2: Erntedank", "Karte 3: Martinstag"]
+      rows:
+        - ["Wann? Am vierten Donnerstag im November. Wo? In den USA. Was macht man? Die Familie kommt zusammen und isst Truthahn, Kartoffelbrei und Kürbiskuchen. Viele sagen, wofür sie dankbar sind. Es gibt Football und Paraden.", "Wann? Meistens am ersten Sonntag im Oktober. Wo? In Deutschland, Österreich und der Schweiz. Was macht man? Man dankt für die Ernte. Die Kirche ist mit Obst, Gemüse und Brot geschmückt. Oft spendet man das Essen danach.", "Wann? Am 11. November. Wo? Vor allem in West- und Süddeutschland, Österreich und der Schweiz. Was macht man? Kinder gehen mit Laternen durch die Straßen und singen. Sankt Martin teilte seinen Mantel mit einem armen Mann. Man isst Martinsgans oder einen Weckmann."]
+    - title: "Vergleich (comparison chart)"
+      head: ["", "Thanksgiving", "Erntedank", "Martinstag"]
+      rows:
+        - ["Wann?", "", "", ""]
+        - ["Wo?", "", "", ""]
+        - ["Essen", "", "", ""]
+        - ["Was macht man?", "", "", ""]
+    - title: "Gemeinsamkeit (what they share)"
+      head: ["Alle drei Feste ..."]
+      blank: 1
+
+output:
+  a1: "Make a Dankeskarte (thank-you card): Ich bin dankbar für ___, für ___ und für ___. Read it to a partner. They answer with one thing they're thankful for too: Ich bin auch dankbar für ___."
+  b1: "Write five sentences comparing two of the three festivals. Use sowohl ... als auch (both ... and), aber, and at least one weil-clause. Your partner reads it and adds one similarity you missed."
+
+landeskunde:
+  title: "Sankt Martin"
+  text: |
+    Martin was a Roman soldier in the 300s. The legend says that on a freezing night he met a beggar at a city gate, cut his own cloak in half with his sword and gave half to the man. Martin later became a bishop and a saint.
+
+    On or around November 11, children in many German, Austrian and Swiss towns walk through the dark streets with paper lanterns, often made in kindergarten, singing Laternenlieder like „Ich geh mit meiner Laterne“. A rider dressed as Martin sometimes leads the procession, and there may be a bonfire (Martinsfeuer). Families eat roast goose (Martinsgans), and in the Rhineland children get a Weckmann. November 11 at 11:11 is also the official start of Karneval season (see Week 16).
+  warum: "St. Martin's story is about sharing with a stranger, and the holiday is mostly for children. Why might a community want its children to grow up with this story?"
+  vergleich: "Thanksgiving is about gratitude; St. Martin is about sharing. Are those the same value? Which one matters more to you?"
+
+exit:
+  a1: "Ich kann sagen, wofür ich dankbar bin."
+  b1: "Ich kann Thanksgiving, Erntedank und Martinstag vergleichen."
+
+energizer:
+  title: "Laternen-Stille-Post (whisper telephone)"
+  text: "Two lines. The instructor whispers a sentence to the first student in each line (Sankt Martin teilt seinen Mantel mit einem armen Mann.). It travels down the line in whispers, and the last student writes it on the board. The version closest to the original wins."
+
+extension:
+  title: "Die Legende von Sankt Martin"
+  intro: "Lies die Legende. Sie steht im Präteritum, der Erzählzeit. Du musst die Formen verstehen, nicht benutzen."
+  text: "Vor langer Zeit lebte ein junger Soldat namens Martin. An einem kalten Winterabend ritt er auf seinem Pferd zum Stadttor von Amiens. Dort saß ein armer Mann im Schnee. Er hatte fast keine Kleidung und fror sehr. Viele Menschen gingen an ihm vorbei, aber niemand half ihm. Martin hatte kein Geld und kein Essen bei sich, nur seinen warmen Mantel. Da nahm er sein Schwert und teilte den Mantel in zwei Hälften. Eine Hälfte gab er dem armen Mann. In der Nacht träumte Martin von Jesus, der den halben Mantel trug. Später wurde Martin Bischof von Tours."
+  questions:
+    - ["Wo traf Martin den armen Mann?", "Am Stadttor von Amiens."]
+    - ["Warum fror der Mann?", "Er hatte fast keine Kleidung und saß im Schnee."]
+    - ["Was machte Martin mit seinem Mantel?", "Er teilte ihn mit dem Schwert und gab eine Hälfte dem Mann."]
+    - ["Was wurde Martin später?", "Bischof von Tours."]
+  task: "Kulturvergleich, 40 Sekunden, mündlich: Welches Fest oder welche Geschichte in deiner Kultur hat eine ähnliche Botschaft wie Sankt Martin? Vergleiche."
+
+buffer: "Paper lanterns (fold and decorate a sheet of paper while practicing colors), or a gratitude chain: each student writes Ich bin dankbar für ... on a paper strip and the class links them together."
+
+page:
+  modules:
+    einstieg: "Three pictures: Was siehst du? Wo ist das?"
+    input: "Sentence builder + narrow reading (Emma & Felix, Leonie & Jakob) + Achte auf die Form"
+    kernaufgabe: "Drei Feste, ein Vergleich (jigsaw)"
+    landeskunde: "Sankt Martin"
+    energizer: "Laternen-Stille-Post (whisper telephone)"
+    extension: "Die Legende von Sankt Martin + 40-second cultural comparison"
+    buffer: "Paper lanterns, or a gratitude chain"
+  einstieg: "Show three pictures side by side: a Thanksgiving table, a church decorated for Erntedank, and a children's lantern procession. Ask *Was siehst du?* and *Wo ist das, in den USA oder in Deutschland?* The first two are familiar from Week 5 and real life; the lanterns are new."
+  materials:
+    - "Student packet, one per student"
+    - "Three pictures for the Einstieg"
+    - "Optional: paper, glue and markers for lanterns"
+  summary: "Drei Feste, ein Vergleich. In groups of three, each student reads one card (Thanksgiving, Erntedank or Martinstag) and explains it to the others, who fill in a comparison chart. Then the group writes one sentence about what all three festivals share. A1/A2 give short answers; B1/B2 explain in full sentences and give a reason people celebrate."
+  note:
+    type: note
+    text: "Week 5 introduced Erntedank, so this week builds on it rather than re-teaching it. November 29 is a no-school week, which is why the Thanksgiving comparison happens now."
+  grammar: |
+    **für + accusative.** After *für* (for), der-words change just as they do after *haben*:
+
+    | | der-words | das-words | die-words, plural |
+    | :--- | :--- | :--- | :--- |
+    | Das ist ... | mein Hund | mein Zuhause | meine Familie |
+    | Ich bin dankbar für ... | **meinen** Hund | mein Zuhause | meine Familie |
+
+    **für vs. von.** *für* = for (the receiver); *von* = from (the giver). *Das Geschenk ist **für** meinen Opa* (Opa gets it). *Das Geschenk ist **von** meinem Opa* (Opa gave it). *Von* takes the dative (*meinem, meiner*); treat it as a chunk.
+  achtung: "**What students will do:** mix up *für* and *von*, which flips who gave what. That's a meaning error, so the Achte-auf-die-Form items test exactly this. The *-en* ending on *meinen* is a form error that doesn't change meaning: restate it and move on. Also watch for overuse right after learning it: *„für meinen Familie“*. *Familie* is a die-word."
+  b2: "**If a B2 asks:** *dankbar, dass ...* sends the verb to the end, like *weil* (*Ich bin dankbar, dass meine Oma gesund ist*). The extension's legend is in the Präteritum, the storytelling past; students only need to understand it. *Wofür?* = for what?"
+  vocab_extra:
+    - ["dankbar", "thankful"]
+    - ["das Geschenk", "gift"]
+    - ["der Mantel", "coat, cloak"]
+    - ["der Umzug", "procession, parade"]
+    - ["die Tafel", "food bank"]
+    - ["der Gottesdienst", "church service"]
