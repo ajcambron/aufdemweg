@@ -1,0 +1,221 @@
+week: 4
+date: 2026-10-18
+date_label: "Sonntag, 18. Oktober 2026"
+theme: "Zuhause & Zimmer"
+cando:
+  a1: "name rooms and furniture and describe where things are"
+  b1b2: "compare my home with a partner's home"
+grammar_focus: "Where is it? Place prepositions as chunks: auf dem Tisch, unter dem Bett, neben dem Fenster, im Zimmer, in der Küche. B1/B2: der/das → dem, die → der."
+ap:
+  unit: "AP theme: Contemporary Life (housing) / Families and Communities"
+  mode: "Interpersonal information gap + formal email (Sie-Form)"
+  note: "The extension reads two apartment ads with German number formats (1.276 €, 58 m²) and ends with a formal email to a landlord, practicing register (AP skill 2.A)."
+
+builder:
+  - title: "Mein Zuhause (My home)"
+    rows:
+      - ["Ich wohne in einem Haus / in einer Wohnung.", "I live in a house / an apartment."]
+      - ["In meinem Haus / In meiner Wohnung gibt es ... Zimmer.", "In my house / apartment there are ... rooms."]
+      - ["das Wohnzimmer / die Küche / das Schlafzimmer / das Badezimmer / das Esszimmer", "living room / kitchen / bedroom / bathroom / dining room"]
+      - ["der Garten / die Garage / der Keller", "yard, garden / garage / basement"]
+      - ["Mein Lieblingszimmer ist ...", "My favorite room is ..."]
+      - ["im Wohnzimmer / in der Küche / im Schlafzimmer", "in the living room / in the kitchen / in the bedroom"]
+  - title: "Möbel und Präpositionen (Furniture and prepositions)"
+    rows:
+      - ["das Bett, der Schreibtisch, der Stuhl, der Schrank", "bed, desk, chair, closet"]
+      - ["das Regal, die Lampe, der Teppich, das Fenster, die Tür", "shelf, lamp, rug, window, door"]
+      - ["auf dem Tisch / unter dem Bett", "on the table / under the bed"]
+      - ["neben dem Fenster / über dem Schreibtisch", "next to the window / above the desk"]
+      - ["hinter dem Sofa / vor der Tür / im Schrank", "behind the sofa / in front of the door / in the closet"]
+      - ["links / rechts / in der Mitte / hinten / vorne", "left / right / in the middle / at the back / at the front"]
+
+vocab:
+  complete:
+    - ["Ich ___ in einem Haus.", "I live in a house.", "wohne"]
+    - ["In meinem Haus gibt es fünf ___.", "There are five rooms in my house.", "Zimmer"]
+    - ["Mein Lieblingszimmer ist die ___.", "My favorite room is the kitchen.", "Küche"]
+    - ["Mein Bett ist ___ dem Fenster.", "My bed is next to the window.", "neben"]
+    - ["Die Lampe ist ___ dem Schreibtisch.", "The lamp is above the desk.", "über"]
+    - ["Der Teppich ist ___ dem Bett.", "The rug is under the bed.", "unter"]
+  match:
+    - ["das Wohnzimmer", "living room"]
+    - ["die Küche", "kitchen"]
+    - ["das Schlafzimmer", "bedroom"]
+    - ["das Badezimmer", "bathroom"]
+    - ["der Schrank", "closet"]
+    - ["der Schreibtisch", "desk"]
+  match_order: [3, 1, 2, 6, 4, 5]
+  translate:
+    - ["Ich wohne in einer Wohnung.", "I live in an apartment."]
+    - ["In meiner Wohnung gibt es vier Zimmer.", "There are four rooms in my apartment."]
+    - ["Mein Lieblingszimmer ist mein Zimmer.", "My favorite room is my room."]
+    - ["Der Teppich ist unter dem Bett.", "The rug is under the bed."]
+    - ["Der Stuhl ist neben dem Schreibtisch.", "The chair is next to the desk."]
+    - ["Das Bett ist im Schlafzimmer.", "The bed is in the bedroom."]
+    - ["Die Lampe steht auf dem Tisch.", "The lamp is on the table."]
+    - ["Mein Haus hat einen Garten.", "My house has a yard."]
+  letters: ["Wohnzimmer", "Küche", "Schlafzimmer", "Garten", "Schreibtisch", "Schrank", "Teppich", "Regal"]
+  broken:
+    - ["Ich wohne in einer Wohnung.", "I live in an apartment."]
+    - ["Mein Bett ist neben dem Fenster.", "My bed is next to the window."]
+    - ["Die Lampe hängt über dem Schreibtisch.", "The lamp hangs above the desk."]
+    - ["Mein Lieblingszimmer ist die Küche.", "My favorite room is the kitchen."]
+  suitable:
+    - "Ich wohne in einem / einer ___."
+    - "Mein Lieblingszimmer ist ___."
+    - "In meinem Haus gibt es ___ Zimmer."
+    - "In meinem Zimmer gibt es ___."
+    - "Mein Bett ist ___ dem Fenster."
+    - "Ich finde mein Zimmer ___."
+
+reading:
+  a1:
+    texts:
+      - ["Ryan", "Ich wohne in einem Haus in Newark. In meinem Haus gibt es sechs Zimmer: ein Wohnzimmer, eine Küche, drei Schlafzimmer und ein Badezimmer. Mein Lieblingszimmer ist mein Zimmer. Mein Bett ist neben dem Fenster, und mein Schreibtisch ist neben der Tür."]
+      - ["Grace", "Ich wohne in einer Wohnung. In meiner Wohnung gibt es vier Zimmer: ein Wohnzimmer, eine Küche, ein Schlafzimmer und ein Badezimmer. Mein Lieblingszimmer ist die Küche, weil meine Familie dort oft zusammen isst."]
+    questions:
+      - ["How many rooms are in Ryan's house?", "Six"]
+      - ["Where is Ryan's bed?", "Next to the window"]
+      - ["What kind of home does Grace live in?", "An apartment"]
+      - ["Why is the kitchen Grace's favorite room?", "Her family often eats there together."]
+  b1:
+    texts:
+      - ["Tyler", "Ich wohne in einem Haus am Stadtrand von Newark, mit einem Garten hinter dem Haus. In meinem Zimmer gibt es ein Bett, einen Schreibtisch und ein Regal voller Bücher. Mein Lieblingsplatz ist aber nicht mein Zimmer, sondern der Garten: Dort kann ich mich gut entspannen und in Ruhe Musik hören."]
+      - ["Nora", "Ich wohne in einer Wohnung im dritten Stock. Meine Wohnung ist kleiner als das Haus meiner besten Freundin, aber ich mag sie trotzdem sehr gern, weil mein Zimmer einen tollen Blick auf die Stadt hat. Über meinem Schreibtisch hängen viele Poster von meinen Lieblingsbands."]
+    questions:
+      - ["Warum mag Tyler den Garten so gern?", "Dort kann er sich gut entspannen und in Ruhe Musik hören."]
+      - ["Was gibt es in Tylers Zimmer?", "Ein Bett, einen Schreibtisch und ein Regal voller Bücher."]
+      - ["Wie vergleicht Nora ihre Wohnung mit dem Haus ihrer Freundin?", "Ihre Wohnung ist kleiner, aber sie mag sie wegen des tollen Blicks auf die Stadt."]
+      - ["Was hängt über Noras Schreibtisch?", "Viele Poster von ihren Lieblingsbands."]
+
+structured_input:
+  ref:
+    directions: "Wo ist das? Kreuz an. (Where is it? Check one.)"
+    items:
+      - ["Die Katze schläft unter dem Bett.", "under the bed", ["on the bed", "under the bed"]]
+      - ["Die Lampe hängt über dem Schreibtisch.", "above the desk", ["above the desk", "next to the desk"]]
+      - ["Der Stuhl steht neben dem Fenster.", "next to the window", ["in front of the window", "next to the window"]]
+      - ["Das Buch liegt auf dem Regal.", "on the shelf", ["on the shelf", "behind the shelf"]]
+      - ["Der Hund schläft hinter dem Sofa.", "behind the sofa", ["under the sofa", "behind the sofa"]]
+      - ["Meine Schuhe sind im Schrank.", "in the closet", ["in the closet", "on the closet"]]
+  aff:
+    directions: "Wie ist es bei dir?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Mein Bett ist neben dem Fenster."
+      - "In meinem Zimmer gibt es einen Schreibtisch."
+      - "Mein Lieblingszimmer ist die Küche."
+      - "Ich wohne in einer Wohnung."
+      - "Mein Zimmer ist meistens ordentlich."
+
+task:
+  title: "Zimmerbeschreibung (draw what you hear)"
+  format: "Partner information gap, listening"
+  directions: "Fold the page so each partner sees only their own room plan. Partner A describes Zimmer A in German; Partner B writes each item in the Runde 1 grid, using only what they hear. Then compare with the plan and switch: Partner B describes Zimmer B, and Partner A fills in the Runde 2 grid."
+  a1: "Name and place 4–5 items: Das Bett ist hinten links. Die Lampe ist neben dem Bett."
+  b1: "Place every item, and use at least two different prepositions (neben, vor, hinter, zwischen), not just the grid words links and rechts."
+  tables:
+    - title: "Zimmer A (nur Partner A!)"
+      head: ["", "links", "in der Mitte", "rechts"]
+      rows:
+        - ["hinten (am Fenster)", "das Bett", "die Lampe", "der Schrank"]
+        - ["in der Mitte", "der Teppich", "der Tisch", "der Stuhl"]
+        - ["vorne (an der Tür)", "das Regal", "", "die Gitarre"]
+    - title: "Zimmer B (nur Partner B!)"
+      head: ["", "links", "in der Mitte", "rechts"]
+      rows:
+        - ["hinten (am Fenster)", "der Schreibtisch", "die Pflanze", "das Sofa"]
+        - ["in der Mitte", "der Stuhl", "der Teppich", "die Lampe"]
+        - ["vorne (an der Tür)", "der Schrank", "", "das Bett"]
+    - title: "Was ich höre, Runde 1 (Partner B schreibt)"
+      head: ["", "links", "in der Mitte", "rechts"]
+      rows:
+        - ["hinten (am Fenster)", "", "", ""]
+        - ["in der Mitte", "", "", ""]
+        - ["vorne (an der Tür)", "", "", ""]
+    - title: "Was ich höre, Runde 2 (Partner A schreibt)"
+      head: ["", "links", "in der Mitte", "rechts"]
+      rows:
+        - ["hinten (am Fenster)", "", "", ""]
+        - ["in der Mitte", "", "", ""]
+        - ["vorne (an der Tür)", "", "", ""]
+
+output:
+  a1: "Write four sentences describing your own room: In meinem Zimmer gibt es ___. Mein Bett ist ___. Mein Schreibtisch ist ___. Read them to a partner, who sketches your room in 30 seconds. Does the sketch match?"
+  b1: "Ask your partner three questions about their home (Wohnst du in einem Haus oder in einer Wohnung? Wie viele Zimmer gibt es? Was ist dein Lieblingszimmer?), then write 5–6 sentences comparing your home with theirs: Mein Haus ist größer / kleiner als ..., aber ... Your partner checks the facts."
+
+landeskunde:
+  title: "Wohnung statt Haus: Wohnen in Deutschland"
+  text: |
+    In the US, a single-family house is the default picture of "home." In Germany, about half of all households rent, and many families with children live in a Wohnung (apartment), often in an Altbau (an older building, typically from before World War II, with high ceilings and tall windows) or a Neubau (modern construction). Renting is normal at every age, not a step on the way to buying.
+
+    Rental ads list the Kaltmiete (rent without utilities), the Nebenkosten (utilities and building costs) and the Kaution (security deposit) separately. And a surprise for Americans: an unfurnished German apartment sometimes comes without a kitchen. Tenants often bring their own cabinets and appliances and take them along when they move.
+  warum: "Why might renting be normal, not second-best, in Germany? What does that say about how Germans think about home, money and moving?"
+  vergleich: "In your town, do most families rent or own? What would change if renting were as normal as in Germany?"
+
+exit:
+  a1: "Ich kann Zimmer und Möbel nennen und sagen, wo etwas ist."
+  b1: "Ich kann mein Zuhause mit dem Zuhause von meinem Partner vergleichen."
+
+energizer:
+  title: "Möbel-Memory / Kim's game"
+  text: "Either play a matching-pairs memory game with furniture cards, or play Kim's game: show 8–10 furniture pictures for 30 seconds, cover them, and see who can list the most in German from memory, with the article (das Bett, der Stuhl ...)."
+
+extension:
+  title: "Welche Wohnung passt?"
+  intro: "Lies die zwei Wohnungsanzeigen. Achtung: Im Deutschen ist 1.276 € = eintausendzweihundertsechsundsiebzig Euro (Punkt bei Tausendern)."
+  text: "Wohnung A liegt mitten im Stadtzentrum, mit guten Einkaufsmöglichkeiten und einer Straßenbahn direkt vor dem Haus. Wohnung B liegt ruhig in einem Villenviertel am Stadtrand, mit einem kleinen Garten. Beide Wohnungen haben einen Balkon und eine offene Küche."
+  table:
+    head: ["", "Wohnung A", "Wohnung B"]
+    rows:
+      - ["Zimmer", "2", "5"]
+      - ["Größe", "58 m²", "145 m²"]
+      - ["Lage", "Stadtzentrum", "Stadtrand, ruhig"]
+      - ["Kaltmiete pro Monat", "476 €", "1.276 €"]
+  questions:
+    - ["Welche Wohnung ist größer, und wie viel größer?", "Wohnung B, 87 m² größer (145 m² statt 58 m²)."]
+    - ["Welche Wohnung passt besser für eine Familie mit zwei Kindern? Warum?", "Wohnung B: mehr Zimmer, mehr Platz, ruhig, mit Garten."]
+    - ["Welche Wohnung passt besser für eine Studentin, die allein wohnt? Warum?", "Wohnung A: billiger, klein genug, im Zentrum mit Straßenbahn."]
+    - ["Welche Wohnung würdest du wählen? Warum?", "Open answer."]
+  task: "Schreib eine kurze E-Mail an den Vermieter von Wohnung A oder B (Sie-Form!): Stell dich vor, sag, warum die Wohnung passt, und frag nach zwei Informationen (Nebenkosten? Haustiere?). Beginn mit Sehr geehrte Damen und Herren, und ende mit Mit freundlichen Grüßen."
+
+buffer: "Design-your-dream-room quick draw with German labels, or a second round of the Kernaufgabe where partners invent their own room plans."
+
+page:
+  modules:
+    einstieg: "Picture of a room: Was ist das? Wo ist das?"
+    input: "Sentence builder + narrow reading (Ryan & Grace, Tyler & Nora) + Achte auf die Form"
+    kernaufgabe: "Zimmerbeschreibung: describe a room plan, partner fills the grid"
+    landeskunde: "Wohnung statt Haus: Wohnen in Deutschland"
+    energizer: "Möbel-Memory / Kim's game"
+    extension: "Welche Wohnung passt? (ads + formal email)"
+    buffer: "Dream-room quick draw, or invented room plans"
+  einstieg: "Project or sketch a simple bedroom. Point and name: *Das ist das Bett. Das ist die Lampe.* Then place things with your hands as you speak: *Die Lampe ist über dem Bett. Der Teppich ist unter dem Tisch.* Ask either/or questions: *Ist die Katze auf dem Bett oder unter dem Bett?* Students answer with one or two words."
+  materials:
+    - "Student packet, one per student (the room plans are in it)"
+    - "A picture or quick sketch of a bedroom for the Einstieg"
+  summary: "Zimmerbeschreibung. Each partner has a room plan the other can't see. Partner A describes Zimmer A in German, and Partner B fills in an empty grid from what they hear; then they compare and switch. A1/A2 place 4–5 items; B1/B2 place every item using at least two different prepositions."
+  note:
+    type: note
+    text: "The room plans are printed in the packet, so there's nothing extra to bring. Partners fold the page so each sees only their own plan."
+  grammar: |
+    **Prepositions of place, as chunks.** A1/A2 learn the phrases whole: *auf dem Tisch, unter dem Bett, im Zimmer.* B1/B2 get the pattern behind them.
+
+    When the question is ***Wo?*** (where is it?), the article after the preposition changes:
+
+    | | der-words | das-words | die-words |
+    | :--- | :--- | :--- | :--- |
+    | Normal | der Tisch | das Bett | die Küche |
+    | After a place preposition | auf **dem** Tisch | unter **dem** Bett | in **der** Küche |
+
+    Two contractions show up constantly: ***im*** = in dem (*im Wohnzimmer*), ***am*** = an dem (*am Fenster*).
+
+    The prepositions this week: *in* (in), *auf* (on top of), *unter* (under), *über* (above), *neben* (next to), *an* (at, on a wall), *vor* (in front of), *hinter* (behind), *zwischen* (between).
+  achtung: "**What students will do:** keep the dictionary article (*„auf der Tisch“*) or skip it. In the drawing task, the partner still knows where the table goes, so treat it as success. What does matter is the preposition itself: *auf* vs. *unter* puts the cat in a different place. That's what the Achte-auf-die-Form items check."
+  b2: "**If a B2 asks:** *Ich lege das Buch auf **den** Tisch* (accusative) describes movement toward a place (*Wohin?*). That's Week 23's slice, not this one. *Liegen, stehen, hängen* describe where things are: lying flat, standing upright, hanging."
+  vocab_extra:
+    - ["die Wohnung", "apartment"]
+    - ["die Miete / die Kaltmiete", "rent / rent without utilities"]
+    - ["die Nebenkosten", "utilities, building costs"]
+    - ["die Kaution", "security deposit"]
+    - ["der Altbau / der Neubau", "older building / new building"]

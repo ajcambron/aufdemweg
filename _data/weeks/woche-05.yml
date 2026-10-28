@@ -1,0 +1,198 @@
+week: 5
+date: 2026-10-25
+date_label: "Sonntag, 25. Oktober 2026"
+theme: "Herbst & Erntedank"
+cando:
+  a1: "describe the weather and name the seasons"
+  b1b2: "explain Erntedank traditions and compare them with Thanksgiving"
+grammar_focus: "Weather uses es: Es ist kalt. Es regnet. Seasons are masculine: im Herbst. B1/B2: wenn sends the verb to the end, like weil (Wenn es kalt ist, trage ich einen Pullover)."
+ap:
+  unit: "AP theme: Families and Communities (traditions) / Global Contexts (seasons)"
+  mode: "Interpersonal survey + written cultural comparison"
+  note: "The extension is a written cultural comparison with cohesive devices (während, beide, im Gegensatz zu), AP skill 2.D. It seeds Week 9, which builds on it rather than re-teaching it."
+
+builder:
+  - title: "Herbstwetter & Erntedank (Fall weather & harvest festival)"
+    rows:
+      - ["Es ist kalt / kühl / mild / windig / neblig / sonnig / regnerisch / wolkig.", "It's cold / cool / mild / windy / foggy / sunny / rainy / cloudy."]
+      - ["Es regnet. / Die Blätter fallen. / Die Blätter sind bunt.", "It's raining. / The leaves are falling. / The leaves are colorful."]
+      - ["der Frühling / der Sommer / der Herbst / der Winter", "spring / summer / fall / winter"]
+      - ["im Herbst ...", "in the fall ..."]
+      - ["die Ernte / ernten / das Erntedankfest", "the harvest / to harvest / the harvest festival"]
+      - ["Wenn es kalt ist, trage ich einen Pullover. [B1/B2]", "When it's cold, I wear a sweater."]
+      - ["Meine Lieblingsjahreszeit ist ..., weil ... [B1/B2]", "My favorite season is ..., because ..."]
+  - title: "Wetter-Wörter (Weather words)"
+    rows:
+      - ["Wie ist das Wetter?", "What's the weather like?"]
+      - ["Es sind 15 Grad.", "It's 15 degrees (Celsius)."]
+      - ["Mir ist kalt. / Mir ist warm.", "I feel cold. / I feel warm."]
+      - ["der Regen / der Wind / der Nebel / die Sonne", "rain / wind / fog / sun"]
+      - ["der Kürbis / der Apfel / die Kürbissuppe", "pumpkin / apple / pumpkin soup"]
+      - ["die Erntekrone", "harvest crown"]
+
+vocab:
+  complete:
+    - ["Es ist ___ und windig.", "It's cold and windy.", "kalt"]
+    - ["Im Herbst ___ die Blätter.", "In the fall the leaves fall.", "fallen"]
+    - ["Meine ___ ist der Herbst.", "My favorite season is fall.", "Lieblingsjahreszeit"]
+    - ["Wenn es kalt ___, trage ich einen Pullover.", "When it's cold, I wear a sweater.", "ist"]
+    - ["Das ___ ist ein Fest im Oktober.", "The harvest festival is a celebration in October.", "Erntedankfest"]
+    - ["Die Blätter sind im Herbst ___.", "In the fall the leaves are colorful.", "bunt"]
+  match:
+    - ["Es ist sonnig.", "It's sunny."]
+    - ["Es regnet.", "It's raining."]
+    - ["Es ist neblig.", "It's foggy."]
+    - ["der Herbst", "fall"]
+    - ["die Ernte", "the harvest"]
+    - ["bunte Blätter", "colorful leaves"]
+  match_order: [2, 3, 1, 5, 6, 4]
+  translate:
+    - ["Es ist kalt und windig.", "It's cold and windy."]
+    - ["Die Blätter fallen und sind bunt.", "The leaves are falling and are colorful."]
+    - ["Im Herbst ist das Wetter oft grau.", "In the fall the weather is often gray."]
+    - ["Es regnet heute.", "It's raining today."]
+    - ["Meine Lieblingsjahreszeit ist der Herbst.", "My favorite season is fall."]
+    - ["Wenn es kalt ist, trage ich einen Pullover.", "When it's cold, I wear a sweater."]
+    - ["Das Erntedankfest ist im Oktober.", "The harvest festival is in October."]
+    - ["Mir ist kalt.", "I feel cold."]
+  letters: ["Herbst", "kalt", "windig", "Blätter", "Ernte", "Erntedankfest", "bunt", "Pullover"]
+  broken:
+    - ["Wenn es kalt ist, trage ich einen Mantel.", "When it's cold, I wear a coat."]
+    - ["Im Herbst fallen die Blätter und sind bunt.", "In the fall the leaves fall and are colorful."]
+    - ["Meine Lieblingsjahreszeit ist der Herbst.", "My favorite season is fall."]
+    - ["Heute regnet es, und es ist kühl.", "Today it's raining, and it's cool."]
+  suitable:
+    - "Heute ist es ___."
+    - "Im Herbst ___ die Blätter."
+    - "Das Erntedankfest ist im Monat ___."
+    - "Wenn es kalt ist, trage ich ___."
+    - "Meine Lieblingsjahreszeit ist ___, weil ___."
+    - "Im Herbst esse ich gern ___."
+
+reading:
+  a1:
+    texts:
+      - ["Ethan", "Es ist Herbst. Es ist kühl und windig. Die Blätter sind bunt: rot, orange und gelb. Ich trage einen Pullover. Meine Lieblingsjahreszeit ist der Herbst."]
+      - ["Lily", "Heute regnet es. Es ist kalt und grau. Im Herbst esse ich gern Kürbissuppe. Ich mag den Herbst, aber der Sommer ist meine Lieblingsjahreszeit."]
+    questions:
+      - ["What's the weather like for Ethan?", "Cool and windy"]
+      - ["What does Ethan wear?", "A sweater"]
+      - ["What does Lily like to eat in the fall?", "Pumpkin soup"]
+      - ["What is Lily's favorite season?", "Summer"]
+  b1:
+    texts:
+      - ["Marlene", "Meine Lieblingsjahreszeit ist der Herbst, weil das Wetter mild ist und die Blätter so schön bunt sind. Am ersten Sonntag im Oktober feiern wir in Deutschland das Erntedankfest: Man dankt für die Ernte des Jahres, für Getreide, Obst und Gemüse. In manchen Dörfern gibt es sogar eine Erntekrone aus Getreide, die geschmückt und durch das Dorf getragen wird."]
+      - ["Jayden", "Wenn es im Herbst kalt und regnerisch wird, bleibe ich am liebsten zu Hause und trinke heißen Kakao. Ich finde es interessant, dass die Deutschen ihr Erntedankfest schon Anfang Oktober feiern, während wir Thanksgiving erst Ende November feiern. Beide Feste drehen sich aber um dasselbe: Dankbarkeit für die Ernte und die Familie."]
+    questions:
+      - ["Wann feiert man in Deutschland Erntedank?", "Am ersten Sonntag im Oktober."]
+      - ["Was ist eine Erntekrone?", "Eine geschmückte Krone aus Getreide, die durch das Dorf getragen wird."]
+      - ["Was ist laut Jayden der Unterschied zwischen Erntedank und Thanksgiving?", "Erntedank ist Anfang Oktober, Thanksgiving erst Ende November."]
+      - ["Was haben beide Feste gemeinsam?", "Dankbarkeit für die Ernte und die Familie."]
+
+structured_input:
+  ref:
+    directions: "Was passt? Lies genau. (What fits? Read carefully.)"
+    items:
+      - ["Die Blätter fallen und sind bunt.", "Herbst", ["Herbst", "Frühling"]]
+      - ["Es schneit, und es sind minus fünf Grad.", "Winter", ["Sommer", "Winter"]]
+      - ["Es ist heiß und sonnig. Wir gehen schwimmen.", "Sommer", ["Sommer", "Herbst"]]
+      - ["Mir ist kalt.", "I feel cold.", ["I feel cold.", "I'm an unfriendly person."]]
+      - ["Wenn es regnet, bleibe ich zu Hause.", "whenever it rains", ["it's raining right now", "whenever it rains"]]
+      - ["Die Ernte ist vorbei, und wir feiern Erntedank.", "Oktober", ["April", "Oktober"]]
+  aff:
+    directions: "Was stimmt für dich?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Meine Lieblingsjahreszeit ist der Herbst."
+      - "Wenn es regnet, bleibe ich gern zu Hause."
+      - "Ich esse gern Kürbissuppe."
+      - "Im Winter ist mir immer kalt."
+      - "Ich mag Regen."
+
+task:
+  title: "Erntedank-Umfrage (the harvest survey)"
+  format: "Mingle / class poll"
+  directions: "Circulate and ask at least six classmates the two survey questions in German. Record their answers with tally marks. Then total the results as a class and announce the most popular season and the most popular fall food."
+  a1: "Use the questions as they are printed."
+  b1: "Ask a follow-up Warum? and note one reason per answer."
+  tables:
+    - title: "Umfrage (survey)"
+      head: ["Frage", "Antworten (Strichliste)", "Warum? (B1/B2)"]
+      rows:
+        - ["Was ist deine Lieblingsjahreszeit? (Frühling / Sommer / Herbst / Winter)", "", ""]
+        - ["Was isst du gern im Herbst? (Kürbis / Äpfel / Suppe / ...)", "", ""]
+    - title: "Ergebnis der Klasse (class result)"
+      head: ["Die beliebteste Jahreszeit ist ...", "Das beliebteste Herbstessen ist ..."]
+      blank: 1
+
+output:
+  a1: "Write four sentences about the weather and your favorite season: Heute ist es ___. Im Herbst ___. Meine Lieblingsjahreszeit ist ___. Read them to a partner. They answer Ich auch! or Ich nicht!"
+  b1: "Write a short paragraph (5–6 sentences) about your favorite season with at least one wenn-clause and one weil-clause. Your partner reads it and asks one question: Was machst du, wenn ...?"
+
+landeskunde:
+  title: "Erntedankfest: das Erntefest in Deutschland"
+  text: |
+    Erntedankfest usually falls on the first Sunday in October, about seven weeks before American Thanksgiving. It grew out of church services thanking God for the year's crops. Churches are decorated with fruit, vegetables, grain and bread, and many villages still build an Erntekrone (harvest crown) woven from grain and carry it through town in a procession. Afterward, the food is often donated.
+
+    Unlike Thanksgiving, Erntedank isn't built around a big family meal. It's more of a church and village tradition, a public "thank you" rather than a private dinner. Keep this comparison in mind: Week 9 comes back to it, right before American Thanksgiving.
+  warum: "Erntedank is mostly a church and village festival; Thanksgiving is mostly a family meal. What does each say about who people thank, and with whom they celebrate?"
+  vergleich: "What does your family do in the fall? Which matters most in your traditions: community, faith or the family meal?"
+
+exit:
+  a1: "Ich kann das Wetter beschreiben und die Jahreszeiten nennen."
+  b1: "Ich kann Erntedank erklären und mit Thanksgiving vergleichen."
+
+energizer:
+  title: "Wetter-Pantomime"
+  text: "Act out a weather condition or a season without speaking: shivering for kalt, fanning yourself for heiß, rain fingers for Es regnet. Classmates guess and call out the German phrase. Whoever guesses first acts next."
+
+extension:
+  title: "Erntedank und Thanksgiving: ein Vergleich"
+  intro: "Lies den Text. Dann beantworte die Fragen und schreib einen Vergleich."
+  text: |
+    Erntedank: am ersten Sonntag im Oktober. In der Kirche liegen Obst, Gemüse und Brot vor dem Altar. In manchen Dörfern trägt man eine Erntekrone durch die Straßen. Oft spendet man die Lebensmittel danach an Menschen, die wenig haben.
+
+    Thanksgiving: am vierten Donnerstag im November. Die Familie kommt zusammen und isst Truthahn, Kartoffelbrei und Kürbiskuchen. Viele sagen vor dem Essen, wofür sie dankbar sind. Am Nachmittag schauen viele Football.
+  questions:
+    - ["Wann feiert man Erntedank, und wann feiert man Thanksgiving?", "Erntedank am ersten Sonntag im Oktober, Thanksgiving am vierten Donnerstag im November."]
+    - ["Wo feiert man Erntedank vor allem? Und Thanksgiving?", "Erntedank vor allem in der Kirche und im Dorf, Thanksgiving vor allem zu Hause mit der Familie."]
+    - ["Was passiert mit den Lebensmitteln an Erntedank?", "Man spendet sie oft an Menschen, die wenig haben."]
+    - ["Welches Fest gefällt dir besser? Warum?", "Open answer."]
+  task: "Schreib einen Vergleich (6–8 Sätze). Benutze mindestens drei dieser Wörter: beide, während, aber, im Gegensatz zu, auch. Beispiel: Während man an Erntedank in die Kirche geht, isst man an Thanksgiving zu Hause."
+
+buffer: "A Kürbis / Apfel vocabulary mini-lesson with real pumpkins and apples if available, or extra survey rounds with new classmates."
+
+page:
+  modules:
+    einstieg: "Weather window check + fall photos"
+    input: "Sentence builder + narrow reading (Ethan & Lily, Marlene & Jayden) + Achte auf die Form"
+    kernaufgabe: "Erntedank-Umfrage: the harvest survey"
+    landeskunde: "Erntedankfest: Germany's harvest festival"
+    energizer: "Wetter-Pantomime"
+    extension: "Erntedank und Thanksgiving: a written comparison"
+    buffer: "Pumpkin and apple realia, or more survey rounds"
+  einstieg: "Look out the window: *Wie ist das Wetter heute? Ist es kalt oder warm? Regnet es?* Then show three photos (fall leaves, a snowy street, a beach) and ask *Welche Jahreszeit ist das?* Students answer with one word. Mime *Mir ist kalt* with a shiver; they'll meet it in the Achte-auf-die-Form items."
+  materials:
+    - "Student packet, one per student (the tally sheet is in it)"
+    - "Three season photos for the Einstieg"
+    - "Pumpkin or apple realia for the buffer (optional)"
+  summary: "Erntedank-Umfrage. Students circulate and ask at least six classmates two questions: favorite season, and what they like to eat in the fall. They keep tally marks, then the class totals the results and announces the winners. B1/B2 ask *Warum?* and note one reason per answer."
+  note:
+    type: note
+    text: "Week 9 (Dankbarkeit & Traditionen) builds on this week's Erntedank material. Keep the survey results if you can; they make a good Week 9 warm-up."
+  grammar: |
+    **Weather uses *es*.** Two patterns:
+
+    - *Es ist* + adjective: *Es ist kalt / kühl / windig / sonnig / neblig.*
+    - *Es* + a weather verb: *Es **regnet**. Es **schneit**.*
+
+    **Seasons are all masculine** and take *im* for "in": *im Herbst, im Winter, im Frühling, im Sommer.*
+
+    **B1/B2: *wenn* + verb to the end.** Same word order as *weil* from Week 1: *Wenn es kalt **ist**, ...* When the *wenn*-clause comes first, the next clause starts with its verb: *Wenn es kalt ist, **trage** ich einen Pullover.* You get verb, comma, verb.
+  achtung: "**What students will do:** mix the two patterns into *„Es ist regnen.“* Answer with the verb: *„Ja, es regnet!“* The other classic: *„Ich bin kalt“* means \"I'm a cold person.\" To say you feel cold, it's ***Mir ist kalt.*** That one changes meaning, so it's in the Achte-auf-die-Form items, along with *wenn* meaning \"whenever.\""
+  b2: "**If a B2 asks:** *wenn* means both \"when\" and \"whenever\" (present and repeated events); for a single event in the past, German uses *als* (*Als ich klein war ...*). *Mir ist kalt* uses the dative, like *Mir gefällt* in Week 25."
+  vocab_extra:
+    - ["die Jahreszeit", "season"]
+    - ["das Getreide", "grain"]
+    - ["spenden", "to donate"]
+    - ["die Kirche", "church"]

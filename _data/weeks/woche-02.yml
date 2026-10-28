@@ -1,0 +1,207 @@
+week: 2
+date: 2026-10-04
+date_label: "Sonntag, 4. Oktober 2026"
+theme: "Persönliche Informationen"
+cando:
+  a1: "give my name, age, birthday and nationality, and ask a partner the same"
+  b1b2: "write a short third-person profile (Steckbrief) of a classmate"
+grammar_focus: "Ordinal numbers for dates: -te (4th–19th), -ste (20th and up); learn erste, dritte, siebte, achte. After am: -en (am ersten Mai). And 21 = einundzwanzig: ones before tens!"
+ap:
+  unit: "AP theme: Families and Communities / Contemporary Life (identity documents)"
+  mode: "Interpersonal information gap + presentational writing (Steckbrief)"
+  note: "German date and number formats (4.10. = October 4) are an AP Unit 1 Area of Challenge; the Achte-auf-die-Form items drill exactly that. The extension ends with a short class survey presented in 40 seconds."
+
+builder:
+  - title: "Geburtstag, Alter, Herkunft (Birthday, age, origin)"
+    rows:
+      - ["Mein Geburtstag ist am ersten / zweiten / dritten ... [Monat].", "My birthday is on the 1st / 2nd / 3rd of [month]."]
+      - ["Wann hast du Geburtstag?", "When is your birthday?"]
+      - ["Ich bin ... Jahre alt.", "I am ... years old."]
+      - ["Ich komme aus [Land]. Ich bin [Nationalität].", "I come from [country]. I am [nationality]."]
+      - ["aus den USA: Amerikaner / Amerikanerin", "from the USA: American (m / f)"]
+      - ["aus Deutschland: Deutscher / Deutsche", "from Germany: German (m / f)"]
+      - ["aus Irland: Ire / Irin · aus Italien: Italiener / Italienerin", "from Ireland: Irish (m / f) · from Italy: Italian (m / f)"]
+      - ["Meine Telefonnummer ist ... / Meine E-Mail-Adresse ist ...", "My phone number is ... / My email address is ..."]
+  - title: "Zahlen, Monate, Ordnungszahlen (Numbers, months, ordinals)"
+    rows:
+      - ["0 null · 1 eins · 2 zwei · 3 drei · 4 vier · 5 fünf · 6 sechs · 7 sieben · 8 acht · 9 neun · 10 zehn · 11 elf · 12 zwölf", "0–12"]
+      - ["13 dreizehn · 20 zwanzig · 21 einundzwanzig · 30 dreißig · 31 einunddreißig", "13, 20, 21 (one-and-twenty), 30, 31"]
+      - ["Januar, Februar, März, April, Mai, Juni", "January to June"]
+      - ["Juli, August, September, Oktober, November, Dezember", "July to December"]
+      - ["der erste, zweite, dritte, vierte, siebte, achte, zwanzigste", "the 1st, 2nd, 3rd, 4th, 7th, 8th, 20th"]
+      - ["am ersten, am dritten, am zwanzigsten Mai", "on the 1st, 3rd, 20th of May"]
+
+vocab:
+  complete:
+    - ["Mein Geburtstag ___ am dritten Mai.", "My birthday is on May 3rd.", "ist"]
+    - ["Ich ___ sechzehn Jahre alt.", "I am sixteen years old.", "bin"]
+    - ["Ich komme aus Deutschland. Ich bin ___.", "I come from Germany. I'm German.", "Deutsche / Deutscher"]
+    - ["Meine ___ ist 302-555-0147.", "My phone number is 302-555-0147.", "Telefonnummer"]
+    - ["Wann hast du ___?", "When is your birthday?", "Geburtstag"]
+    - ["Woher ___ du?", "Where are you from?", "kommst"]
+  match:
+    - ["Wann hast du Geburtstag?", "When's your birthday?"]
+    - ["Wie alt bist du?", "How old are you?"]
+    - ["Woher kommst du?", "Where are you from?"]
+    - ["Wie ist deine Telefonnummer?", "What's your phone number?"]
+    - ["am ersten Januar", "on the 1st of January"]
+    - ["am zwanzigsten Juli", "on the 20th of July"]
+  match_order: [4, 1, 6, 2, 3, 5]
+  translate:
+    - ["Mein Geburtstag ist am zehnten Juni.", "My birthday is on June 10th."]
+    - ["Ich bin siebzehn Jahre alt.", "I am seventeen years old."]
+    - ["Ich komme aus Italien.", "I come from Italy."]
+    - ["Er ist Deutscher.", "He is German."]
+    - ["Ich bin Amerikanerin.", "I'm American. (f)"]
+    - ["Meine E-Mail-Adresse ist ...", "My email address is ..."]
+    - ["Wann hast du Geburtstag?", "When is your birthday?"]
+    - ["Woher kommst du?", "Where are you from?"]
+  letters: ["Geburtstag", "Januar", "Amerikaner", "Deutsche", "Telefonnummer", "Adresse", "zwanzigste", "dreißigste"]
+  broken:
+    - ["Mein Geburtstag ist am zweiten Mai.", "My birthday is on May 2nd."]
+    - ["Ich bin sechzehn Jahre alt.", "I am sixteen years old."]
+    - ["Ich komme aus den {USA}. Ich bin Amerikaner.", "I come from the USA. I'm American."]
+    - ["Wann hast du Geburtstag?", "When is your birthday?"]
+  suitable:
+    - "Mein Geburtstag ist am ___."
+    - "Ich bin ___ Jahre alt."
+    - "Ich komme aus ___. Ich bin ___."
+    - "Meine Telefonnummer ist ___."
+    - "Meine E-Mail-Adresse ist ___."
+    - "Wann hast du ___?"
+
+reading:
+  a1:
+    texts:
+      - ["Mia", "Ich heiße Mia. Mein Geburtstag ist am zwölften März. Ich bin fünfzehn Jahre alt. Ich komme aus den USA. Ich bin Amerikanerin. Meine Telefonnummer ist 302-555-0147."]
+      - ["Leo", "Ich heiße Leo. Mein Geburtstag ist am neunten August. Ich bin sechzehn Jahre alt. Ich komme aus Irland. Ich bin Ire. Meine E-Mail-Adresse ist leo@mail.com."]
+    questions:
+      - ["When is Mia's birthday?", "March 12th"]
+      - ["What nationality is Leo?", "Irish"]
+      - ["How old is Mia?", "Fifteen"]
+      - ["What is Leo's email address?", "leo@mail.com"]
+  b1:
+    texts:
+      - ["Clara", "Ich heiße Clara, und mein Geburtstag ist am dreißigsten September. Ich werde dann siebzehn. Meine Mutter kommt aus Italien und mein Vater kommt aus den USA. Ich bin also Amerikanerin, aber ich spreche zu Hause auch ein bisschen Italienisch. Am liebsten feiere ich meinen Geburtstag mit meiner Familie und meinen besten Freunden."]
+      - ["David", "Ich heiße David. Mein Geburtstag ist am ersten Dezember, genau in der Adventszeit! Ich bin sechzehn Jahre alt und komme aus Newark. Meine Großeltern sind vor vielen Jahren aus Deutschland in die USA gezogen, deshalb lerne ich jetzt Deutsch."]
+    questions:
+      - ["Wann hat Clara Geburtstag, und wie alt wird sie?", "Am dreißigsten September; sie wird siebzehn."]
+      - ["Woher kommen Claras Eltern?", "Ihre Mutter kommt aus Italien, ihr Vater aus den USA."]
+      - ["Warum lernt David Deutsch?", "Seine Großeltern sind aus Deutschland in die USA gezogen."]
+      - ["Wann hat David Geburtstag?", "Am ersten Dezember."]
+
+structured_input:
+  ref:
+    directions: "Welches Datum, welche Zahl? Lies genau. (Which date or number? Read carefully.)"
+    items:
+      - ["Mein Geburtstag ist am dritten Mai.", "3. Mai", ["3. Mai", "30. Mai"]]
+      - ["Lena hat am dreizehnten Juni Geburtstag.", "13. Juni", ["13. Juni", "30. Juni"]]
+      - ["Max hat am einundzwanzigsten März Geburtstag.", "21. März", ["12. März", "21. März"]]
+      - ["Das Fest ist am siebten Juli.", "7. Juli", ["7. Juli", "17. Juli"]]
+      - ["Auf dem Ticket steht: 4.10.2026.", "October 4", ["April 10", "October 4"]]
+      - ["Mein Opa ist dreiundsiebzig.", "73", ["37", "73"]]
+  aff:
+    directions: "Was stimmt für dich?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Mein Geburtstag ist im Winter."
+      - "Ich bin älter als fünfzehn."
+      - "Ich komme aus den USA."
+      - "Meine Familie kommt aus einem anderen Land."
+      - "Ich habe schon einen Ausweis oder einen Führerschein."
+
+task:
+  title: "Interview & Ausweis (build an ID card)"
+  format: "Partner information gap"
+  directions: "Work with a partner. Interview them with the question bank and fill in their blank ID card (Name, Alter, Geburtstag, Nationalität, Wohnort, Telefonnummer, E-Mail). Invent a phone number and email address; don't use your real ones."
+  a1: "Use the question bank as it is printed."
+  b1: "Add one question of your own. After the interview, write a five-sentence Steckbrief about your partner in the third person."
+  tables:
+    - title: "Ausweis: mein Partner / meine Partnerin"
+      head: ["Frage", "Antwort"]
+      rows:
+        - ["Wie heißt du?", ""]
+        - ["Wie alt bist du?", ""]
+        - ["Wann hast du Geburtstag?", ""]
+        - ["Woher kommst du?", ""]
+        - ["Wo wohnst du?", ""]
+        - ["Wie ist deine Telefonnummer?", ""]
+        - ["Wie ist deine E-Mail-Adresse?", ""]
+        - ["[eigene Frage / your own question: B1/B2]", ""]
+
+output:
+  a1: "Fill in your own ID card with the frame and read it aloud: Ich heiße ___. Ich bin ___ Jahre alt. Mein Geburtstag ist am ___. Ich komme aus ___. Your partner checks it against the card they filled in during the interview and says Stimmt! or Nein, ..."
+  b1: "Write a five-sentence Steckbrief about your partner: Er / Sie heißt ___. Er / Sie kommt aus ___. Sein / Ihr Geburtstag ist am ___. ... Read it to the class; the class checks it against your partner's real answers."
+
+landeskunde:
+  title: "TT.MM.JJJJ: wie Deutsche Daten schreiben"
+  text: |
+    In German-speaking countries, dates are written day.month.year, so 4.10.2026 means October 4th, not April 10th! Watch for this on German documents, tickets and forms. Times use the 24-hour clock (15:30 Uhr), and decimals use a comma: 2,5 not 2.5.
+
+    Every German must have a Personalausweis (national ID card) from age 16, so a teenager's first ID card is a small milestone, a bit like a first driver's license here. The card shows your name, date and place of birth, height and eye color, and it's used for everything from opening a bank account to traveling within Europe.
+  warum: "Germany requires everyone over 16 to have a national ID card; the US has no national ID at all. What might each choice say about how citizens and the state relate to each other?"
+  vergleich: "In the US, what does the job of a Personalausweis: a driver's license, a passport, a school ID? What's easier or harder about each system?"
+
+exit:
+  a1: "Ich kann Namen, Alter, Geburtstag und Herkunft nennen."
+  b1: "Ich kann einen Steckbrief über eine andere Person schreiben."
+
+energizer:
+  title: "Geburtstagslinie (the silent birthday line-up)"
+  text: "Without speaking any English, line up in order of birthday, January 1st to December 31st, using only German numbers, months and gestures. When you think you're in order, go down the line saying your birthdays in German to check: Ich habe am dritten März Geburtstag."
+
+extension:
+  title: "Woher kommt ihr?"
+  intro: "Eine Gruppe von Austauschschülern stellt sich vor. Lies den Text und ergänze die Tabelle."
+  text: "Hallo! Wir sind eine internationale Gruppe. Kofi kommt aus Ghana und spricht Englisch und Twi. Yuki kommt aus Japan und spricht Japanisch. Elif kommt aus der Türkei und spricht Türkisch und Deutsch, weil sie seit drei Jahren in Köln wohnt. Und Lena kommt aus Deutschland und spricht natürlich Deutsch, aber auch gut Englisch."
+  table:
+    head: ["Name", "Land", "Sprache(n)"]
+    rows:
+      - ["Kofi", "", ""]
+      - ["Yuki", "", ""]
+      - ["Elif", "", ""]
+      - ["Lena", "", ""]
+  questions:
+    - ["Ergänze die Tabelle.", "Kofi: Ghana, Englisch und Twi · Yuki: Japan, Japanisch · Elif: Türkei, Türkisch und Deutsch · Lena: Deutschland, Deutsch und Englisch"]
+    - ["Wer spricht nur eine Sprache?", "Yuki."]
+    - ["Warum spricht Elif Deutsch?", "Weil sie seit drei Jahren in Köln wohnt."]
+    - ["Woher kommst du, und welche Sprachen sprichst du?", "Open answer."]
+  task: "Mini-Umfrage: Frag fünf Personen in der Klasse, welche Sprachen sie sprechen. Wie viele Sprachen spricht die Klasse zusammen? Präsentiere das Ergebnis in 40 Sekunden."
+
+buffer: "Zahlen-Bingo (0–100, with plenty of numbers like 21, 34, 57 that test ones-before-tens), or a second round of ID-card interviews with a new partner."
+
+page:
+  modules:
+    einstieg: "Birthday calendar: Wann hast du Geburtstag?"
+    input: "Sentence builder + narrow reading (Mia & Leo, Clara & David) + Achte auf die Form"
+    kernaufgabe: "Interview & Ausweis: build a partner's ID card"
+    landeskunde: "TT.MM.JJJJ: how Germans write dates"
+    energizer: "Geburtstagslinie: the silent birthday line-up"
+    extension: "Woher kommt ihr? (chart + mini survey)"
+    buffer: "Zahlen-Bingo, or another ID-card round"
+  einstieg: "Write the twelve months on the board. Say your own birthday slowly (*Ich habe am dritten März Geburtstag*) and mark it. Then ask either/or questions by month: *Hast du im Januar oder im Juli Geburtstag?* Students raise hands; tally each month in German. That tally sets up the birthday line-up later."
+  materials:
+    - "Student packet, one per student"
+  summary: "Interview & Ausweis. Partners interview each other from a question bank and fill in a blank ID card for the other person: name, age, birthday, nationality, town, phone, email. B1/B2 add one question of their own and then write a five-sentence Steckbrief about their partner (*Sie heißt ... Sie ist ...*)."
+  note:
+    type: note
+    text: "Tell students to **invent** a phone number and email address. The task works the same, and nobody hands their real contact details to a classmate."
+  grammar: |
+    **Ordinal numbers for dates.** Germans say "on the fourth of May," like English, but the ending changes:
+
+    | Day | Rule | Examples |
+    | :--- | :--- | :--- |
+    | 1–19 | number + **-te** | vierte, fünfte, zehnte, neunzehnte |
+    | 20 and up | number + **-ste** | zwanzigste, einundzwanzigste, dreißigste |
+    | Irregular | memorize | **erste** (1.), **dritte** (3.), **siebte** (7.), **achte** (8.) |
+
+    After *am* ("on the"), add **-n**: *Mein Geburtstag ist **am ersten** Mai. Ich habe **am dreiundzwanzigsten** Juni Geburtstag.* Written, it's a number with a period: *am 23. Juni.*
+
+    **Nationalities** take no article and change for male/female: *Ich bin Amerikaner / Amerikanerin.* *Deutsch* is the odd one: *Er ist Deutscher, sie ist Deutsche.*
+  achtung: "**What students will do:** two things. They'll say tens before ones, the English way, but German says the ones first: 21 is *einundzwanzig*, \"one-and-twenty.\" Expect this all year; three of the Achte-auf-die-Form items test it (*einundzwanzigsten*, *dreiundsiebzig*, *4.10.*), because here a slip changes the date. They'll also say *„Ich habe fünfzehn Jahre“* (Spanish and French speakers especially). Age uses *sein*: *Ich **bin** fünfzehn.*"
+  b2: "**If a B2 asks:** *Ich werde siebzehn* means \"I'm turning seventeen\" (*werden* = to become; Week 12). The 4.10. format also explains German receipts and train tickets they'll see later in the year."
+  vocab_extra:
+    - ["der Ausweis / der Personalausweis", "ID card / national ID card"]
+    - ["der Steckbrief", "profile, fact sheet"]
+    - ["die Nationalität", "nationality"]
+    - ["der Wohnort", "place of residence"]

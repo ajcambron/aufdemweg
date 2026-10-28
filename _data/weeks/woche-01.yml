@@ -1,0 +1,209 @@
+week: 1
+date: 2026-09-27
+date_label: "Sonntag, 27. September 2026"
+theme: "Willkommen!"
+cando:
+  a1: "introduce myself and answer basic personal questions"
+  b1b2: "discuss my background and interests in some detail"
+grammar_focus: "A1/A2: no new grammar; ich heiße / du heißt, ich bin / du bist as fixed phrases. B1/B2: weil sends the verb to the end (..., weil ich nach Berlin reisen möchte)."
+ap:
+  unit: "AP theme: Families and Communities / Language and Culture (du or Sie?)"
+  mode: "Interpersonal speaking (mingle) + presentational speaking"
+  note: "The extension ends with a 40-second self-introduction, the response length the AP Project Q&A expects; the Landeskunde climbs from a practice (du vs. Sie) to a perspective (how Germans mark closeness and respect)."
+
+builder:
+  - title: "Sich vorstellen (Introducing yourself)"
+    rows:
+      - ["Ich heiße ...", "My name is ..."]
+      - ["Ich bin ... Jahre alt.", "I am ... years old."]
+      - ["Ich komme aus ...", "I come from ..."]
+      - ["Ich wohne in ...", "I live in ..."]
+      - ["Ich spreche Englisch / ein bisschen Deutsch.", "I speak English / a little German."]
+      - ["Mein Hobby ist ... / Ich interessiere mich für ... [B1/B2]", "My hobby is ... / I'm interested in ..."]
+      - ["Ich lerne Deutsch, weil ... [B1/B2: verb to the end]", "I'm learning German because ..."]
+      - ["... meine Familie aus Deutschland kommt. / ... es mir Spaß macht.", "... my family comes from Germany. / ... it's fun for me."]
+      - ["... ich nach Deutschland reisen möchte.", "... I want to travel to Germany."]
+  - title: "Begrüßung (Greetings)"
+    rows:
+      - ["Hallo! / Guten Tag!", "Hi! / Good day!"]
+      - ["Wie heißt du? (informal) / Wie heißen Sie? (formal)", "What's your name?"]
+      - ["Wie geht's? / Wie geht es Ihnen?", "How are you? (informal / formal)"]
+      - ["Es geht mir gut / nicht so gut / so lala.", "I'm doing well / not so well / so-so."]
+      - ["Freut mich! / Schön, dich kennenzulernen!", "Nice to meet you!"]
+      - ["Wie bitte? / Noch einmal, bitte.", "Pardon? / Once more, please."]
+
+vocab:
+  complete:
+    - ["Ich ___ Anna.", "My name is Anna.", "heiße"]
+    - ["Ich bin fünfzehn ___ alt.", "I am 15 years old.", "Jahre"]
+    - ["Ich ___ aus Delaware.", "I come from Delaware.", "komme"]
+    - ["Ich ___ in Newark.", "I live in Newark.", "wohne"]
+    - ["Wie ___ du?", "What's your name?", "heißt"]
+    - ["Wie ___ es dir?", "How are you?", "geht"]
+  match:
+    - ["Ich heiße ...", "My name is ..."]
+    - ["Ich komme aus ...", "I come from ..."]
+    - ["Wie geht's?", "How are you?"]
+    - ["Freut mich!", "Nice to meet you!"]
+    - ["Ich interessiere mich für ...", "I'm interested in ..."]
+    - ["ein bisschen", "a little"]
+  match_order: [2, 4, 6, 1, 3, 5]
+  translate:
+    - ["Ich bin sechzehn Jahre alt.", "I am sixteen years old."]
+    - ["Ich wohne in Newark.", "I live in Newark."]
+    - ["Ich lerne Deutsch, weil es mir Spaß macht.", "I'm learning German because it's fun for me."]
+    - ["Freut mich!", "Nice to meet you!"]
+    - ["Wie heißt du?", "What's your name?"]
+    - ["Ich spreche ein bisschen Deutsch.", "I speak a little German."]
+    - ["Mein Hobby ist Fotografie.", "My hobby is photography."]
+    - ["Es geht mir gut.", "I'm doing well."]
+  letters: ["heißen", "wohnen", "Jahre", "lernen", "sprechen", "kommen", "Hobby", "interessieren"]
+  broken:
+    - ["Ich heiße {Max}.", "My name is Max."]
+    - ["Ich bin fünfzehn Jahre alt.", "I am fifteen years old."]
+    - ["Ich komme aus {Delaware}.", "I come from Delaware."]
+    - ["Ich lerne Deutsch, weil es mir Spaß macht.", "I'm learning German because it's fun for me."]
+  suitable:
+    - "Ich heiße ___."
+    - "Ich komme aus ___."
+    - "Ich lerne Deutsch, weil ___."
+    - "Mein Hobby ist ___."
+    - "Ich interessiere mich für ___."
+    - "Freut ___!"
+
+reading:
+  a1:
+    texts:
+      - ["Ben", "Ich heiße Ben. Ich bin vierzehn Jahre alt. Ich komme aus Wilmington und ich wohne in Newark. Ich spreche Englisch und ein bisschen Spanisch. Mein Hobby ist Basketball."]
+      - ["Sofia", "Ich heiße Sofia. Ich bin sechzehn Jahre alt. Ich komme aus Newark. Ich spreche Englisch und ein bisschen Deutsch. Mein Hobby ist Fotografie."]
+    questions:
+      - ["How old is Ben?", "Fourteen"]
+      - ["Where does Sofia come from?", "Newark"]
+      - ["What language does Ben speak besides English?", "A little Spanish"]
+      - ["What is Sofia's hobby?", "Photography"]
+  b1:
+    texts:
+      - ["Jonas", "Ich heiße Jonas und ich bin siebzehn Jahre alt. Ich komme aus Newark, aber meine Großeltern kommen aus Deutschland. Ich lerne Deutsch, weil meine Familie aus Deutschland kommt und weil ich mit meiner Oma auf Deutsch sprechen möchte. Ich interessiere mich für Musik und Filmproduktion: Ich mache oft kleine Videos für meine Freunde."]
+      - ["Emily", "Ich heiße Emily. Ich bin sechzehn Jahre alt und ich wohne in Newark. Ich lerne Deutsch, weil es mir Spaß macht und weil ich nächstes Jahr nach Berlin reisen möchte. Mein Hobby ist Musik: Ich spiele Gitarre und ich singe auch gern."]
+    questions:
+      - ["Warum lernt Jonas Deutsch?", "Weil seine Familie aus Deutschland kommt und weil er mit seiner Oma auf Deutsch sprechen möchte."]
+      - ["Was macht Jonas gern?", "Musik und Filmproduktion: Er macht kleine Videos für seine Freunde."]
+      - ["Warum lernt Emily Deutsch?", "Weil es ihr Spaß macht und weil sie nach Berlin reisen möchte."]
+      - ["Was ist Emilys Hobby?", "Musik: Sie spielt Gitarre und singt."]
+
+structured_input:
+  ref:
+    directions: "Wer ist das? Das Verb verrät es. (Who is it? The verb gives it away.)"
+    items:
+      - ["___ heiße Max.", "ich", ["ich", "du"]]
+      - ["___ kommst aus Newark.", "du", ["ich", "du"]]
+      - ["___ wohnt in Wilmington.", "sie", ["ich", "sie"]]
+      - ["___ spreche ein bisschen Deutsch.", "ich", ["ich", "er"]]
+      - ["___ bist sechzehn Jahre alt.", "du", ["du", "er"]]
+      - ["___ lernt Deutsch, weil ihre Oma aus Österreich kommt.", "sie", ["ich", "sie"]]
+  aff:
+    directions: "Was stimmt für dich?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Ich spreche ein bisschen Deutsch."
+      - "Ich lerne Deutsch, weil meine Familie aus Deutschland kommt."
+      - "Ich lerne Deutsch, weil es mir Spaß macht."
+      - "Ich wohne in Newark."
+      - "Mein Hobby ist Musik."
+
+task:
+  title: "Klassen-Bingo: Findet jemanden, der ... (Find someone who ...)"
+  format: "Mingle / information exchange"
+  directions: "Stand up and ask classmates the questions in German. When someone answers yes to a box, write their name in it. You may use each name only twice, so talk to as many people as you can."
+  a1: "Use the question bank as it is printed."
+  b1: "Ask one follow-up question in German after each yes and write one extra detail in the last column."
+  tables:
+    - title: "Klassen-Bingo"
+      head: ["Findet jemanden, der / die ...", "Name", "Extra (B1/B2)"]
+      rows:
+        - ["... in Newark wohnt.", "", ""]
+        - ["... ein Haustier hat.", "", ""]
+        - ["... Deutsch lernt, weil die Familie aus Deutschland kommt.", "", ""]
+        - ["... Fußball oder Basketball mag.", "", ""]
+        - ["... schon einmal in einem anderen Land war.", "", ""]
+        - ["... Musik als Hobby hat.", "", ""]
+        - ["... sich für Fotografie oder Film interessiert.", "", ""]
+        - ["... Geschwister hat.", "", ""]
+        - ["... im selben Monat wie du Geburtstag hat.", "", ""]
+    - title: "Fragen-Bank (question bank)"
+      head: ["Fragen", "Fragen"]
+      rows:
+        - ["Wie heißt du?", "Wie geht's?"]
+        - ["Woher kommst du?", "Wo wohnst du?"]
+        - ["Wie alt bist du?", "Was ist dein Hobby?"]
+        - ["Was machst du gern?", "Wofür interessierst du dich?"]
+        - ["Hast du Geschwister?", "Wann hast du Geburtstag?"]
+
+output:
+  a1: "Fill in the frame about yourself, then read it aloud to a partner: Ich heiße ___. Ich bin ___ Jahre alt. Ich komme aus ___. Ich spreche ___. Mein Hobby ist ___. After each sentence your partner says Ich auch! or Ich nicht!"
+  b1: "Interview your partner, then introduce them to the group in the third person with at least one weil-clause: Das ist ___. Er / Sie kommt aus ___ und interessiert sich für ___, weil ... Your partner listens and corrects any wrong facts."
+
+landeskunde:
+  title: "Du oder Sie? Wie man sich in Deutschland begrüßt"
+  text: |
+    German has two words for "you": du (informal: friends, family, other students) and Sie (formal: adults you don't know, teachers, officials). Switching from Sie to du is a small event; usually the older person or the one with more status offers it (Wollen wir uns duzen?). In this class we use du.
+
+    Greetings change by region too: Guten Tag is standard, but you'll hear Grüß Gott in Bavaria and Austria, Grüezi in Switzerland and Moin (sometimes Moin moin) in the north. Germans also shake hands more than Americans do, often with everyone in a group, both when they arrive and when they leave.
+  warum: "Why might a language keep two words for 'you'? What does the du/Sie choice say about how Germans think about closeness and respect?"
+  vergleich: "English has only one 'you.' How do Americans show formality instead (first names, Mr./Ms., sir/ma'am)?"
+
+exit:
+  a1: "Ich kann mich auf Deutsch vorstellen (Name, Alter, Herkunft)."
+  b1: "Ich kann über meinen Hintergrund und meine Interessen sprechen."
+
+energizer:
+  title: "Namensspiel (the name chain)"
+  text: "Sit in a circle. The first student says: Ich heiße ... und ich mag ... The next student repeats the first student's line, then adds their own. Keep going around the circle; by the end, the last student has to remember everyone's name and what they like."
+
+extension:
+  title: "Steckbrief eines Austauschschülers"
+  intro: "Lies den Steckbrief von Paul, einem Austauschschüler aus Hamburg, und beantworte die Fragen."
+  text: "Steckbrief: Paul Hoffmann, 17 Jahre alt, aus Hamburg. Paul geht auf ein Gymnasium in Hamburg und macht nächstes Jahr ein Austauschjahr in den USA. Er interessiert sich für Sport, besonders Handball, und für Technik. Er spricht Deutsch und Englisch und lernt jetzt ein bisschen Spanisch. Seine Familie besteht aus vier Personen: seine Eltern, seine kleine Schwester und er."
+  questions:
+    - ["Woher kommt Paul, und wie alt ist er?", "Aus Hamburg; er ist 17 Jahre alt."]
+    - ["Was macht Paul nächstes Jahr?", "Ein Austauschjahr in den USA."]
+    - ["Wofür interessiert sich Paul?", "Für Sport, besonders Handball, und für Technik."]
+    - ["Wie viele Personen sind in Pauls Familie?", "Vier."]
+  task: "AP-Training: Erzähl 40 Sekunden lang über dich (Name, Herkunft, Familie, Interessen, warum du Deutsch lernst). Ein Partner stoppt die Zeit. Ziel: 40 Sekunden ohne Pause, auch wenn du Wörter umschreiben musst."
+
+buffer: "Extra interview rounds with new partners, or a name-tag design activity in German: Mein Name ist ... with hobby icons."
+
+page:
+  modules:
+    einstieg: "Picture talk: Wer ist das? Woher kommt er / sie?"
+    input: "Sentence builder + narrow reading (Ben & Sofia, Jonas & Emily) + Achte auf die Form"
+    kernaufgabe: "Klassen-Bingo: Findet jemanden, der ..."
+    landeskunde: "Du oder Sie? Wie man sich in Deutschland begrüßt"
+    energizer: "Namensspiel: the name chain"
+    extension: "Steckbrief eines Austauschschülers + 40-second self-introduction"
+    buffer: "Extra interview rounds, or name-tag design in German"
+  einstieg: "Introduce yourself slowly with gestures and a few photos or objects: *Ich heiße ... Ich komme aus ... Ich wohne in ... Mein Hobby ist ...* Then ask either/or questions about yourself: *Komme ich aus Delaware oder aus Deutschland?* Students answer with one word. Teach *Wie bitte?* and *Noch einmal, bitte* before anyone has to speak."
+  materials:
+    - "Student packet, one per student"
+    - "Name tags or index cards (optional)"
+  summary: "Klassen-Bingo. Students mingle and ask each other questions from the question bank; when someone answers yes, their name goes in the box. Each name can be used only twice, which pushes everyone to talk to more people. B1/B2 ask one follow-up and write down an extra detail."
+  note:
+    type: important
+    text: "This week doubles as **informal placement.** While students mingle, note who answers fluently, who needs the question read aloud, who produces *weil*-clauses without being asked, and who goes quiet and seems to translate in their head. Those notes set your pairings for Weeks 2–5."
+  grammar: |
+    **A1/A2: no new grammar.** Students use two verbs as fixed phrases: *ich heiße / du heißt* and *ich bin / du bist*. Don't conjugate them on the board; the sentence builder already has every form they need.
+
+    **B1/B2: *weil* sends the verb to the end.**
+
+    > Ich lerne Deutsch, **weil** meine Familie aus Deutschland **kommt**.
+    > Ich lerne Deutsch, **weil** ich nach Deutschland reisen **möchte**.
+
+    In a *weil*-clause, the conjugated verb (the one that changes for *ich / du / er*) moves to the very end. With a helper verb like *möchte*, the helper goes last and the infinitive sits just before it.
+
+    **Du oder Sie:** *du* is for friends, family and classmates; *Sie* is for adults you don't know, teachers and officials. In this class, everyone uses *du*.
+  achtung: "**What students will do:** keep English word order after *weil*, so you hear *„weil ich möchte reisen nach Deutschland.“* The meaning comes through, so in conversation restate it correctly and move on: *„Ah, weil du nach Deutschland reisen möchtest!“* The Achte-auf-die-Form items work on the A1 side: the subject is blanked out, so the verb ending (*heiße, heißt, kommst*) is the only clue to who's talking."
+  b2: "**If a B2 asks:** *denn* also means \"because\" but keeps normal word order (*..., denn ich möchte reisen*). *Sich interessieren für* is reflexive: *Ich interessiere mich für Musik.*"
+  vocab_extra:
+    - ["der Austauschschüler / die Austauschschülerin", "exchange student (m / f)"]
+    - ["der Steckbrief", "profile, fact sheet"]
+    - ["duzen / siezen", "to use du / to use Sie"]

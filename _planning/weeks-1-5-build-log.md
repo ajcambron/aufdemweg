@@ -1,5 +1,7 @@
 # Weeks 1–5 — Build Log
 
+> **Superseded (2026-10-28):** Weeks 1–5 now run through the data-file pipeline (see `weeks-6-26-build-log.md`); the PDFs are no longer the Word export.
+>
 > **Site note (2026-10-27):** the two .docx files now live in `worksheet-sources/docx/`. Each week's packet PDF was exported from the student docx with LibreOffice and split per week into `assets/worksheets/woche-NN-packet.pdf`. The docx stays the source for Weeks 1–5 until they are ported.
 
 > Exported verbatim from the claude.ai Project "German Teacher" (`claude/Weeks 1-5 Build Log.md`) on 2026-10-27.
