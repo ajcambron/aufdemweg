@@ -1,0 +1,217 @@
+week: 25
+date: 2027-04-18
+date_label: "Sonntag, 18. April 2027"
+theme: "Deutsche Musik & Popkultur"
+cando:
+  a1: "say what music I like and why"
+  b1b2: "discuss youth culture and switch between slang and standard German"
+grammar_focus: "gefallen works backwards: Das Lied gefällt mir = I like the song (the song is the subject!). mir, dir, ihm, ihr, uns."
+ap:
+  unit: "AP theme: Art and Creativity (music) / Language and Culture (register, youth language)"
+  mode: "Interpretive listening + register switching"
+  note: "Rewriting a slang message as a formal email practices register control (AP skill 2.A), which the AP rubrics score under Language Control."
+
+builder:
+  - title: "Musik (Music)"
+    rows:
+      - ["Ich höre gern Pop / Rap / Rock / Klassik / Schlager.", "I like listening to pop / rap / rock / classical / Schlager."]
+      - ["Mein Lieblingslied ist ... / Meine Lieblingsband ist ...", "My favorite song is ... / My favorite band is ..."]
+      - ["Das Lied gefällt mir (nicht).", "I (don't) like the song."]
+      - ["Gefällt dir die Musik?", "Do you like the music?"]
+      - ["Der Text ist traurig / lustig / politisch.", "The lyrics are sad / funny / political."]
+      - ["Ich spiele Klavier / Gitarre / Schlagzeug.", "I play piano / guitar / drums."]
+      - ["Ich gehe gern auf Konzerte / Festivals.", "I like going to concerts / festivals."]
+  - title: "Jugendsprache und Standard (Youth slang and standard German) [B1/B2]"
+    rows:
+      - ["Das ist krass! = Das ist unglaublich.", "That's crazy! (good or bad)"]
+      - ["Das ist mega! = Das ist super.", "That's awesome!"]
+      - ["chillen = sich entspannen", "to chill = to relax"]
+      - ["Digga / Alter (nur unter Freunden!)", "dude, bro (only among friends!)"]
+      - ["Ich hab keinen Bock. = Ich habe keine Lust.", "I don't feel like it."]
+      - ["mir, dir, ihm, ihr, uns, euch, ihnen / Ihnen", "to me, you, him, her, us, you all, them / you (formal)"]
+
+vocab:
+  complete:
+    - ["Ich höre gern ___.", "I like listening to rap.", "Rap"]
+    - ["Das Lied ___ mir.", "I like the song.", "gefällt"]
+    - ["Gefällt ___ die Musik?", "Do you like the music?", "dir"]
+    - ["Mein ___ ist ...", "My favorite song is ...", "Lieblingslied"]
+    - ["Ich spiele ___.", "I play drums.", "Schlagzeug"]
+    - ["Ich habe keine ___.", "I don't feel like it. (standard)", "Lust"]
+  match:
+    - ["das Lied", "song"]
+    - ["der Text", "lyrics"]
+    - ["das Schlagzeug", "drums"]
+    - ["gefallen", "to please, appeal to"]
+    - ["die Stimme", "voice"]
+    - ["der Sänger", "singer"]
+  match_order: [4, 6, 1, 5, 3, 2]
+  translate:
+    - ["Ich höre jeden Tag Musik.", "I listen to music every day."]
+    - ["Die Band gefällt mir sehr.", "I really like the band."]
+    - ["Gefällt dir das Lied?", "Do you like the song?"]
+    - ["Meinem Bruder gefällt Rap nicht.", "My brother doesn't like rap."]
+    - ["Der Text ist sehr traurig.", "The lyrics are very sad."]
+    - ["Ich gehe im Sommer auf ein Festival.", "I'm going to a festival this summer."]
+    - ["Die Sängerin hat eine tolle Stimme.", "The singer has a great voice."]
+    - ["Das ist krass!", "That's crazy!"]
+  letters: ["Musik", "Lied", "Konzert", "Sängerin", "Schlagzeug", "Gitarre", "Festival", "Stimme"]
+  broken:
+    - ["Mein Lieblingslied ist von einer deutschen Band.", "My favorite song is by a German band."]
+    - ["Das Lied gefällt mir sehr gut.", "I like the song a lot."]
+    - ["Ich höre gern Musik beim Lernen.", "I like listening to music while studying."]
+    - ["Am Wochenende gehen wir auf ein Konzert.", "This weekend we're going to a concert."]
+  suitable:
+    - "Ich höre gern ___."
+    - "Mein Lieblingslied ist ___."
+    - "___ gefällt mir."
+    - "___ gefällt mir nicht."
+    - "Ich spiele ___."
+    - "Musik ist für mich ___."
+
+reading:
+  a1:
+    texts:
+      - ["Lea", "Ich heiße Lea. Ich höre jeden Tag Musik, beim Lernen und im Bus. Ich höre gern Pop und ein bisschen Rap. Meine Lieblingsband kommt aus Berlin. Die Lieder sind auf Deutsch, und die Texte gefallen mir sehr. Im Sommer gehe ich auf mein erstes Festival!"]
+      - ["Tobias", "Ich heiße Tobias. Ich spiele Schlagzeug in einer Band. Wir sind vier Freunde, und wir proben jeden Freitag in der Garage. Meine Eltern finden das zu laut! Wir spielen Rock und schreiben eigene Lieder auf Englisch und auf Deutsch."]
+    questions:
+      - ["When does Lea listen to music?", "Every day, while studying and on the bus"]
+      - ["Where is Lea's favorite band from?", "Berlin"]
+      - ["What does Tobias play?", "Drums"]
+      - ["What do Tobias's parents think?", "It's too loud."]
+  b1:
+    texts:
+      - ["Herr Braun", "Ich bin Musiklehrer. Deutsche Musik hat eine lange Geschichte, von Bach und Beethoven bis zur elektronischen Musik. In den 1970er-Jahren hat die Band Kraftwerk aus Düsseldorf mit Synthesizern experimentiert und damit die Popmusik auf der ganzen Welt beeinflusst. In den 80ern kam die Neue Deutsche Welle, zum Beispiel Nena mit „99 Luftballons“, ein Hit sogar in den USA. Heute singen wieder viele junge Künstler auf Deutsch, besonders im Deutschrap."]
+      - ["Jule", "Jedes Jahr wählen Jugendliche in Deutschland das „Jugendwort des Jahres“. Viele Erwachsene verstehen diese Wörter nicht, und das ist auch ein bisschen der Sinn: Jugendsprache zeigt, dass man zu einer Gruppe gehört. Ich spreche mit meinen Freunden ganz anders als mit meinen Lehrern. Mit Freunden sage ich „Digga, das war krass“, aber in einem Referat würde ich das nie sagen."]
+    questions:
+      - ["Womit hat die Band Kraftwerk experimentiert?", "Mit Synthesizern."]
+      - ["Welcher deutsche Hit war sogar in den USA bekannt?", "„99 Luftballons“ von Nena."]
+      - ["Was ist das „Jugendwort des Jahres“?", "Ein Wort, das Jugendliche in Deutschland jedes Jahr wählen."]
+      - ["Warum spricht Jule mit Freunden anders als mit Lehrern?", "Jugendsprache zeigt, dass man zu einer Gruppe gehört; in einem Referat passt sie nicht."]
+
+structured_input:
+  ref:
+    directions: "Wer mag was? Lies genau. (Who likes what? Read carefully.)"
+    items:
+      - ["Mir gefällt der Song.", "Ich mag den Song.", ["Ich mag den Song.", "Der Song mag mich."]]
+      - ["Dem Lehrer gefällt die Band.", "Der Lehrer mag die Band.", ["Der Lehrer mag die Band.", "Die Band mag den Lehrer."]]
+      - ["Die Band gefällt meinem Bruder.", "Mein Bruder mag die Band.", ["Die Band mag meinen Bruder.", "Mein Bruder mag die Band."]]
+      - ["Meiner Schwester gefallen die Lieder nicht.", "Meine Schwester mag die Lieder nicht.", ["Meine Schwester mag die Lieder nicht.", "Die Lieder mögen meine Schwester nicht."]]
+      - ["Uns gefällt das Konzert.", "Wir mögen das Konzert.", ["Das Konzert mag uns.", "Wir mögen das Konzert."]]
+  aff:
+    directions: "Was gefällt dir?"
+    options: ["Gefällt mir!", "Gefällt mir nicht."]
+    items:
+      - "Deutsche Musik"
+      - "Rap"
+      - "Klassische Musik"
+      - "Musik aus den 80ern"
+      - "Musik beim Lernen"
+
+task:
+  title: "Lückentext + Klassen-Playlist (song cloze + class playlist)"
+  format: "Listening cloze, then class survey"
+  directions: "Teil 1 (10 min): Listen to the folk song „Die Gedanken sind frei“ and fill in the missing words from the word bank. Teil 2 (20 min): Interview at least four classmates: Was hörst du gern? Was ist dein Lieblingslied? Warum gefällt es dir? Write their answers in the chart. Then, in groups of four, agree on a five-song Klassen-Playlist and write one sentence per song saying why it belongs on the list."
+  a1: "Teil 2: Ask the three questions as printed. Answer with Mir gefällt ..., weil es ... ist."
+  b1: "Teil 2: Ask a follow-up about the lyrics (Worum geht es im Text?) and write your playlist reasons with gefallen and a weil-clause."
+  key: "Lückentext: frei · erraten · vorbei · Schatten · wissen · erschießen · Blei"
+  intro_html: |
+    <p class="level">Teil 1: „Die Gedanken sind frei“ (Volkslied, um 1800)</p>
+    <div class="word-bank">Blei &nbsp;&bull;&nbsp; erraten &nbsp;&bull;&nbsp; erschießen &nbsp;&bull;&nbsp; frei &nbsp;&bull;&nbsp; Schatten &nbsp;&bull;&nbsp; vorbei &nbsp;&bull;&nbsp; wissen</div>
+    <div class="ws-note" style="line-height: 2;">Die Gedanken sind <span class="blank"></span>,<br>wer kann sie <span class="blank"></span>?<br>Sie fliehen <span class="blank"></span><br>wie nächtliche <span class="blank"></span>.<br>Kein Mensch kann sie <span class="blank"></span>,<br>kein Jäger <span class="blank"></span><br>mit Pulver und <span class="blank"></span>:<br>Die Gedanken sind frei!</div>
+    <p class="ws-directions">erraten = to guess · fliehen = to flee · der Schatten = shadow · der Jäger = hunter · Pulver und Blei = gunpowder and lead</p>
+  tables:
+    - title: "Teil 2: Interview"
+      head: ["Name", "Was hörst du gern?", "Lieblingslied / Band", "Warum?"]
+      blank: 4
+    - title: "Unsere Klassen-Playlist"
+      head: ["#", "Lied / Künstler", "Warum gehört das Lied auf die Liste?"]
+      rows:
+        - ["1", "", ""]
+        - ["2", "", ""]
+        - ["3", "", ""]
+        - ["4", "", ""]
+        - ["5", "", ""]
+
+output:
+  a1: "Write a short music profile: Ich höre gern ___. Mein Lieblingslied ist ___. Es gefällt mir, weil ___. ___ gefällt mir nicht. Read it to a partner. They answer each sentence with Mir auch! or Mir nicht!"
+  b1: "Register switch: your partner writes a three-line text to a friend in Jugendsprache (Digga, das Konzert war mega krass ...). You rewrite it as an email to a teacher (Sehr geehrte Frau ..., das Konzert war ...). Then switch roles. Compare: what changed besides the words?"
+
+landeskunde:
+  title: "Die Gedanken sind frei"
+  text: |
+    „Die Gedanken sind frei“ (Thoughts are free) is a German folk song from around 1800. Its message is simple: no one can read or lock up your thoughts. That made it dangerous. It was banned at times in the 1800s, and in the 1900s it became a song of quiet resistance. In 1942, Sophie Scholl of the anti-Nazi student group Die Weiße Rose is said to have played it on her flute outside the prison where her father was held for criticizing Hitler.
+
+    Today German pop culture is as varied as American: Deutschrap tops the charts, Schlager (catchy, sentimental pop) fills arenas with fans of all ages, and festivals like Rock am Ring draw tens of thousands of people every summer.
+  warum: "Why might a song about free thoughts matter so much in a country that lived under two dictatorships in the 20th century?"
+  vergleich: "Which American songs have carried a political message or been sung at protests? Compare one with „Die Gedanken sind frei“."
+
+exit:
+  a1: "Ich kann sagen, welche Musik mir gefällt und warum."
+  b1: "Ich kann über Jugendkultur sprechen und zwischen Jugendsprache und Standard wechseln."
+
+energizer:
+  title: "Musik-Quiz (name that tune)"
+  text: "Play 10-second clips of German songs from different eras (Kraftwerk, Nena, a current Deutschrap hit, a Schlager classic). Teams guess the genre or the decade and say it in German: Das ist Rock aus den Achtzigern! Bonus point for naming the artist."
+
+extension:
+  title: "Ist Jugendsprache schlecht für die Sprache?"
+  intro: "Lies die zwei Meinungen und beantworte die Fragen."
+  text: |
+    Meinung 1, ein Deutschlehrer: Jugendliche benutzen immer mehr englische Wörter: chillen, cringe, lost. Ich habe Angst, dass die deutsche Sprache dadurch ärmer wird. In der Schule sollten wir mehr Wert auf gutes Deutsch legen.
+
+    Meinung 2, eine Sprachwissenschaftlerin: Sprache hat sich schon immer verändert. Auch die Eltern von heute hatten früher ihre eigene Jugendsprache. Die meisten Jugendlichen können sehr gut zwischen Jugendsprache und Standardsprache wechseln. Das ist keine Schwäche, sondern eine Kompetenz.
+  questions:
+    - ["Welche englischen Wörter nennt der Deutschlehrer?", "chillen, cringe, lost."]
+    - ["Wovor hat der Deutschlehrer Angst?", "Dass die deutsche Sprache ärmer wird."]
+    - ["Was sagt die Sprachwissenschaftlerin über die Eltern von heute?", "Sie hatten früher auch ihre eigene Jugendsprache."]
+    - ["Warum ist der Wechsel für sie eine Kompetenz?", "Jugendliche können je nach Situation passend sprechen."]
+  task: "Schreib 6–8 Sätze: Wem stimmst du zu? Beziehe dich auf beide Meinungen (Der Deutschlehrer meint ..., aber die Sprachwissenschaftlerin ...) und gib ein Beispiel aus dem Englischen."
+
+buffer: "Play a few seconds of each song on the class playlist, or start planning the music piece for the Abschlussfeier."
+
+page:
+  modules:
+    einstieg: "Two clips: Gefällt dir das?"
+    input: "Sentence builder + narrow reading (Lea & Tobias, Herr Braun & Jule) + Achte auf die Form"
+    kernaufgabe: "Lückentext (Die Gedanken sind frei) + Klassen-Playlist"
+    landeskunde: "Die Gedanken sind frei"
+    energizer: "Musik-Quiz (name that tune)"
+    extension: "Ist Jugendsprache schlecht für die Sprache? (opinion writing)"
+    buffer: "Play the class playlist, or plan the Abschlussfeier music"
+  einstieg: "Play two short clips: a German song students won't know and something from their own playlists. After each, ask *Gefällt dir das? Ja oder nein?* and model *Mir gefällt das!* / *Mir gefällt das nicht.* with thumbs up or down. Then ask *Ist das Rock oder Rap?* Students answer with one word."
+  materials:
+    - "Student packet, one per student"
+    - "A recording of „Die Gedanken sind frei“ (many free recordings exist online)"
+    - "A speaker, plus short clips for the Einstieg and the music quiz"
+  summary: "Lückentext + Klassen-Playlist. First the class listens to the folk song *Die Gedanken sind frei* and fills in the missing words from a word bank. Then students interview at least four classmates about their music, and groups of four agree on a five-song class playlist with one reason per song. A1/A2 use the printed questions and *Mir gefällt ..., weil ...*; B1/B2 ask about the lyrics and write reasons with *gefallen* and *weil*."
+  note:
+    type: important
+    text: "**Song lyrics are copyrighted**, so the packet uses *Die Gedanken sind frei*, a folk song in the public domain. If you'd like students to work with a current song, project the lyrics from a licensed lyrics site during class rather than printing them."
+  grammar: |
+    **gefallen works backwards.** In English, the person likes the thing. In German, the thing *pleases* the person: the thing is the subject, and the person is in the dative.
+
+    > **Das Lied** gefällt **mir**. (The song pleases me = I like the song.)
+    > **Die Lieder** gefallen **mir**. (plural thing → plural verb)
+
+    | Person | Dative |
+    | :--- | :--- |
+    | ich | **mir** |
+    | du | **dir** |
+    | er / sie | **ihm** / **ihr** |
+    | wir | **uns** |
+    | ihr | **euch** |
+    | sie / Sie | **ihnen** / **Ihnen** |
+
+    The dative can come first without changing who likes what: *Mir gefällt das Lied* = *Das Lied gefällt mir*.
+
+    **Other ways to say it:** *Ich höre gern Rap* (I like listening to rap), *Ich mag die Band* (I like the band).
+  achtung: "**What students will do:** say *„Ich gefalle das Lied“*, which means \"I please the song.\" The meaning flips, which is why the Achte-auf-die-Form items make students decide who likes whom when the dative comes first (*Dem Lehrer gefällt die Band*). In conversation, restate gently (*„Ah, das Lied gefällt dir!“*) or let them use *Ich mag ...*, which works the English way."
+  b2: "**If a B2 asks:** other \"backwards\" verbs work the same way: *schmecken* (*Das schmeckt mir*), *fehlen* (*Du fehlst mir* = I miss you), *passen* (*Die Jacke passt mir*). Register is the real skill this week: slang is fine among friends and wrong in a presentation. The *Jugendwort des Jahres* is real; the two opinions in the extension are invented."
+  vocab_extra:
+    - ["das Volkslied", "folk song"]
+    - ["der Künstler / die Künstlerin", "artist (m / f)"]
+    - ["die Jugendsprache", "youth slang"]
+    - ["das Referat", "class presentation"]
+    - ["die Gedanken (Pl.)", "thoughts"]
+    - ["der Schlager", "German sentimental pop song"]

@@ -85,3 +85,4 @@ Test with the formats you taught with. A fill-in-the-blank conjugation quiz afte
 - [ ] Structured output requires a partner to respond.
 - [ ] Core modules alone (85 min) work without any optional module.
 - [ ] Week page has the Achtung callout, Wortschatz table, packet card and answer key.
+- [ ] `python3 scripts/build-packet.py NN` passes its checks (Weeks 6+).

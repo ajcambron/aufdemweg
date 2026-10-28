@@ -77,6 +77,10 @@ layout: default
 {%- for item in d.structured_input.ref.items %} {{ forloop.index }}. {{ item[1] }}{% unless forloop.last %} ·{% endunless %}{% endfor %}<br>
 <em>Part B has no right answers: students mark what's true for them.</em></p>
 
+{%- if d.task.key %}
+<p><strong>Kernaufgabe:</strong> {{ d.task.key | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+{%- endif %}
+
 {%- if d.extension.questions %}
 <p><strong>B1/B2 Extension:</strong></p>
 <ol type="a">{% for q in d.extension.questions %}<li>{{ q[1] }}</li>{% endfor %}</ol>

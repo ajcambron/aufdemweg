@@ -24,11 +24,11 @@
 - {week: 18, date: 2027-02-21, theme: "Stadt & Wegbeschreibung", cando: "Give and follow directions; read a map.", notes: "Map info-gap; imperative.", page: /wochen/woche-18/}
 - {week: 19, date: 2027-02-28, theme: "Reisen & Verkehrsmittel", cando: "Narrate a past trip.", notes: "Perfekt.", page: /wochen/woche-19/}
 - {week: 20, date: 2027-03-07, theme: "Medien & Technologie", cando: "State and justify an opinion (phones in school?).", notes: "B1/B2: short debate.", page: /wochen/woche-20/}
-- {week: 21, date: 2027-03-14, theme: "Deutschland-Kunde", cando: "Locate states/cities; jigsaw info exchange.", notes: "B2: dialect variation."}
-- {week: 22, date: 2027-03-21, theme: "Ostern", cando: "Describe Easter traditions in German-speaking countries.", notes: "B2: wishes with Konjunktiv II."}
+- {week: 21, date: 2027-03-14, theme: "Deutschland-Kunde", cando: "Locate states/cities; jigsaw info exchange.", notes: "B2: dialect variation.", page: /wochen/woche-21/}
+- {week: 22, date: 2027-03-21, theme: "Ostern", cando: "Describe Easter traditions in German-speaking countries.", notes: "B2: wishes with Konjunktiv II.", page: /wochen/woche-22/}
 - {week: ,   date: 2027-03-28, theme: "No School", cando: "", notes: "Easter."}
-- {week: 23, date: 2027-04-04, theme: "Umwelt & Nachhaltigkeit", cando: "Discuss recycling/Pfand; state an opinion in writing.", notes: ""}
-- {week: 24, date: 2027-04-11, theme: "Berufe & Zukunftspläne", cando: "Discuss professions and future plans.", notes: "Future tense."}
-- {week: 25, date: 2027-04-18, theme: "Deutsche Musik & Popkultur", cando: "Work a Lückentext from a German song; discuss youth culture.", notes: "B2: slang/register."}
-- {week: 26, date: 2027-04-25, theme: "Rückblick", cando: "Year review game; prepare a sketch or music piece for the closing ceremony.", notes: "Last packet day."}
-- {week: ,   date: 2027-05-02, theme: "Abschlussfeier (DSB Hall)", cando: "", notes: "Closing ceremony/showcase."}
+- {week: 23, date: 2027-04-04, theme: "Umwelt & Nachhaltigkeit", cando: "Discuss recycling/Pfand; state an opinion in writing.", notes: "", page: /wochen/woche-23/}
+- {week: 24, date: 2027-04-11, theme: "Berufe & Zukunftspläne", cando: "Discuss professions and future plans.", notes: "Future tense.", page: /wochen/woche-24/}
+- {week: 25, date: 2027-04-18, theme: "Deutsche Musik & Popkultur", cando: "Work a Lückentext from a German song; discuss youth culture.", notes: "B2: slang/register.", page: /wochen/woche-25/}
+- {week: 26, date: 2027-04-25, theme: "Rückblick", cando: "Year review game; prepare a sketch or music piece for the closing ceremony.", notes: "Last packet day.", page: /wochen/woche-26/}
+- {week: ,   date: 2027-05-02, theme: "Abschlussfeier (DSB Hall)", cando: "", notes: "Closing ceremony/showcase.", page: /wochen/abschlussfeier/}

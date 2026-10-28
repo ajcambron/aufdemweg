@@ -1,0 +1,221 @@
+week: 24
+date: 2027-04-11
+date_label: "Sonntag, 11. April 2027"
+theme: "Berufe & Zukunftspläne"
+cando:
+  a1: "name jobs and say what I'd like to become"
+  b1b2: "talk about my plans after school and compare career paths in Germany and the US"
+grammar_focus: "Jobs take no article: Ich bin Schüler. Ich möchte Ärztin werden. Female forms add -in (Lehrer → Lehrerin). Future with werden (Week 12): Ich werde studieren."
+ap:
+  unit: "AP theme: Contemporary Life (education and careers)"
+  mode: "Interpersonal interview + formal email (Sie-Form)"
+  note: "Landeskunde climbs from a practice (the Ausbildung) to a perspective (practical skills earn respect), with a direct comparison to US career and technical education."
+
+builder:
+  - title: "Berufe (Jobs)"
+    rows:
+      - ["der Arzt / die Ärztin", "doctor (m / f)"]
+      - ["der Lehrer / die Lehrerin", "teacher"]
+      - ["der Ingenieur / die Ingenieurin", "engineer"]
+      - ["der Koch / die Köchin", "cook, chef"]
+      - ["der Krankenpfleger / die Krankenpflegerin", "nurse"]
+      - ["der Mechatroniker / die Mechatronikerin", "mechatronics technician"]
+      - ["der Grafikdesigner / die Grafikdesignerin", "graphic designer"]
+  - title: "Meine Zukunft (My future)"
+    rows:
+      - ["Ich bin Schüler / Schülerin.", "I'm a student (m / f)."]
+      - ["Ich möchte Ärztin / Koch werden.", "I'd like to become a doctor / a cook."]
+      - ["Ich arbeite gern mit Menschen / mit Tieren / mit Computern.", "I like working with people / animals / computers."]
+      - ["Nach der Schule werde ich studieren / eine Ausbildung machen.", "After school I'll go to college / do an apprenticeship."]
+      - ["Ich bin kreativ / praktisch / geduldig / gut in Mathe.", "I'm creative / practical / patient / good at math."]
+      - ["Für mich ist wichtig, dass ... [B1/B2]", "For me it's important that ..."]
+
+vocab:
+  complete:
+    - ["Ich möchte Lehrer ___.", "I'd like to become a teacher.", "werden"]
+    - ["Meine Mutter ist ___.", "My mother is a doctor.", "Ärztin"]
+    - ["Ich arbeite gern ___ Tieren.", "I like working with animals.", "mit"]
+    - ["Nach der Schule ___ ich studieren.", "After school I will go to college.", "werde"]
+    - ["Er macht eine ___ als Koch.", "He's doing an apprenticeship as a cook.", "Ausbildung"]
+    - ["Ich bin sehr ___.", "I'm very creative.", "kreativ"]
+  match:
+    - ["der Beruf", "job, profession"]
+    - ["die Ausbildung", "apprenticeship"]
+    - ["studieren", "to study at a university"]
+    - ["geduldig", "patient"]
+    - ["verdienen", "to earn"]
+    - ["das Praktikum", "internship"]
+  match_order: [3, 6, 5, 1, 2, 4]
+  translate:
+    - ["Ich möchte Ingenieurin werden.", "I'd like to become an engineer."]
+    - ["Mein Vater ist Koch.", "My father is a cook."]
+    - ["Ich arbeite gern mit Computern.", "I like working with computers."]
+    - ["Nach der Schule mache ich eine Ausbildung.", "After school I'm doing an apprenticeship."]
+    - ["Sie wird Medizin studieren.", "She will study medicine."]
+    - ["Ich bin geduldig und praktisch.", "I'm patient and practical."]
+    - ["Was möchtest du werden?", "What would you like to be?"]
+    - ["Als Grafikdesignerin muss man kreativ sein.", "As a graphic designer, you have to be creative."]
+  letters: ["Beruf", "Ausbildung", "Lehrerin", "Ingenieur", "Zukunft", "studieren", "kreativ", "verdienen"]
+  broken:
+    - ["Ich möchte später Ärztin werden.", "Later I'd like to become a doctor."]
+    - ["Mein Bruder macht eine Ausbildung.", "My brother is doing an apprenticeship."]
+    - ["Ich arbeite gern mit Menschen.", "I like working with people."]
+    - ["Nach dem Abitur werde ich studieren.", "After the Abitur I'll go to university."]
+  suitable:
+    - "Ich möchte ___ werden."
+    - "Ich arbeite gern mit ___."
+    - "Ich bin ___ und ___."
+    - "Mein Traumberuf ist ___, weil ___."
+    - "Nach der Schule werde ich ___."
+    - "___ ist ein interessanter Beruf."
+
+reading:
+  a1:
+    texts:
+      - ["Nina", "Ich heiße Nina und ich bin sechzehn. Ich möchte Tierärztin werden. Ich arbeite gern mit Tieren, und ich bin gut in Biologie. Ich habe zwei Katzen und einen Hund. Nach der Schule werde ich Tiermedizin studieren."]
+      - ["Malik", "Ich heiße Malik. Mein Vater ist Koch, und ich koche auch sehr gern. Ich möchte nicht studieren. Ich möchte eine Ausbildung als Koch machen und später ein eigenes Restaurant haben. Mein Lieblingsessen ist natürlich Papas Lasagne!"]
+    questions:
+      - ["What does Nina want to become?", "A veterinarian"]
+      - ["Why does that job fit her?", "She likes working with animals and is good at biology."]
+      - ["What does Malik's father do?", "He's a cook."]
+      - ["What does Malik want to do after school?", "An apprenticeship as a cook, and later open his own restaurant"]
+  b1:
+    texts:
+      - ["Herr Wolf", "Ich bilde bei einer Autofirma in Ingolstadt junge Leute zu Mechatronikern aus. Die Ausbildung dauert dreieinhalb Jahre. Die Azubis sind drei bis vier Tage pro Woche im Betrieb und ein bis zwei Tage in der Berufsschule. Sie verdienen schon während der Ausbildung Geld, im ersten Jahr etwa 1.100 Euro im Monat. Viele bleiben nach der Ausbildung bei uns."]
+      - ["Lena", "Ich habe nach dem Abitur zuerst ein Freiwilliges Soziales Jahr in einem Krankenhaus gemacht. Das war die beste Entscheidung: Danach wusste ich genau, dass ich Ärztin werden will. Jetzt studiere ich Medizin in Heidelberg. Das Studium kostet fast nichts, weil es in Deutschland keine hohen Studiengebühren gibt. Aber es ist sehr schwer, einen Studienplatz zu bekommen."]
+    questions:
+      - ["Wie lange dauert die Ausbildung zum Mechatroniker?", "Dreieinhalb Jahre."]
+      - ["Wo lernen die Azubis?", "Drei bis vier Tage pro Woche im Betrieb und ein bis zwei Tage in der Berufsschule."]
+      - ["Was hat Lena nach dem Abitur zuerst gemacht?", "Ein Freiwilliges Soziales Jahr in einem Krankenhaus."]
+      - ["Warum kostet ihr Studium fast nichts?", "Weil es in Deutschland keine hohen Studiengebühren gibt."]
+
+structured_input:
+  ref:
+    directions: "Die Namen helfen nicht! Mann oder Frau? Achte auf die Endung. (The names won't help. Man or woman? Watch the ending.)"
+    options: ["ein Mann", "eine Frau"]
+    items:
+      - ["Kim ist Ingenieurin.", "eine Frau"]
+      - ["Alex ist Koch.", "ein Mann"]
+      - ["Sam ist Polizistin.", "eine Frau"]
+      - ["Robin ist Krankenpfleger.", "ein Mann"]
+      - ["Charlie ist Mechatronikerin.", "eine Frau"]
+      - ["Jo ist Verkäufer.", "ein Mann"]
+  aff:
+    directions: "Was passt zu dir?"
+    options: ["Ja", "Nein"]
+    items:
+      - "Ich möchte später studieren."
+      - "Ich möchte mit Menschen arbeiten."
+      - "Ich möchte viel Geld verdienen."
+      - "Ich möchte eine Ausbildung machen."
+      - "Ich möchte im Ausland arbeiten."
+
+task:
+  title: "Berufsberatung (career counseling)"
+  format: "Partner interview + matching"
+  directions: "Partner A is the career counselor (Berufsberater/in); Partner B is the student. The counselor asks the interview questions, notes the answers, then picks two jobs from the job cards that fit and explains why. Switch roles. At the end, each student writes their own Zukunftsplan."
+  a1: "Ask the questions as printed and write short answers. Suggest a job: Du kannst ... werden. Das passt, weil du gern ..."
+  b1: "Ask one follow-up question per answer and explain your suggestion with two reasons. In your own Zukunftsplan, use werden and one wenn-clause."
+  tables:
+    - title: "Interview"
+      head: ["Frage", "Antwort"]
+      rows:
+        - ["Was machst du gern?", ""]
+        - ["Was kannst du gut?", ""]
+        - ["Arbeitest du lieber drinnen oder draußen?", ""]
+        - ["Arbeitest du lieber allein oder im Team?", ""]
+        - ["Möchtest du studieren oder eine Ausbildung machen?", ""]
+        - ["Was ist dir wichtig? (Geld, Zeit, anderen helfen ...)", ""]
+    - title: "Berufskarten (job cards)"
+      head: ["Beruf", "Was macht man?", "Weg"]
+      rows:
+        - ["Krankenpfleger/in", "hilft kranken Menschen, arbeitet im Team, auch nachts", "Ausbildung, 3 Jahre"]
+        - ["Ingenieur/in", "plant Maschinen oder Brücken, gut in Mathe", "Studium, 3–5 Jahre"]
+        - ["Grafikdesigner/in", "gestaltet Logos, Plakate und Websites, kreativ", "Ausbildung oder Studium"]
+        - ["Mechatroniker/in", "baut und repariert Maschinen und Autos, praktisch", "Ausbildung, 3,5 Jahre"]
+        - ["Tierarzt / Tierärztin", "behandelt kranke Tiere", "Studium, 5,5 Jahre"]
+        - ["Erzieher/in", "arbeitet mit kleinen Kindern im Kindergarten, geduldig", "Ausbildung, 2–5 Jahre"]
+        - ["Koch / Köchin", "kocht im Restaurant, oft abends und am Wochenende", "Ausbildung, 3 Jahre"]
+        - ["Informatiker/in", "programmiert Software, arbeitet am Computer", "Ausbildung oder Studium"]
+    - title: "Mein Vorschlag für dich (counselor's suggestion)"
+      head: ["Beruf", "Warum passt das?"]
+      blank: 2
+    - title: "Mein Zukunftsplan (my future plan)"
+      head: ["Nach der Schule werde ich ..."]
+      blank: 1
+
+output:
+  a1: "Write your Zukunftsplan: Ich möchte ___ werden. Ich arbeite gern mit ___. Ich bin ___. Nach der Schule werde ich ___. Read it to a partner. They answer Das passt zu dir! or ask Warum?"
+  b1: "Write a short email in the Sie-form to a company asking about an internship (Praktikum): who you are, why you're interested, what you're good at and when you're available. Your partner plays the company and writes a two-sentence reply."
+
+landeskunde:
+  title: "Die duale Ausbildung"
+  text: |
+    About half of young Germans don't go to university after school. Instead they do an Ausbildung: a two- to three-and-a-half-year apprenticeship in one of about 320 recognized professions, from baker to bank clerk to mechatronics technician. Apprentices (Azubis) spend most of the week at a company and one or two days at a vocational school (Berufsschule), so they learn theory and practice at the same time, and they're paid from the first month.
+
+    This dual system (duales System) is widely respected. A master craftsperson (Meister) has real status, and plenty of company bosses started as Azubis. Other countries, including the US, have studied the model for their own career and technical education programs.
+  warum: "In Germany, an apprenticeship is a respected path, not a backup plan. What does that say about how Germans value practical skills?"
+  vergleich: "What paths after high school are common where you live? How does a CTE program in the US compare with a German Ausbildung?"
+
+exit:
+  a1: "Ich kann Berufe nennen und sagen, was ich werden möchte."
+  b1: "Ich kann über meine Zukunftspläne sprechen und Bildungswege vergleichen."
+
+energizer:
+  title: "Berufe-Raten (What's my job?)"
+  text: "One student thinks of a job. The class asks only yes/no questions: Arbeitest du drinnen? Arbeitest du mit Menschen? Brauchst du eine Uniform? Twenty questions at most. Whoever guesses it (Bist du Köchin?) goes next."
+
+extension:
+  title: "Studium oder Ausbildung?"
+  intro: "Lies den Text und die Tabelle (Beispieldaten). Dann beantworte die Fragen."
+  text: "Viele Jugendliche in Deutschland stehen nach der Schule vor einer großen Frage: studieren oder eine Ausbildung machen? Ein Studium dauert meistens länger, und man verdient in dieser Zeit wenig oder kein Geld. Dafür sind die Gehälter später oft höher. Mit einer Ausbildung verdient man sofort Geld und hat schnell Berufserfahrung. Mit einer Weiterbildung zum Meister oder Techniker kann man später auch gut verdienen. Experten sagen: Wichtiger als der Weg ist, dass der Beruf zu einem passt."
+  table:
+    head: ["Beispiel: Wer verdient was? (brutto pro Monat)", "mit 20", "mit 30"]
+    rows:
+      - ["Ausbildung → Mechatroniker/in", "1.200 € (Ausbildungsgehalt)", "3.800 €"]
+      - ["Studium → Ingenieur/in", "nur ein Nebenjob", "4.500 €"]
+  questions:
+    - ["Was ist ein Nachteil vom Studium?", "Es dauert länger, und man verdient in dieser Zeit wenig oder kein Geld."]
+    - ["Was ist ein Vorteil von der Ausbildung?", "Man verdient sofort Geld und hat schnell Berufserfahrung."]
+    - ["Wie kann man mit einer Ausbildung später gut verdienen?", "Mit einer Weiterbildung zum Meister oder Techniker."]
+    - ["Was ist laut Experten am wichtigsten?", "Dass der Beruf zu einem passt."]
+  task: "Schreib 6–8 Sätze: Würdest du in Deutschland lieber studieren oder eine Ausbildung machen? Benutze den Text und die Tabelle und vergleiche mit deinen eigenen Plänen."
+
+buffer: "Job-ad hunt: students read two or three short German job ads (print them from a German job site) and find the hours, pay and requirements, or another round of Berufe-Raten."
+
+page:
+  modules:
+    einstieg: "Job photos: Was macht er? Was macht sie?"
+    input: "Sentence builder + narrow reading (Nina & Malik, Herr Wolf & Lena) + Achte auf die Form"
+    kernaufgabe: "Berufsberatung: interview, match jobs, write a plan"
+    landeskunde: "Die duale Ausbildung"
+    energizer: "Berufe-Raten (What's my job?)"
+    extension: "Studium oder Ausbildung? (text + data)"
+    buffer: "Job-ad hunt, or more Berufe-Raten"
+  einstieg: "Show six photos of people at work (a chef, a nurse, a mechanic, a teacher, a programmer, a vet). Name each job with the matching form (*Das ist eine Köchin. Das ist ein Mechatroniker.*) and ask *Arbeitet er drinnen oder draußen? Mit Menschen oder mit Maschinen?* Students answer with one word."
+  materials:
+    - "Student packet, one per student"
+    - "Six job photos for the Einstieg"
+  summary: "Berufsberatung. One partner plays a career counselor and interviews the other about interests, strengths and work preferences, then picks two matching jobs from the job cards and explains why. Partners switch, and each student writes a Zukunftsplan. A1/A2 ask the printed questions and suggest jobs with *Du kannst ... werden*; B1/B2 ask follow-ups, give two reasons and write their plan with *werden* and a *wenn*-clause."
+  note:
+    type: note
+    text: "This week ties straight into career and technical education. If your students are in a CTE pathway, the Landeskunde's comparison is worth extra time: Germany's dual system is the model many US CTE programs borrow from."
+  grammar: |
+    **Jobs take no article** when you say what someone *is*:
+
+    > Ich bin **Schüler**. Meine Mutter ist **Ärztin**. Ich möchte **Lehrer** werden.
+
+    **Female forms add -in**, sometimes with an umlaut: *Lehrer → Lehrerin, Arzt → **Ä**rztin, Koch → **Kö**chin.*
+
+    **werden has two jobs.** On its own it means *to become*: *Ich möchte Ärztin **werden**.* With an infinitive it makes the future (Week 12): *Ich **werde** Medizin **studieren**.*
+
+    **Talking about strengths:** *Ich bin gut in Mathe. Ich arbeite gern mit Menschen. Für mich ist wichtig, dass ...* (verb to the end).
+  achtung: "**What students will do:** add the English article: *„Ich möchte ein Arzt werden.“* Restate without it: *„Ah, du möchtest Arzt werden!“* They'll also skip the *-in* form for women. In German that ending carries meaning, which is why the Achte-auf-die-Form items use gender-neutral names: the ending is the only clue."
+  b2: "**If a B2 asks:** *studieren* means studying at a university; for school or homework, use *lernen*. *Azubi* is short for *Auszubildende(r)*. German job ads often name all genders: *Mechatroniker (m/w/d)*, where *d* stands for *divers*. Salary figures in the extension are examples."
+  vocab_extra:
+    - ["der / die Azubi", "apprentice"]
+    - ["die Berufsschule", "vocational school"]
+    - ["das Studium", "university studies"]
+    - ["der Traumberuf", "dream job"]
+    - ["der Betrieb", "company, workplace"]
+    - ["der Meister / die Meisterin", "master craftsperson"]

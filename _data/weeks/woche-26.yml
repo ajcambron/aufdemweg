@@ -1,0 +1,218 @@
+week: 26
+date: 2027-04-25
+date_label: "Sonntag, 25. April 2027"
+theme: "Rückblick"
+cando:
+  a1: "say what I learned this year and perform a short piece in German"
+  b1b2: "reflect on my progress and present a polished performance"
+grammar_focus: "No new grammar. The year in six patterns: verb second, verb at the end (weil, dass, wenn), modal + infinitive, Perfekt, Wo? vs. Wohin?, Konjunktiv II."
+ap:
+  unit: "AP theme: Families and Communities / Contemporary Life (education)"
+  mode: "Presentational performance + reflective writing"
+  note: "The performance checklist mirrors the AP Project's Delivery row: speak clearly and engagingly, and don't read from the page."
+
+builder:
+  - title: "Rückblick (Looking back)"
+    rows:
+      - ["Dieses Jahr habe ich viel gelernt.", "This year I learned a lot."]
+      - ["Am besten hat mir ... gefallen.", "I liked ... best."]
+      - ["Am schwierigsten war ...", "The hardest thing was ..."]
+      - ["Jetzt kann ich ...", "Now I can ..."]
+      - ["Ich bin stolz auf ...", "I'm proud of ..."]
+      - ["Nächstes Jahr möchte ich ...", "Next year I'd like to ..."]
+  - title: "Für die Abschlussfeier (For the closing ceremony)"
+    rows:
+      - ["Wir spielen einen Sketch. / Wir singen ein Lied.", "We're performing a skit. / We're singing a song."]
+      - ["Wer spielt wen? Wer singt was?", "Who plays whom? Who sings what?"]
+      - ["Sprich lauter! / Langsamer, bitte!", "Speak louder! / Slower, please!"]
+      - ["Noch einmal von vorn!", "Once more from the top!"]
+      - ["Herzlich willkommen, liebe Eltern und Gäste!", "A warm welcome, dear parents and guests!"]
+      - ["Vielen Dank fürs Zuhören!", "Thank you for listening!"]
+
+vocab:
+  complete:
+    - ["Dieses Jahr ___ ich viel gelernt.", "This year I learned a lot.", "habe"]
+    - ["Am besten hat mir Karneval ___.", "I liked Karneval best.", "gefallen"]
+    - ["Jetzt ___ ich mich auf Deutsch vorstellen.", "Now I can introduce myself in German.", "kann"]
+    - ["Ich bin stolz ___ unseren Sketch.", "I'm proud of our skit.", "auf"]
+    - ["Sprich ___, bitte!", "Speak louder, please!", "lauter"]
+    - ["Vielen Dank fürs ___!", "Thank you for listening!", "Zuhören"]
+  match:
+    - ["der Rückblick", "look back, review"]
+    - ["stolz", "proud"]
+    - ["die Feier", "celebration"]
+    - ["proben", "to rehearse"]
+    - ["das Publikum", "audience"]
+    - ["der Auftritt", "performance"]
+  match_order: [2, 5, 6, 1, 4, 3]
+  translate:
+    - ["Dieses Jahr hat mir sehr gut gefallen.", "I really liked this year."]
+    - ["Am schwierigsten war der Dativ.", "The hardest thing was the dative."]
+    - ["Jetzt kann ich über meine Familie sprechen.", "Now I can talk about my family."]
+    - ["Wir proben den Sketch noch einmal.", "We'll rehearse the skit once more."]
+    - ["Ich bin stolz auf unsere Klasse.", "I'm proud of our class."]
+    - ["Nächstes Jahr möchte ich nach Deutschland fahren.", "Next year I'd like to go to Germany."]
+    - ["Herzlich willkommen!", "Welcome!"]
+    - ["Vielen Dank fürs Zuhören!", "Thank you for listening!"]
+  letters: ["Rückblick", "Abschlussfeier", "gelernt", "stolz", "Sketch", "Publikum", "Auftritt", "Sommerferien"]
+  broken:
+    - ["Dieses Jahr habe ich viel gelernt.", "This year I learned a lot."]
+    - ["Am besten hat mir der Sketch gefallen.", "I liked the skit best."]
+    - ["Wir singen ein Lied für unsere Eltern.", "We're singing a song for our parents."]
+    - ["Schöne Sommerferien und bis bald!", "Have a great summer and see you soon!"]
+  suitable:
+    - "Dieses Jahr habe ich ___ gelernt."
+    - "Am besten hat mir ___ gefallen."
+    - "Am schwierigsten war ___."
+    - "Jetzt kann ich ___."
+    - "Ich bin stolz auf ___."
+    - "Nächstes Jahr möchte ich ___."
+
+reading:
+  a1:
+    texts:
+      - ["Ella", "Ich heiße Ella. Im September konnte ich nur „Hallo“ und „Danke“ sagen. Jetzt kann ich mich vorstellen, über meine Familie sprechen und im Café bestellen! Am besten hat mir der Nikolaustag gefallen. Am schwierigsten waren die Artikel: der, die, das! Nächstes Jahr möchte ich wieder kommen."]
+      - ["Sam", "Ich heiße Sam. Dieses Jahr habe ich viele neue Freunde gefunden. An Weihnachten haben wir einen Sketch gespielt. Das war lustig, aber ich war sehr nervös! Jetzt spreche ich mehr Deutsch mit meiner Oma. Sie ist sehr stolz auf mich."]
+    questions:
+      - ["What could Ella say in September?", "Only „Hallo“ and „Danke“"]
+      - ["Name two things Ella can do now.", "Introduce herself, talk about her family, order in a café (any two)"]
+      - ["What did Sam do at Christmas?", "Performed a skit"]
+      - ["Who does Sam speak more German with now?", "Grandma (Oma)"]
+  b1:
+    texts:
+      - ["Noor", "Am Anfang des Jahres habe ich gedacht, dass mein Deutsch schon ziemlich gut ist, weil wir zu Hause manchmal Deutsch sprechen. Aber ich habe gemerkt, dass ich zwar viel verstehe, aber beim Schreiben unsicher bin. Die Debatte über Handys in der Schule war für mich der Höhepunkt: Zum ersten Mal habe ich auf Deutsch richtig argumentiert. Nächstes Jahr möchte ich die AP-Prüfung machen."]
+      - ["Frau Schneider", "Meine Tochter geht seit zwei Jahren in die Deutschschule. Am Anfang wollte sie am Sonntag lieber ausschlafen. Inzwischen freut sie sich auf den Unterricht, weil sie dort Freunde hat und weil der Unterricht nicht nur Grammatik ist. Für unsere Familie ist das wichtig: Ihre Großeltern in Österreich können jetzt richtig mit ihr sprechen."]
+    questions:
+      - ["Was hat Noor über ihr Deutsch gemerkt?", "Sie versteht viel, ist aber beim Schreiben unsicher."]
+      - ["Was war Noors Höhepunkt?", "Die Debatte über Handys in der Schule."]
+      - ["Warum freut sich Frau Schneiders Tochter jetzt auf den Unterricht?", "Sie hat dort Freunde, und der Unterricht ist nicht nur Grammatik."]
+      - ["Warum ist das für die Familie wichtig?", "Die Großeltern in Österreich können jetzt richtig mit ihr sprechen."]
+
+structured_input:
+  ref:
+    directions: "Das große Jahres-Quiz: Was bedeutet der Satz?"
+    items:
+      - ["Den Hund sieht der Mann. Wer sieht?", "der Mann", ["der Hund", "der Mann"]]
+      - ["Es ist halb neun.", "8:30", ["8:30", "9:30"]]
+      - ["Du musst nicht kommen.", "You don't have to come.", ["You must not come.", "You don't have to come."]]
+      - ["Ich bin nach Wien gefahren.", "schon passiert", ["jetzt", "schon passiert"]]
+      - ["Lena wird Ärztin.", "Lena is going to be a doctor.", ["Lena is a doctor now.", "Lena is going to be a doctor."]]
+      - ["Ich hätte gern einen Hund.", "Wunsch", ["Realität", "Wunsch"]]
+      - ["Mir gefällt die Band.", "I like the band.", ["I like the band.", "The band likes me."]]
+  aff:
+    directions: "Was hat dir dieses Jahr gefallen?"
+    options: ["Super!", "Na ja."]
+    items:
+      - "der Sketch an Weihnachten"
+      - "die Stiefel-Rallye am Nikolaustag"
+      - "die Debatte über Handys"
+      - "der Stadtplan mit Partner"
+      - "die Ostereiersuche"
+
+task:
+  title: "Unser Auftritt (our performance for the Abschlussfeier)"
+  format: "Groups: plan, write, rehearse"
+  directions: "Next week is the Abschlussfeier. In groups of four or five, prepare a two- to three-minute performance in German: a skit, a song, a poem or a short Was-wir-gelernt-haben show. Plan it with the chart, write your script or lyrics, rehearse it twice, and get feedback from another group with the checklist. Everyone speaks or sings at least two lines in German."
+  a1: "Short, clear lines are best. Recycle phrases from any week of the year."
+  b1: "Build in at least three of the year's grammar patterns (a Perfekt sentence, a weil-clause, a Konjunktiv II wish ...) and write the welcome or thank-you lines for the audience."
+  tables:
+    - title: "Planung (planning)"
+      head: ["Frage", "Antwort"]
+      rows:
+        - ["Was machen wir? (Sketch, Lied, Gedicht, Show)", ""]
+        - ["Titel", ""]
+        - ["Wer macht was?", ""]
+        - ["Was brauchen wir? (Requisiten, Musik)", ""]
+        - ["Wie lang? (2–3 Minuten)", ""]
+    - title: "Feedback-Checkliste (for the other group)"
+      head: ["Kriterium", "Ja", "Fast", "Noch nicht"]
+      rows:
+        - ["Alle sprechen laut und deutlich.", "", "", ""]
+        - ["Niemand liest nur vom Blatt.", "", "", ""]
+        - ["Das Publikum versteht die Geschichte.", "", "", ""]
+        - ["Alle sagen mindestens zwei Sätze auf Deutsch.", "", "", ""]
+        - ["Der Auftritt dauert 2–3 Minuten.", "", "", ""]
+    - title: "Unser Tipp für die andere Gruppe"
+      head: ["Ihr könntet noch ..."]
+      blank: 1
+
+output:
+  a1: "Write five sentences: Dieses Jahr habe ich ___ gelernt. Am besten hat mir ___ gefallen. Am schwierigsten war ___. Jetzt kann ich ___. Nächstes Jahr möchte ich ___. Read them to a partner. They answer with one sentence of their own."
+  b1: "Write a letter (6–8 sentences, du-form) to a student who will join the class next year: what to expect, what was hardest, your best tip for learning German, and one piece of advice (Ich würde dir raten, ...). Your partner reads it and adds one more tip."
+
+landeskunde:
+  title: "Abitur, Abiball, Abistreich"
+  text: |
+    German high school ends differently from American high school. Gymnasium students finish with the Abitur, a series of final exams in four or five subjects spread over several weeks. The overall grade, from 1.0 (best) to 4.0, can decide whether you get into a competitive university program such as medicine. There are no caps and gowns. Instead, students celebrate at the Abiball, a formal dinner and dance with parents and teachers, often in a rented hall.
+
+    In the last days of school, seniors play an Abistreich, a prank on the school: filling the halls with balloons, turning the schoolyard into a beach, or briefly locking the teachers out. Many schools also have a Mottowoche, a week when seniors dress up according to a different theme each day.
+  warum: "Germany marks the end of school with a demanding exam, a prank and a formal ball, but no caps and gowns. What does that mix say about how Germans see school and growing up?"
+  vergleich: "Compare the Abiball and Abistreich with US graduation, prom and senior pranks. Which German tradition would you most like to borrow?"
+
+exit:
+  a1: "Ich kann sagen, was ich dieses Jahr gelernt habe."
+  b1: "Ich kann über meinen Lernfortschritt reflektieren und einen Auftritt präsentieren."
+
+energizer:
+  title: "Großes Jahres-Quiz (year-in-review game)"
+  text: "Jeopardy-style on the board: categories are themes from the year (Essen, Feste, Stadt, Reisen, Musik), 100 to 500 points each. Teams pick a category and a value; the instructor reads a question in German (Wann ist Nikolaustag? Wie heißt die Hauptstadt von Österreich? Was ist Pfand?). Correct answers in German score the points."
+
+extension:
+  title: "Brief an mein zukünftiges Ich (a letter to my future self)"
+  intro: "Lies das Beispiel. Dann schreib deinen eigenen Brief."
+  text: |
+    Liebe zukünftige Mia,
+
+    heute ist der 25. April, und das Schuljahr ist fast vorbei. Ich habe dieses Jahr viel Deutsch gelernt: Ich kann jetzt über meine Hobbys sprechen, im Restaurant bestellen und sogar über Handys in der Schule diskutieren. Am schwierigsten war für mich die Wortstellung mit „weil“. Ich hoffe, dass du in fünf Jahren in Deutschland studierst oder arbeitest. Wenn nicht, ist das auch okay, aber bitte vergiss dein Deutsch nicht!
+
+    Liebe Grüße, Mia (16)
+  questions:
+    - ["Was kann Mia jetzt auf Deutsch?", "Über Hobbys sprechen, im Restaurant bestellen und über Handys in der Schule diskutieren."]
+    - ["Was war für Mia am schwierigsten?", "Die Wortstellung mit „weil“."]
+    - ["Was hofft Mia für ihre Zukunft?", "Dass sie in fünf Jahren in Deutschland studiert oder arbeitet."]
+    - ["Mia benutzt verschiedene Formen. Finde je ein Beispiel für Präsens, Perfekt und Imperativ.", "Präsens: Ich kann ... · Perfekt: Ich habe ... gelernt · Imperativ: vergiss"]
+  task: "Schreib einen Brief an dein zukünftiges Ich (8–10 Sätze): Was kannst du jetzt? Was war schwer? Was wünschst du dir (Konjunktiv II)? Your instructor can collect the letters and hand them back next year."
+
+buffer: "Revisit the Week 12 Vorsatz wall (Hast du deinen Vorsatz geschafft?), or more rehearsal time for the performances."
+
+page:
+  modules:
+    einstieg: "The year in pictures: Was haben wir da gemacht?"
+    input: "Sentence builder + narrow reading (Ella & Sam, Noor & Frau Schneider) + Jahres-Quiz"
+    kernaufgabe: "Unser Auftritt: plan, write and rehearse for the Abschlussfeier"
+    landeskunde: "Abitur, Abiball, Abistreich"
+    energizer: "Großes Jahres-Quiz (Jeopardy)"
+    extension: "Brief an mein zukünftiges Ich"
+    buffer: "Vorsatz wall from Week 12, or more rehearsal"
+  einstieg: "Show photos, or write a list on the board, of the year's themes in order: Willkommen, Familie, Nikolaus, Karneval, Ostern ... For each, ask *Was haben wir da gemacht?* and accept single words. End with *Was hat dir am besten gefallen?* and a quick hand vote."
+  materials:
+    - "Student packet, one per student"
+    - "Photos or a list of the year's themes for the Einstieg"
+    - "Board space for the quiz"
+    - "Optional: props for the performances"
+  summary: "Unser Auftritt. In groups of four or five, students plan, write and rehearse a two- to three-minute performance for next week's Abschlussfeier: a skit, a song, a poem or a what-we-learned show. They rehearse twice and give each other feedback with a checklist, and everyone speaks or sings at least two lines in German. A1/A2 recycle phrases from any week; B1/B2 build in at least three of the year's grammar patterns plus welcome or thank-you lines."
+  note:
+    type: important
+    text: "Last packet day. The Abschlussfeier is **May 2**, so groups should leave today with a finished script and assigned roles. If time runs short, cut the quiz and the extension first; rehearsal comes first."
+  grammar: |
+    **No new grammar: the year in six patterns.** A quick reference if a student asks *why* during rehearsal:
+
+    | Pattern | Example | Weeks |
+    | :--- | :--- | :--- |
+    | Verb second | *Am Montag **habe** ich Mathe.* | 6, 20 |
+    | Verb at the end | *..., weil ich Deutsch **lerne**.* | 1, 5, 20 |
+    | Modal + infinitive | *Ich **möchte** nach Wien **fahren**.* | 11, 14 |
+    | Perfekt | *Ich **bin** nach Berlin **gefahren**.* | 19 |
+    | Wo? vs. Wohin? | ***im** Glascontainer* vs. ***in den** Glascontainer* | 4, 13, 22, 23 |
+    | Konjunktiv II | *Ich **hätte** gern ... Ich **würde** gern ...* | 22 |
+
+    The Jahres-Quiz in the packet takes one item from each of the year's big meaning traps: first-noun order, *halb*, *muss nicht*, the Perfekt, *werden*, wish vs. fact, and *gefallen*.
+  achtung: "**What students will do:** read their lines straight off the page in rehearsal. Coach that, not grammar: the audience needs eye contact and volume more than perfect endings. Correct only what would confuse the audience. If someone freezes, agree on a group fallback (*Noch einmal, bitte!*) and restart the scene."
+  b2: "**If a B2 asks about next steps:** the AP German exam includes a spoken presentation and a source-based essay. The Week 20 and Week 23 extensions are scaled versions of that essay. Mia's letter mixes several verb forms on purpose; it's a good model for students who want to show range."
+  vocab_extra:
+    - ["die Abschlussfeier", "closing ceremony"]
+    - ["der Auftritt", "performance"]
+    - ["das Publikum", "audience"]
+    - ["die Requisiten (Pl.)", "props"]
+    - ["das Abitur", "university-entrance exam"]
+    - ["der Abiball", "graduation ball"]

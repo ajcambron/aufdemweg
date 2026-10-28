@@ -188,6 +188,8 @@ def build(nn):
     parts.append(f'<p class="format">{esc(t["format"])} (30 min)</p>')
     parts.append(paras(t["directions"]))
     parts.append(f'<div class="ws-note"><strong>A1/A2:</strong> {esc(t["a1"])}<br><strong>B1/B2:</strong> {esc(t["b1"])}</div>')
+    if t.get("intro_html"):
+        parts.append(keep(t["intro_html"]))
     for tb in t.get("tables", []):
         title = f'<p class="level">{esc(tb["title"])}</p>' if tb.get("title") else ""
         rows = [list(row) for row in tb.get("rows", [])]

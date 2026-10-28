@@ -1,0 +1,220 @@
+week: 22
+date: 2027-03-21
+date_label: "Sonntag, 21. März 2027"
+theme: "Ostern"
+cando:
+  a1: "say where something is hidden and describe Easter traditions"
+  b1b2: "express wishes and hypothetical plans with the Konjunktiv II"
+grammar_focus: "A1/A2: Wo ist das Ei? + dative (unter dem Stuhl, hinter der Tür, im Regal). B1/B2: wishes with Konjunktiv II (Ich hätte gern ... Ich würde gern ... Wenn ich Zeit hätte, würde ich ...)."
+ap:
+  unit: "AP theme: Families and Communities (celebrations) / Language and Culture"
+  mode: "Interpersonal task + presentational writing (wishes)"
+  note: "The Landeskunde links a German product (the Osterhase) to an American practice, a real cross-cultural connection students can use in an AP cultural comparison."
+
+builder:
+  - title: "Ostern (Easter)"
+    rows:
+      - ["der Osterhase / das Osterei / das Osternest", "Easter bunny / Easter egg / Easter basket"]
+      - ["Wir bemalen Eier. Wir suchen Eier.", "We paint eggs. We look for eggs."]
+      - ["Der Osterhase versteckt die Eier.", "The Easter bunny hides the eggs."]
+      - ["das Osterfeuer / der Osterbrunnen", "Easter bonfire / decorated Easter fountain"]
+      - ["Karfreitag, Ostersonntag, Ostermontag", "Good Friday, Easter Sunday, Easter Monday"]
+      - ["Frohe Ostern!", "Happy Easter!"]
+  - title: "Wo ist das Ei? + Wünsche (Where is the egg? + Wishes)"
+    rows:
+      - ["Das Ei ist unter dem Stuhl / hinter der Tür / neben dem Fenster.", "The egg is under the chair / behind the door / next to the window."]
+      - ["Das Ei liegt im Regal / auf dem Tisch / zwischen den Büchern.", "The egg is on the shelf / on the table / between the books."]
+      - ["Warm! Kalt! Heiß!", "Warm! Cold! Hot! (closer / farther / very close)"]
+      - ["Ich hätte gern ... [B1/B2]", "I would like (to have) ..."]
+      - ["Ich würde gern ... [B1/B2]", "I would like to ..."]
+      - ["Wenn ich Zeit hätte, würde ich ... [B1/B2]", "If I had time, I would ..."]
+
+vocab:
+  complete:
+    - ["Der Osterhase ___ die Eier.", "The Easter bunny hides the eggs.", "versteckt"]
+    - ["Das Ei ist ___ dem Stuhl.", "The egg is under the chair.", "unter"]
+    - ["Wir ___ Eier.", "We paint eggs.", "bemalen"]
+    - ["Das Ei liegt ___ der Tür.", "The egg is behind the door.", "hinter"]
+    - ["Frohe ___!", "Happy Easter!", "Ostern"]
+    - ["Ich ___ gern einen Osterhasen aus Schokolade.", "I would like a chocolate Easter bunny.", "hätte"]
+  match:
+    - ["verstecken", "to hide"]
+    - ["suchen", "to look for"]
+    - ["bemalen", "to paint, decorate"]
+    - ["das Nest", "nest, basket"]
+    - ["der Brunnen", "fountain, well"]
+    - ["der Frühling", "spring"]
+  match_order: [2, 5, 6, 1, 4, 3]
+  translate:
+    - ["Am Ostersonntag suchen die Kinder Eier.", "On Easter Sunday the children look for eggs."]
+    - ["Das Ei ist im Regal.", "The egg is on the shelf."]
+    - ["Wir bemalen die Eier bunt.", "We paint the eggs in bright colors."]
+    - ["Am Abend gibt es ein Osterfeuer.", "In the evening there's an Easter bonfire."]
+    - ["Der Osterhase bringt die Eier.", "The Easter bunny brings the eggs."]
+    - ["Ich würde gern nach Österreich fahren.", "I would like to go to Austria."]
+    - ["Wenn ich Zeit hätte, würde ich mehr lesen.", "If I had time, I would read more."]
+    - ["Frohe Ostern!", "Happy Easter!"]
+  letters: ["Ostern", "Osterhase", "Osterei", "verstecken", "Frühling", "Brunnen", "Nest", "Schokolade"]
+  broken:
+    - ["Der Osterhase versteckt bunte Eier.", "The Easter bunny hides colorful eggs."]
+    - ["Das Ei liegt unter dem Sofa.", "The egg is under the sofa."]
+    - ["Wir machen ein großes Osterfeuer.", "We make a big Easter bonfire."]
+    - ["Ich würde gern Ostern in Wien feiern.", "I would like to celebrate Easter in Vienna."]
+  suitable:
+    - "Das Ei ist unter ___."
+    - "Das Ei liegt hinter ___."
+    - "An Ostern esse ich gern ___."
+    - "Im Frühling ___ ich gern ___."
+    - "Ich hätte gern ___."
+    - "Ich würde gern ___."
+
+reading:
+  a1:
+    texts:
+      - ["Lotta", "Ich heiße Lotta. An Ostern bemalen wir am Samstag Eier. Am Sonntagmorgen versteckt der Osterhase die Eier im Garten. Meine kleine Schwester und ich suchen sie. Letztes Jahr war ein Ei im Blumentopf und ein Ei unter der Bank! Dann frühstücken wir alle zusammen."]
+      - ["Jakob", "Ich heiße Jakob und ich wohne in Schleswig-Holstein, im Norden. Bei uns gibt es am Ostersamstag ein großes Osterfeuer. Das ganze Dorf kommt zusammen. Wir essen Würstchen und schauen ins Feuer. Das Feuer sagt: Der Winter ist vorbei, der Frühling kommt!"]
+    questions:
+      - ["When does Lotta's family paint eggs?", "On Saturday"]
+      - ["Where were two of the eggs last year?", "In a flower pot and under the bench"]
+      - ["What happens in Jakob's village on Easter Saturday?", "There's a big Easter bonfire, and the whole village comes."]
+      - ["What does the fire mean?", "Winter is over and spring is coming."]
+  b1:
+    texts:
+      - ["Frau Heller", "In meinem Dorf in der Fränkischen Schweiz schmücken wir vor Ostern den Brunnen mit Tausenden bunten Eiern und grünen Zweigen. Das ist eine alte Tradition: Wasser war hier oben früher sehr kostbar. Heute kommen viele Touristen mit dem Bus, um die Osterbrunnen zu sehen. Ich würde mir wünschen, dass sie ein bisschen länger bleiben und nicht nur Fotos machen."]
+      - ["Laura", "In Zürich gibt es am Ostermontag einen lustigen Brauch: das Zwänzgerle. Kinder halten ein gekochtes, bemaltes Ei in der Hand, und Erwachsene versuchen, eine Münze so zu werfen, dass sie im Ei stecken bleibt. Klappt es, bekommt der Erwachsene das Ei. Wenn nicht, darf das Kind die Münze behalten. Als Kind habe ich so viel Geld verdient!"]
+    questions:
+      - ["Womit schmückt man die Brunnen in der Fränkischen Schweiz?", "Mit bunten Eiern und grünen Zweigen."]
+      - ["Warum gibt es diese Tradition?", "Weil Wasser dort früher sehr kostbar war."]
+      - ["Was wünscht sich Frau Heller von den Touristen?", "Dass sie länger bleiben und nicht nur Fotos machen."]
+      - ["Wer bekommt beim Zwänzgerle das Ei?", "Der Erwachsene, wenn die Münze im Ei stecken bleibt."]
+
+structured_input:
+  ref:
+    directions: "Realität oder Wunsch? (Fact or wish?)"
+    options: ["Realität", "Wunsch"]
+    items:
+      - ["Ich habe einen Hund.", "Realität"]
+      - ["Ich hätte gern einen Hund.", "Wunsch"]
+      - ["Wir fahren nach Österreich.", "Realität"]
+      - ["Wir würden gern nach Österreich fahren.", "Wunsch"]
+      - ["Wenn ich reich wäre, würde ich ein Haus kaufen.", "Wunsch"]
+      - ["Lena ist zu Hause.", "Realität"]
+  aff:
+    directions: "Was würdest du gern machen?"
+    options: ["Ja, gern!", "Nein, danke."]
+    items:
+      - "Ich würde gern Ostereier bemalen."
+      - "Ich hätte gern mehr Ferien."
+      - "Ich würde gern einmal Ostern in Deutschland feiern."
+      - "Ich würde gern einen Osterhasen aus Schokolade essen."
+      - "Ich hätte gern einen Garten."
+
+task:
+  title: "Ostereiersuche mit Hinweisen (egg hunt with clues)"
+  format: "Pairs: hide, write clues, swap"
+  directions: "Each pair gets three paper eggs. Hide them in the room and write one clue per egg with a preposition: Das Ei ist unter dem Stuhl neben der Tür. Swap clue sheets with another pair, find their eggs and record where each one was. Stuck? Ask Ist es warm oder kalt? The pair who hid the eggs answers Warm! / Kalt! / Heiß!"
+  a1: "Use the preposition bank: one preposition per clue."
+  b1: "Stack two prepositions per clue (Das Ei ist hinter dem Buch im Regal neben der Tür.) and give warm/cold hints as full sentences: Du bist ganz nah! Du bist zu weit links!"
+  tables:
+    - title: "Präpositionen-Bank (Wo? → dative)"
+      head: ["Präposition", "der / das-Wort", "die-Wort"]
+      rows:
+        - ["in", "im Regal", "in der Tasche"]
+        - ["auf", "auf dem Tisch", "auf der Fensterbank"]
+        - ["unter", "unter dem Stuhl", "unter der Bank"]
+        - ["hinter", "hinter dem Vorhang", "hinter der Tür"]
+        - ["neben", "neben dem Fenster", "neben der Tafel"]
+        - ["zwischen", "zwischen den Büchern (plural)", ""]
+    - title: "Unsere Hinweise (our clues)"
+      head: ["Ei", "Hinweis"]
+      rows:
+        - ["1", ""]
+        - ["2", ""]
+        - ["3", ""]
+    - title: "Gefunden! (found it)"
+      head: ["Ei", "Wo war es?", "Gefunden?"]
+      blank: 3
+
+output:
+  a1: "Write about Easter in your family, or another spring holiday you celebrate: An Ostern ___ wir ___. Wir essen ___. Ich finde das Fest ___. Read it to a partner. They say one thing that's the same or different in their family."
+  b1: "Write your Osterwünsche (5–6 sentences) with the Konjunktiv II: Wenn ich in den Ferien Zeit hätte, würde ich ... Ich hätte gern ... Ich würde gern einmal ... Your partner picks your most interesting wish and asks one question about it (Warum würdest du ...?)."
+
+landeskunde:
+  title: "Ostern in den deutschsprachigen Ländern"
+  text: |
+    Easter Monday (Ostermontag) is a day off in Germany, Austria and Switzerland, and Good Friday (Karfreitag) is a holiday across Germany too. Customs vary by region. In the north, villages light big Osterfeuer (bonfires) on Saturday night to send off winter. In Franconia, people decorate village fountains with thousands of painted eggs (Osterbrunnen). Families hang painted eggs on branches or small trees (Ostereierbaum). In Austria and Bavaria, people tap hard-boiled eggs against each other (Eierpecken), and the one whose egg doesn't crack wins.
+
+    And the Easter Bunny itself is a German invention. The Osterhase appears in German writing in the 1600s and came to America with German immigrants, especially to Pennsylvania.
+  warum: "Many Easter customs (fire, eggs, rabbits, decorated water) celebrate the end of winter. Why might spring matter so much in a place with long, dark winters?"
+  vergleich: "The Easter Bunny came to the US with German immigrants. Which other American customs might have German roots? (Hint: think about Christmas.)"
+
+exit:
+  a1: "Ich kann sagen, wo etwas ist, und Ostertraditionen beschreiben."
+  b1: "Ich kann Wünsche mit dem Konjunktiv II ausdrücken."
+
+energizer:
+  title: "Eierlauf (egg-and-spoon race)"
+  text: "Teams race carrying a hard-boiled, plastic or paper egg on a spoon. Cheer in German: Los! Schneller! Vorsicht! Langsam! At the finish line, each runner says one preposition sentence before the next one starts: Das Ei ist auf dem Löffel!"
+
+extension:
+  title: "Wünsche und Träume"
+  intro: "Lies die drei kurzen Texte. Dann beantworte die Fragen."
+  text: |
+    Emma, 17: Wenn ich ein Jahr frei hätte, würde ich mit dem Fahrrad von Deutschland bis nach Portugal fahren. Ich hätte gern mehr Abenteuer in meinem Leben.
+
+    Leon, 16: Ich würde gern in einer Großstadt wie Berlin wohnen. Wenn ich dort wohnen würde, könnte ich jeden Abend auf ein Konzert gehen.
+
+    Sara, 18: Ehrlich gesagt bin ich ziemlich zufrieden. Ich würde nur gern mehr schlafen! Wenn die Schule später beginnen würde, wäre ich viel glücklicher.
+  questions:
+    - ["Was würde Emma machen, wenn sie ein Jahr frei hätte?", "Mit dem Fahrrad von Deutschland bis nach Portugal fahren."]
+    - ["Warum würde Leon gern in Berlin wohnen?", "Er könnte jeden Abend auf ein Konzert gehen."]
+    - ["Was wünscht sich Sara?", "Mehr Schlaf, und dass die Schule später beginnt."]
+    - ["Wessen Wunsch findest du am besten? Warum?", "Open answer."]
+  task: "Schreib deinen eigenen Text (5–6 Sätze): Wenn ich ... hätte / wäre, würde ich ... Benutze mindestens dreimal den Konjunktiv II."
+
+buffer: "Egg decorating with German color words (Ich male das Ei rot und gelb.), or a second egg hunt with harder two-preposition clues."
+
+page:
+  modules:
+    einstieg: "One hidden egg: warm / kalt clues"
+    input: "Sentence builder + narrow reading (Lotta & Jakob, Frau Heller & Laura) + Achte auf die Form"
+    kernaufgabe: "Ostereiersuche mit Hinweisen: hide, write clues, swap"
+    landeskunde: "Ostern in den deutschsprachigen Ländern"
+    energizer: "Eierlauf (egg-and-spoon race)"
+    extension: "Wünsche und Träume (Konjunktiv II)"
+    buffer: "Egg decorating, or a harder egg hunt"
+  einstieg: "Before class, hide one paper egg in the room. Start with *Der Osterhase war hier! Das Ei ist hier im Zimmer.* Give clues one at a time, getting more specific: *Es ist in der Nähe vom Fenster ... Es ist unter etwas ... Es ist unter dem Stuhl!* Students call out *Warm! Kalt!* as you go until someone finds it."
+  materials:
+    - "Student packet, one per student"
+    - "Paper eggs, three per pair (cut-outs or colored paper)"
+    - "Optional: spoons and plastic or hard-boiled eggs for the race"
+  summary: "Ostereiersuche mit Hinweisen. Pairs hide three paper eggs in the room and write one clue per egg with a preposition (*Das Ei ist unter dem Stuhl neben der Tür*). They swap clue sheets with another pair, find those eggs and record where each one was. A1/A2 use one preposition per clue from the bank; B1/B2 stack two prepositions and give warm/cold hints in full sentences."
+  note:
+    type: note
+    text: "Easter Sunday is March 28, a no-school week, so the Easter class comes a week early. Not every family celebrates Easter: the output task allows any spring holiday, and the Landeskunde treats Easter as a cultural custom."
+  grammar: |
+    **A1/A2: Wo ist das Ei? (Week 4 revisited).** When the question is *Wo?* (where is it?), place prepositions take the dative:
+
+    | | der / das-words | die-words | plural |
+    | :--- | :--- | :--- | :--- |
+    | Normal | der Stuhl, das Regal | die Tür | die Bücher |
+    | Wo? | unter **dem** Stuhl, **im** Regal | hinter **der** Tür | zwischen **den** Büchern |
+
+    **B1/B2: wishes with Konjunktiv II.** Three forms do almost all the work:
+
+    | Form | Meaning | Example |
+    | :--- | :--- | :--- |
+    | ich **hätte** gern | I would like (to have) | Ich hätte gern einen Hund. |
+    | ich **würde** gern + infinitive | I would like to | Ich würde gern nach Wien fahren. |
+    | ich **wäre** | I would be | Ich wäre gern Pilotin. |
+
+    **If-sentences:** *Wenn ich Zeit **hätte**, **würde** ich mehr lesen.* The *wenn*-clause sends its verb to the end, and the main clause starts with *würde* (Week 5's verb-comma-verb pattern).
+  achtung: "**What students will do:** A1/A2 will use the dictionary article (*„unter der Stuhl“*). In a hunt, the egg still gets found, so restate it and move on. B1/B2 will build *würde* sentences but forget to put the infinitive at the end (*„Ich würde gern fahren nach Wien“*), or say *würde haben* instead of *hätte*. The Achte-auf-die-Form items check the bigger point: telling a wish from a fact."
+  b2: "**If a B2 asks:** *Ich möchte* is itself a Konjunktiv II form (of *mögen*), which is why it sounds polite. *Könnte* (could) and *sollte* (should) are the same mood. *Würde* + infinitive can stand in for almost any Konjunktiv II verb, but *hätte* and *wäre* are preferred for *haben* and *sein*."
+  vocab_extra:
+    - ["verstecken", "to hide"]
+    - ["der Brauch", "custom, tradition"]
+    - ["der Wunsch", "wish"]
+    - ["Eierpecken", "egg tapping (game)"]
+    - ["das Osterfeuer", "Easter bonfire"]
+    - ["kostbar", "precious"]

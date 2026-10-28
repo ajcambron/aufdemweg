@@ -1,0 +1,217 @@
+week: 23
+date: 2027-04-04
+date_label: "Sonntag, 4. April 2027"
+theme: "Umwelt & Nachhaltigkeit"
+cando:
+  a1: "sort trash and say where things go"
+  b1b2: "compare recycling systems and write a supported opinion"
+grammar_focus: "Wohin? → accusative: Die Flasche gehört in den Glascontainer / in die Gelbe Tonne / ins Altpapier. (Wo? → dative, as in Weeks 4 and 22.)"
+ap:
+  unit: "AP theme: Global Contexts (environment, sustainability)"
+  mode: "Interpretive reading + three-source argumentative writing"
+  note: "The program's written-opinion week. The extension is a scaled AP Argumentative Essay with a local twist: Delaware's own repealed bottle bill."
+
+builder:
+  - title: "Wohin gehört das? (Where does it go?)"
+    rows:
+      - ["Die Flasche gehört in den Glascontainer.", "The bottle goes in the glass container."]
+      - ["Der Joghurtbecher gehört in die Gelbe Tonne.", "The yogurt cup goes in the yellow bin (packaging)."]
+      - ["Die Zeitung gehört ins Altpapier, in die Blaue Tonne.", "The newspaper goes in paper recycling, the blue bin."]
+      - ["Die Bananenschale gehört in die Biotonne.", "The banana peel goes in the compost bin."]
+      - ["Das gehört in den Restmüll.", "That goes in the general trash."]
+      - ["Die Plastikflasche bringe ich zurück: Pfand!", "I take the plastic bottle back: deposit!"]
+  - title: "Umwelt (Environment)"
+    rows:
+      - ["der Müll / den Müll trennen", "trash / to sort the trash"]
+      - ["die Umwelt schützen", "to protect the environment"]
+      - ["Energie / Wasser sparen", "to save energy / water"]
+      - ["mit dem Fahrrad fahren statt mit dem Auto", "to bike instead of drive"]
+      - ["Plastik vermeiden / wiederverwenden", "to avoid plastic / to reuse"]
+      - ["Man sollte ... / Wir müssen ... [B1/B2]", "One should ... / We must ..."]
+
+vocab:
+  complete:
+    - ["Die Flasche gehört in ___ Glascontainer.", "The bottle goes in the glass container.", "den"]
+    - ["Die Zeitung gehört ins ___.", "The newspaper goes in paper recycling.", "Altpapier"]
+    - ["In Deutschland ___ man den Müll.", "In Germany people sort their trash.", "trennt"]
+    - ["Auf die Plastikflasche gibt es 25 Cent ___.", "There's a 25-cent deposit on the plastic bottle.", "Pfand"]
+    - ["Wir müssen die Umwelt ___.", "We must protect the environment.", "schützen"]
+    - ["Man sollte mehr Wasser ___.", "One should save more water.", "sparen"]
+  match:
+    - ["der Müll", "trash"]
+    - ["das Pfand", "deposit"]
+    - ["die Tonne", "bin"]
+    - ["trennen", "to separate, sort"]
+    - ["sparen", "to save"]
+    - ["die Dose", "can"]
+  match_order: [6, 1, 4, 2, 3, 5]
+  translate:
+    - ["Wir trennen den Müll.", "We sort our trash."]
+    - ["Die Dose gehört in die Gelbe Tonne.", "The can goes in the yellow bin."]
+    - ["Ich bringe die Flaschen zurück.", "I take the bottles back."]
+    - ["Auf die Flasche gibt es Pfand.", "There's a deposit on the bottle."]
+    - ["Man sollte weniger Plastik kaufen.", "One should buy less plastic."]
+    - ["Ich fahre mit dem Fahrrad zur Schule.", "I ride my bike to school."]
+    - ["Die Umwelt ist mir wichtig.", "The environment is important to me."]
+    - ["Das gehört in den Restmüll.", "That goes in the general trash."]
+  letters: ["Umwelt", "Müll", "Pfand", "Flasche", "Tonne", "trennen", "Altpapier", "Plastik"]
+  broken:
+    - ["Die Flasche gehört in den Glascontainer.", "The bottle goes in the glass container."]
+    - ["In Deutschland trennt man den Müll.", "In Germany people sort their trash."]
+    - ["Ich bringe die Dose in den Supermarkt.", "I take the can to the supermarket."]
+    - ["Wir müssen die Umwelt schützen.", "We must protect the environment."]
+  suitable:
+    - "___ gehört in die Biotonne."
+    - "___ gehört in den Glascontainer."
+    - "Ich spare Energie, wenn ich ___."
+    - "Man sollte weniger ___."
+    - "Für die Umwelt mache ich ___."
+    - "Ich finde Mülltrennung ___."
+
+reading:
+  a1:
+    texts:
+      - ["Paul", "Ich heiße Paul und ich wohne in Freiburg. Bei uns zu Hause haben wir vier Mülltonnen: eine für Papier, eine für Plastik, eine für Bio und eine für Restmüll. Glasflaschen bringen wir zum Glascontainer. Ich finde das ein bisschen kompliziert, aber es ist gut für die Umwelt."]
+      - ["Maya", "Ich heiße Maya und ich wohne in Delaware. Bei uns gibt es nur zwei Tonnen: Müll und Recycling. Papier, Plastik und Dosen kommen zusammen in die Recyclingtonne. Meine Familie kauft viel Wasser in Plastikflaschen. Vielleicht kaufe ich jetzt eine Trinkflasche."]
+    questions:
+      - ["How many trash bins does Paul's family have?", "Four: paper, plastic, compost and general trash"]
+      - ["What does Paul think about sorting trash?", "A bit complicated, but good for the environment"]
+      - ["How many bins does Maya's family have?", "Two: trash and recycling"]
+      - ["What might Maya buy now?", "A reusable water bottle"]
+  b1:
+    texts:
+      - ["Herr Koch", "Ich bin Umweltberater. In Deutschland gibt es seit 2003 ein Pfandsystem. Auf fast jede Einwegflasche aus Plastik und jede Dose zahlt man 25 Cent Pfand. Wenn man die Flasche im Supermarkt in den Pfandautomaten steckt, bekommt man das Geld zurück. Das funktioniert sehr gut: Fast alle Pfandflaschen kommen zurück. Deshalb sieht man kaum Dosen und Flaschen auf der Straße."]
+      - ["Svenja", "Ich finde Mülltrennung wichtig, aber sie löst das Problem nicht. Auch in Deutschland produzieren wir sehr viel Verpackungsmüll, und ein großer Teil vom Plastik wird verbrannt statt recycelt. Besser wäre es, weniger zu kaufen. Ich gehe deshalb oft in einen Unverpackt-Laden. Dort bringe ich meine eigenen Gläser und Dosen mit."]
+    questions:
+      - ["Wie viel Pfand zahlt man auf eine Einwegflasche oder eine Dose?", "25 Cent."]
+      - ["Wie bekommt man das Geld zurück?", "Man steckt die Flasche im Supermarkt in den Pfandautomaten."]
+      - ["Warum löst Mülltrennung das Problem laut Svenja nicht?", "Es gibt sehr viel Verpackungsmüll, und viel Plastik wird verbrannt statt recycelt."]
+      - ["Was macht Svenja im Unverpackt-Laden?", "Sie bringt ihre eigenen Gläser und Dosen mit."]
+
+structured_input:
+  ref:
+    directions: "Wo ist es, oder wohin kommt es? (Where is it, or where is it going?)"
+    options: ["Wo? (ist dort)", "Wohin? (kommt dorthin)"]
+    items:
+      - ["Ich werfe die Dose in den Gelben Sack.", "Wohin? (kommt dorthin)"]
+      - ["Die Zeitung liegt im Altpapier.", "Wo? (ist dort)"]
+      - ["Die Bananenschale kommt in die Biotonne.", "Wohin? (kommt dorthin)"]
+      - ["Die Flaschen sind schon im Glascontainer.", "Wo? (ist dort)"]
+      - ["Bring die Flasche in den Supermarkt!", "Wohin? (kommt dorthin)"]
+      - ["Der Mülleimer steht in der Küche.", "Wo? (ist dort)"]
+  aff:
+    directions: "Wie ist es bei dir?"
+    options: ["Stimmt", "Stimmt nicht"]
+    items:
+      - "Bei uns zu Hause trennen wir den Müll."
+      - "Ich kaufe Wasser in Plastikflaschen."
+      - "Ich habe eine eigene Trinkflasche."
+      - "Recycling ist mir wichtig."
+      - "Ich finde Mülltrennung zu kompliziert."
+
+task:
+  title: "Müll-Sortier-Wettbewerb (trash-sorting challenge)"
+  format: "Small groups: sort, compare, decide"
+  directions: "In groups of three, sort the 12 items into the German disposal system below: write each item in the right column. Then compare with another group (Wohin gehört der Joghurtbecher?). Where you disagree, decide together. Finally, write one recommendation for DSB Hall: Wir sollten ..."
+  a1: "Say and write: Die Zeitung gehört in die Blaue Tonne. Use the bin names as printed."
+  b1: "Justify the tricky items (Der Pizzakarton gehört ins Altpapier, weil er sauber ist.) and compare with home: Bei uns gehört der Joghurtbecher in ..., in Deutschland aber in ..."
+  key: "Gelbe Tonne: Joghurtbecher, Milchkarton · Blaue Tonne: Zeitung, Pizzakarton (sauber) · Biotonne: Bananenschale, Teebeutel, Eierschalen · Glascontainer: Glasflasche (Saft) · Restmüll: kaputter Teller, alte Zahnbürste · Pfand: Coladose, Plastikflasche. Rules vary a little by town."
+  tables:
+    - title: "Die 12 Sachen (the 12 items)"
+      head: ["Sache", "Sache", "Sache"]
+      rows:
+        - ["die Glasflasche (Saft)", "der Joghurtbecher", "die Zeitung"]
+        - ["die Bananenschale", "die Coladose (Pfand)", "der Pizzakarton (sauber)"]
+        - ["die Plastikflasche (Pfand)", "der Teebeutel", "der Milchkarton"]
+        - ["der kaputte Teller", "die Eierschalen", "die alte Zahnbürste"]
+    - title: "Wohin gehört das? (Where does it go?)"
+      head: ["Gelbe Tonne (Verpackung)", "Blaue Tonne (Papier)", "Biotonne", "Glascontainer", "Restmüll", "Pfand: zurück in den Supermarkt"]
+      blank: 3
+    - title: "Unsere Empfehlung für DSB Hall (our recommendation)"
+      head: ["Wir sollten ..."]
+      blank: 2
+
+output:
+  a1: "Write three sentences about what your family does for the environment and one thing you'll start doing: Wir trennen ___. Ich fahre ___. Ich werde ___. Read them to a partner. They say Gute Idee! or Das mache ich auch!"
+  b1: "Write an opinion paragraph (6–8 sentences): Sollte es in den USA überall ein Pfandsystem wie in Deutschland geben? Include a claim, two reasons, one counterargument and a conclusion, with at least one fact from the readings. Your partner marks your claim and your fact and gives one counterargument you didn't consider."
+
+landeskunde:
+  title: "Ordnung im Müll: Pfand und Mülltrennung"
+  text: |
+    Germans sort their trash into five or six streams: paper (blue bin), packaging (yellow bin or yellow bag), compost (the Biotonne), general trash (Restmüll), and glass, which goes into neighborhood containers sorted by color: white, green and brown. Bins are emptied on a fixed schedule, and sorting badly can earn you a note from the landlord or the neighbors.
+
+    Then there's Pfand. Since 2003, almost every single-use plastic bottle and can carries a 25-cent deposit. Supermarkets have machines (Pfandautomaten) that take the empties and print a receipt you exchange for cash. Return rates are extremely high, and collecting bottles is so normal that many people leave their empties next to public trash cans for others to collect.
+  warum: "Sorting trash takes time and attention. Why would a whole country accept that effort? What does it say about German attitudes toward order and the environment?"
+  vergleich: "Delaware had a bottle deposit until 2010, and about ten US states still have one. Why might some states keep it while others drop it?"
+
+exit:
+  a1: "Ich kann sagen, wohin der Müll gehört."
+  b1: "Ich kann Recycling-Systeme vergleichen und meine Meinung schriftlich begründen."
+
+energizer:
+  title: "Müll-Staffel (trash relay)"
+  text: "Put six bin labels on the board. Teams get word or picture cards of trash items. One runner at a time grabs a card, says Der Teebeutel gehört in die Biotonne! and tapes it under the right bin. The team with the most correct items wins."
+
+extension:
+  title: "Pfand für Delaware? (AP-Training)"
+  intro: "Lies die zwei Quellen und die Tabelle. Dann schreib einen argumentativen Text."
+  text: |
+    Quelle 1 (Umweltorganisation): Ein Pfandsystem reduziert den Müll in der Natur deutlich. In Ländern mit Pfand kommen fast alle Flaschen und Dosen zurück, und das Material kann sauber recycelt werden.
+
+    Quelle 2 (Handelsverband): Ein Pfandsystem ist teuer. Geschäfte brauchen Automaten und Platz, und die Kunden müssen die Flaschen zurückbringen. Moderne Recyclinganlagen können auch ohne Pfand viel Material sortieren.
+
+    Quelle 3: siehe Tabelle (gerundete Beispielwerte).
+  table:
+    head: ["Quelle 3: Wie viele Getränkeverpackungen kommen zurück?", "ca."]
+    rows:
+      - ["mit Pfandsystem", "98 %"]
+      - ["ohne Pfandsystem", "35 %"]
+  questions:
+    - ["Was ist laut Quelle 1 der Vorteil von Pfand?", "Weniger Müll in der Natur; fast alle Flaschen und Dosen kommen zurück und werden sauber recycelt."]
+    - ["Was kritisiert Quelle 2?", "Pfand ist teuer: Geschäfte brauchen Automaten und Platz, und Kunden müssen die Flaschen zurückbringen."]
+    - ["Was zeigt die Tabelle?", "Mit Pfand kommen viel mehr Verpackungen zurück (ca. 98 % gegenüber ca. 35 %)."]
+    - ["Welche Quelle findest du am überzeugendsten? Warum?", "Open answer."]
+  task: "Schreib einen argumentativen Text (8–10 Sätze): Sollte Delaware wieder ein Pfandsystem einführen? Benutze alle drei Quellen, nenne sie jedes Mal (Laut Quelle 2 ...) und ordne deinen Text nach Argumenten, nicht nach Quellen."
+
+buffer: "Upcycling pitch: groups design a new product from one piece of trash and pitch it in three sentences, or a second sorting round with items students suggest."
+
+page:
+  modules:
+    einstieg: "Trash-bag reveal: Was ist das? Wohin gehört das?"
+    input: "Sentence builder + narrow reading (Paul & Maya, Herr Koch & Svenja) + Achte auf die Form"
+    kernaufgabe: "Müll-Sortier-Wettbewerb: sort, compare, recommend"
+    landeskunde: "Ordnung im Müll: Pfand und Mülltrennung"
+    energizer: "Müll-Staffel (trash relay)"
+    extension: "Pfand für Delaware? (three-source essay)"
+    buffer: "Upcycling pitch, or another sorting round"
+  einstieg: "Bring a bag of clean trash: a bottle, a can, a yogurt cup, a newspaper, a banana peel (or pictures of them). Pull items out one at a time: *Was ist das? Eine Dose!* Then ask *Wohin gehört das, glaubst du?* Let students guess and don't correct yet; the Kernaufgabe will settle it."
+  materials:
+    - "Student packet, one per student"
+    - "A bag of clean trash items, or pictures, for the Einstieg"
+    - "Optional: six bin labels for the board (energizer)"
+  summary: "Müll-Sortier-Wettbewerb. In groups of three, students sort twelve everyday items into the German disposal system, then compare with another group and settle disagreements in German (*Wohin gehört der Joghurtbecher?*). Each group ends with one recommendation for DSB Hall. A1/A2 write *Die Zeitung gehört in die Blaue Tonne*; B1/B2 justify the tricky items with *weil* and compare with their home system."
+  note:
+    type: note
+    text: "The answer key follows the most common German rules, but details vary by town: some cities use a yellow bag instead of a yellow bin, and some don't accept tea bags in the compost. If a student knows a different local rule, that's a good discussion, not an error."
+  grammar: |
+    **Wohin? takes the accusative.** Several weeks this year used *Wo?* + dative (where something *is*). When something *moves* somewhere, the same prepositions take the accusative:
+
+    | | der-words | das-words | die-words |
+    | :--- | :--- | :--- | :--- |
+    | Wo? (is there) | **im** Glascontainer | **im** Altpapier | **in der** Tonne |
+    | Wohin? (goes there) | **in den** Glascontainer | **ins** Altpapier | **in die** Tonne |
+
+    *ins* = *in das*. The masculine and feminine forms show the switch most clearly: *im → in den*, *in der → in die*.
+
+    **gehören in** (to belong in) is a *Wohin?* verb: *Die Flasche **gehört in den** Glascontainer.*
+
+    **B1/B2 opinions:** *Man sollte ...* (one should), *Wir müssen ...* (we must), plus Week 20's connectors.
+  achtung: "**What students will do:** mix up *Wo?* and *Wohin?*: *„Die Flasche gehört im Glascontainer.“* The meaning is clear in context, so restate it. The Achte-auf-die-Form items train the distinction underneath: does the sentence say where something *is* or where it's *going*? That's exactly the difference between *dem* and *den*."
+  b2: "**If a B2 asks:** the prepositions that switch (*in, an, auf, über, unter, vor, hinter, neben, zwischen*) are called *Wechselpräpositionen*: dative for location, accusative for direction. Germany's 25-cent single-use deposit dates from 2003; Delaware repealed its bottle bill in 2010. Quelle 3's numbers are rounded examples."
+  vocab_extra:
+    - ["die Mülltrennung", "trash sorting"]
+    - ["der Pfandautomat", "bottle-return machine"]
+    - ["die Verpackung", "packaging"]
+    - ["recyceln", "to recycle"]
+    - ["der Unverpackt-Laden", "zero-waste store"]
+    - ["die Nachhaltigkeit", "sustainability"]

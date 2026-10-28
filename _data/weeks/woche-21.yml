@@ -1,0 +1,208 @@
+week: 21
+date: 2027-03-14
+date_label: "Sonntag, 14. März 2027"
+theme: "Deutschland-Kunde"
+cando:
+  a1: "say where German-speaking cities are and what they're known for"
+  b1b2: "compare regions of the German-speaking world, including how people speak"
+grammar_focus: "Where things are: im Norden / im Süden / im Osten / im Westen, in der Mitte; am Rhein, an der Elbe; in der Nähe von."
+ap:
+  unit: "AP theme: Language and Culture (dialects, regional identity) / Global Contexts"
+  mode: "Interpretive reading (jigsaw) + spoken cultural comparison"
+  note: "The extension's 40-second comparison of regional vocabulary is a ready-made AP Q&A rehearsal: a product (a word) linked to a perspective (regional identity)."
+
+builder:
+  - title: "Wo liegt das? (Where is it?)"
+    rows:
+      - ["Hamburg liegt im Norden.", "Hamburg is in the north."]
+      - ["München liegt im Süden, in Bayern.", "Munich is in the south, in Bavaria."]
+      - ["Dresden liegt im Osten. Köln liegt im Westen.", "Dresden is in the east. Cologne is in the west."]
+      - ["Frankfurt liegt in der Mitte von Deutschland.", "Frankfurt is in the middle of Germany."]
+      - ["Köln liegt am Rhein. Hamburg liegt an der Elbe.", "Cologne is on the Rhine. Hamburg is on the Elbe."]
+      - ["in der Nähe von Berlin / von den Alpen", "near Berlin / near the Alps"]
+      - ["Die Hauptstadt von Österreich ist Wien.", "The capital of Austria is Vienna."]
+  - title: "Länder und Regionen (Countries and regions)"
+    rows:
+      - ["Deutschland hat 16 Bundesländer.", "Germany has 16 states."]
+      - ["das Bundesland / die Landeshauptstadt", "state / state capital"]
+      - ["die Nordsee, die Ostsee, die Alpen", "the North Sea, the Baltic Sea, the Alps"]
+      - ["der Rhein, die Elbe, die Donau", "the Rhine, the Elbe, the Danube"]
+      - ["Moin! / Grüß Gott! / Servus! / Grüezi!", "Hello! (north / south / Bavaria and Austria / Switzerland)"]
+      - ["das Brötchen / die Semmel / die Schrippe / das Weckle", "bread roll (standard / Bavaria and Austria / Berlin / Swabia)"]
+
+vocab:
+  complete:
+    - ["Hamburg liegt im ___.", "Hamburg is in the north.", "Norden"]
+    - ["Köln liegt am ___.", "Cologne is on the Rhine.", "Rhein"]
+    - ["Deutschland hat 16 ___.", "Germany has 16 states.", "Bundesländer"]
+    - ["Die Hauptstadt von Österreich ist ___.", "The capital of Austria is Vienna.", "Wien"]
+    - ["In Bayern sagt man: Grüß ___!", "In Bavaria people say: Grüß Gott!", "Gott"]
+    - ["München liegt in der Nähe ___ den Alpen.", "Munich is near the Alps.", "von"]
+  match:
+    - ["der Norden", "north"]
+    - ["der Süden", "south"]
+    - ["der Osten", "east"]
+    - ["der Westen", "west"]
+    - ["die Hauptstadt", "capital"]
+    - ["der Fluss", "river"]
+  match_order: [2, 4, 1, 6, 3, 5]
+  translate:
+    - ["Berlin ist die Hauptstadt von Deutschland.", "Berlin is the capital of Germany."]
+    - ["Dresden liegt im Osten an der Elbe.", "Dresden is in the east, on the Elbe."]
+    - ["Die Alpen sind im Süden.", "The Alps are in the south."]
+    - ["Bern ist die Hauptstadt der Schweiz.", "Bern is the capital of Switzerland."]
+    - ["In Hamburg sagt man Moin.", "In Hamburg people say Moin."]
+    - ["Bayern ist das größte Bundesland.", "Bavaria is the largest state."]
+    - ["Die Donau fließt durch Wien.", "The Danube flows through Vienna."]
+    - ["Ich möchte an die Ostsee fahren.", "I'd like to go to the Baltic Sea."]
+  letters: ["Bundesland", "Hauptstadt", "Norden", "Osten", "Alpen", "Nordsee", "Rhein", "Schweiz"]
+  broken:
+    - ["München liegt im Süden von Deutschland.", "Munich is in the south of Germany."]
+    - ["Hamburg hat einen großen Hafen.", "Hamburg has a big port."]
+    - ["Köln ist bekannt für den Dom.", "Cologne is known for its cathedral."]
+    - ["In Wien gibt es viele Kaffeehäuser.", "Vienna has many coffeehouses."]
+  suitable:
+    - "___ liegt im Norden."
+    - "___ liegt im Süden."
+    - "Ich möchte ___ besuchen, weil ___."
+    - "Die Hauptstadt von ___ ist ___."
+    - "___ ist bekannt für ___."
+    - "In ___ sagt man ___."
+
+reading:
+  a1:
+    texts:
+      - ["Jan", "Moin! Ich heiße Jan und ich wohne in Hamburg. Hamburg liegt im Norden, an der Elbe. Hamburg hat einen großen Hafen mit vielen Schiffen. Die Nordsee ist nicht weit. Hier regnet es oft, aber ich mag meine Stadt!"]
+      - ["Vroni", "Servus! Ich heiße Veronika, aber alle sagen Vroni. Ich wohne in München. München liegt im Süden, in Bayern. In der Nähe sind die Alpen. Im Winter fahren wir Ski, und im Sommer wandern wir in den Bergen. Bei uns sagt man Semmel, nicht Brötchen!"]
+    questions:
+      - ["Where is Hamburg?", "In the north, on the Elbe"]
+      - ["What does Hamburg have?", "A big port with many ships"]
+      - ["What is near Munich?", "The Alps"]
+      - ["What word does Vroni use for a bread roll?", "Semmel"]
+  b1:
+    texts:
+      - ["Dr. Lorenz", "Ich bin Sprachwissenschaftlerin. Deutsch klingt nicht überall gleich. Im Norden sagt man „Moin“, im Süden „Grüß Gott“ oder „Servus“. Für ein einfaches Brötchen gibt es über zehn regionale Wörter. In der Schweiz spricht man im Alltag Schweizerdeutsch, das viele Deutsche kaum verstehen. Geschrieben wird aber überall Hochdeutsch. Dialekte sind ein Teil der regionalen Identität, und viele junge Leute sind wieder stolz darauf."]
+      - ["Mehmet", "Ich wohne in Berlin, und hier ist alles gemischt: Menschen aus der ganzen Welt und aus allen Bundesländern. Berlin war bis 1990 in Ost und West geteilt. Mein Vater ist in Ost-Berlin geboren, meine Mutter in Istanbul. Ich sage manchmal „ick“ statt „ich“, wie echte Berliner. Für mich ist Berlin nicht typisch deutsch, sondern einfach Berlin."]
+    questions:
+      - ["Wie grüßt man im Norden und im Süden?", "Im Norden „Moin“, im Süden „Grüß Gott“ oder „Servus“."]
+      - ["Was spricht man in der Schweiz im Alltag?", "Schweizerdeutsch."]
+      - ["Wie war Berlin bis 1990?", "In Ost und West geteilt."]
+      - ["Was sagt Mehmet manchmal statt „ich“?", "„Ick“, wie echte Berliner."]
+
+structured_input:
+  ref:
+    directions: "Welche Stadt ist das? (Which city is it?)"
+    items:
+      - ["Diese Stadt liegt im Norden, an der Elbe. Sie hat einen großen Hafen.", "Hamburg", ["Hamburg", "München"]]
+      - ["Diese Stadt liegt im Süden, in Bayern, in der Nähe von den Alpen.", "München", ["Köln", "München"]]
+      - ["Diese Stadt liegt im Westen, am Rhein. Sie hat einen berühmten Dom.", "Köln", ["Köln", "Dresden"]]
+      - ["Diese Stadt liegt im Osten, an der Elbe, in Sachsen.", "Dresden", ["Frankfurt", "Dresden"]]
+      - ["Diese Stadt ist die Hauptstadt von Österreich und liegt an der Donau.", "Wien", ["Wien", "Zürich"]]
+      - ["Diese Stadt liegt in der Mitte, am Main, und hat viele Banken.", "Frankfurt", ["Bremen", "Frankfurt"]]
+  aff:
+    directions: "Wohin möchtest du?"
+    options: ["Ja, gern!", "Eher nicht."]
+    items:
+      - "Ich möchte in den Alpen wandern."
+      - "Ich möchte an der Nordsee Urlaub machen."
+      - "Ich möchte Berlin besuchen."
+      - "Ich möchte in einer kleinen Stadt wohnen."
+      - "Ich möchte in Österreich oder in der Schweiz studieren."
+
+task:
+  title: "Deutschland-Puzzle (region jigsaw)"
+  format: "Group jigsaw, groups of four"
+  directions: "Each person reads ONE region card: Norden, Süden, Osten or Westen. Explain your region to the group in German and point to it on the class map while the others fill in the chart. Then plan a one-week trip together: three stops in three different regions, with a reason for each stop."
+  a1: "Short answers in the chart are fine: Hamburg. Die Elbe. Moin!"
+  b1: "Give each stop a reason with weil, and compare two regions with während: Im Süden gibt es Berge, während der Norden flach ist."
+  tables:
+    - title: "Die vier Regionen"
+      head: ["Norden", "Süden", "Osten", "Westen"]
+      rows:
+        - ["Städte: Hamburg, Bremen, Kiel. Wasser: die Nordsee, die Ostsee, die Elbe. Bekannt für: Häfen, Schiffe, Fischbrötchen, Leuchttürme. Gruß: Moin! Das Wetter ist oft windig und regnerisch.", "Städte: München, Stuttgart, Nürnberg. Landschaft: die Alpen, der Bodensee, der Schwarzwald. Bekannt für: Autos (Stuttgart), das Oktoberfest, Brezeln, Schlösser wie Neuschwanstein. Gruß: Grüß Gott! oder Servus!", "Städte: Berlin, Dresden, Leipzig. Wasser: die Elbe, die Spree. Bekannt für: Geschichte (die Berliner Mauer bis 1989), Musik (Bach in Leipzig), die Frauenkirche in Dresden. In Berlin sagt man ick statt ich.", "Städte: Köln, Düsseldorf, Bonn; Frankfurt in der Mitte. Wasser: der Rhein. Bekannt für: den Kölner Dom, Karneval, Weinberge am Rhein, Banken in Frankfurt. Gruß: Hallo! oder Tach!"]
+    - title: "Vergleich (comparison chart)"
+      head: ["", "Norden", "Süden", "Osten", "Westen"]
+      rows:
+        - ["Städte", "", "", "", ""]
+        - ["Wasser / Landschaft", "", "", "", ""]
+        - ["Bekannt für", "", "", "", ""]
+        - ["Gruß / Sprache", "", "", "", ""]
+    - title: "Unsere Reise (our trip)"
+      head: ["Stopp", "Wo? (Stadt, Region)", "Warum?"]
+      rows:
+        - ["1", "", ""]
+        - ["2", "", ""]
+        - ["3", "", ""]
+
+output:
+  a1: "Write a postcard from one German-speaking city without naming it: Ich bin in ___. Die Stadt liegt im ___. Hier gibt es ___. Man sagt ___. Read it to a partner; they guess the city."
+  b1: "Write a short comparison (5–6 sentences) of two German-speaking regions or cities: location, landscape, what they're known for and how people greet each other. End with which one you'd rather visit and why. Your partner adds one fact you didn't mention."
+
+landeskunde:
+  title: "16 Länder, viele Identitäten"
+  text: |
+    Germany is a federal republic of 16 states (Bundesländer), and each one runs its own schools, police and cultural life. That's why school vacations, school types and even the number of years of high school differ from state to state (remember Week 6). Three of the states are just cities: Berlin, Hamburg and Bremen.
+
+    Regional identity is strong. Many people feel Bavarian, Saxon or Hamburgian first and German second, and dialect tells others where you're from. German is also the main language of Austria and Liechtenstein, one of four national languages of Switzerland, and an official language in Luxembourg, in a small region of eastern Belgium and in South Tyrol in northern Italy.
+  warum: "Germany only became one country in 1871 and was divided again from 1949 to 1990. How might that history explain why regions and states matter so much?"
+  vergleich: "How strong is state identity in the US? Do you feel more Delawarean or more American? Which words or accents mark regions here (soda or pop)?"
+
+exit:
+  a1: "Ich kann sagen, wo deutsche Städte liegen und wofür sie bekannt sind."
+  b1: "Ich kann Regionen vergleichen und über Dialekte sprechen."
+
+energizer:
+  title: "Stadt-Land-Fluss"
+  text: "The classic German word game. Call out a letter; students write a city (Stadt), a country (Land) and a river (Fluss) starting with it as fast as they can (B: Bremen, Belgien, ...). The first to finish shouts Stopp! Unique answers score 10 points, shared ones 5. Add a food column if it's too easy."
+
+extension:
+  title: "Ein Ding, viele Wörter: das Brötchen"
+  intro: "Lies den Text und beantworte die Fragen."
+  text: "Wenn man in Deutschland beim Bäcker ein Brötchen kaufen will, muss man aufpassen. In Berlin heißt es Schrippe, in Bayern und Österreich Semmel, in Schwaben Weckle und im Saarland Weck. In Hamburg sagt man Rundstück. Wer mit dem „falschen“ Wort bestellt, bekommt trotzdem sein Brötchen, aber die Verkäuferin weiß sofort: Du bist nicht von hier. Sprachforscher sammeln solche Wörter auf Karten, zum Beispiel im „Atlas zur deutschen Alltagssprache“. Viele dieser Wörter werden seltener, weil große Bäckereiketten überall „Brötchen“ auf ihre Schilder schreiben."
+  questions:
+    - ["Wie heißt ein Brötchen in Berlin, in Bayern und in Hamburg?", "Schrippe, Semmel und Rundstück."]
+    - ["Was passiert, wenn man das „falsche“ Wort benutzt?", "Man bekommt das Brötchen trotzdem, aber die Verkäuferin weiß, dass man nicht von hier ist."]
+    - ["Was sammeln Sprachforscher im „Atlas zur deutschen Alltagssprache“?", "Regionale Wörter, auf Karten."]
+    - ["Warum werden viele dieser Wörter seltener?", "Weil Bäckereiketten überall „Brötchen“ schreiben."]
+  task: "Kulturvergleich, 40 Sekunden, mündlich: Welche Wörter sind in den USA regional verschieden (soda / pop, sneakers / tennis shoes ...)? Was sagen solche Wörter über Identität?"
+
+buffer: "Name the 16 states on a blank outline map (print separately), or a second round of Stadt-Land-Fluss."
+
+page:
+  modules:
+    einstieg: "Map of Germany: point, name, either/or questions"
+    input: "Sentence builder + narrow reading (Jan & Vroni, Dr. Lorenz & Mehmet) + Achte auf die Form"
+    kernaufgabe: "Deutschland-Puzzle: region jigsaw + trip plan"
+    landeskunde: "16 Länder, viele Identitäten"
+    energizer: "Stadt-Land-Fluss"
+    extension: "Ein Ding, viele Wörter: das Brötchen + 40-second comparison"
+    buffer: "Blank map of the 16 states, or more Stadt-Land-Fluss"
+  einstieg: "Put a large map of Germany (with Austria and Switzerland) on the screen or wall. Point and name: *Das ist Berlin. Berlin liegt im Osten. Das ist München. München liegt im Süden.* Then ask either/or questions: *Liegt Hamburg im Norden oder im Süden?* Students answer with one word."
+  materials:
+    - "Student packet, one per student"
+    - "A large map of Germany, Austria and Switzerland, projected or printed (needed for the Einstieg and the jigsaw)"
+    - "Optional: blank outline maps of the 16 states for the buffer"
+  summary: "Deutschland-Puzzle. In groups of four, each student reads one region card (Norden, Süden, Osten or Westen), explains it and points to it on the class map while the others fill in a comparison chart. Then the group plans a one-week trip with three stops in three regions and a reason for each. A1/A2 fill the chart with short answers; B1/B2 justify each stop with *weil* and compare regions with *während*."
+  note:
+    type: important
+    text: "You need a **map of Germany, Austria and Switzerland** that everyone can see; the packet doesn't include one. Any wall map or projected map works."
+  grammar: |
+    **Where something is.** *Liegen* (to lie, to be located) plus a location:
+
+    | Location | Example |
+    | :--- | :--- |
+    | im Norden / Süden / Osten / Westen | Hamburg liegt **im Norden**. |
+    | in der Mitte | Frankfurt liegt **in der Mitte** von Deutschland. |
+    | an + river or sea | Köln liegt **am** Rhein. Hamburg liegt **an der** Elbe. |
+    | in der Nähe von | München liegt **in der Nähe von** den Alpen. |
+
+    The compass words are all masculine, so it's *im* (= *in dem*) every time. Rivers have genders to learn: *der Rhein, der Main*, but *die Elbe, die Donau, die Spree*. That's why it's *am Rhein* but *an der Elbe*.
+  achtung: "**What students will do:** say *„in Norden“* (dropping the *m*) or *„Hamburg ist in dem Norden.“* Both are understood; restate with *im*. The Achte-auf-die-Form items have students identify a city from a location description, so they must process *im Norden, an der Elbe, in der Nähe von* as meaning, not just recite the phrases."
+  b2: "**If a B2 asks:** *in der Nähe der Alpen* (genitive) is the more formal version of *in der Nähe von den Alpen*. Swiss German (Schweizerdeutsch) is a group of dialects, not a separate language, but Germans often can't follow it. Austrian German has its own standard words (*Jänner* for January, *Paradeiser* for tomato)."
+  vocab_extra:
+    - ["der Dialekt", "dialect"]
+    - ["Hochdeutsch", "standard German"]
+    - ["der Hafen", "port, harbor"]
+    - ["der Dom", "cathedral"]
+    - ["liegen", "to be located"]
+    - ["die Mauer", "wall (the Berlin Wall)"]
