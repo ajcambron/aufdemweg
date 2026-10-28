@@ -23,7 +23,7 @@ German Sunday School at DSB Hall, 2026–27: high schoolers, one mixed class (A1
 - Word banks for fill-in-the-blank items are alphabetized and placed once, before the questions they serve.
 
 ## Site
-- Jekyll + Just the Docs 0.12 (via `github-pages`), deployed to GitHub Pages by `.github/workflows/pages.yml` on every push to `main` (repo Settings → Pages → Source: GitHub Actions). Custom domain aufdemweg.cambron.cc is set in those Pages settings; DNS is a CNAME to ajcambron.github.io. `CNAME` in the repo is informational.
+- Jekyll + Just the Docs 0.12 (via `github-pages`), deployed on Cloudflare Pages (`cloudflare.yml`), domain in `CNAME`.
 - Local build: `bundle exec jekyll serve` (if `bundle exec jekyll` isn't found, run the gem's `exe/jekyll` through `bundle exec ruby`).
 - Palette in `_sass/custom/setup.scss` matches digcom; keep that file plain ASCII. German text in Markdown and HTML is fine as UTF-8.
 - Fonts are self-hosted (`assets/fonts/`, Latin subset covers ä ö ü ß) via `assets/css/site-fonts.css`, shared by the site and the worksheet PDFs.
